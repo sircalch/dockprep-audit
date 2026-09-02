@@ -462,6 +462,8 @@ Material público previsto (compartido por ambos artículos):
 - Datos derivados, tablas, scripts de figuras y manifiestos.
 - No redistribuir coordenadas PDB si la práctica adecuada es recuperarlas desde sus fuentes; conservar identificadores, URLs y checksums.
 
+**Repositorio GitHub creado (2026-09-01):** https://github.com/sircalch/dockprep-audit (público, cuenta sircalch). Commit inicial con código, manuscrito, roadmap, y las tablas/manifiestos derivados del benchmark (~16 MB, 8620 archivos) -- coordenadas PDB originales, `*.pdbqt`, `vina.log`/`receptor_prep.log` y las carpetas `raw-pdb/`/`raw_graphql/` explícitamente excluidos vía `.gitignore`, siguiendo la política de no-redistribución ya declarada en la sección Data availability del manuscrito (identificadores PDB + checksums del manifiesto congelado bastan para regenerarlos). `manuscript/draft.md` actualizado con la URL real, reemplazando el placeholder `[DATA:]`. Pendiente aún: DOI de Zenodo (sección Data availability del manuscrito, segundo placeholder `[DATA:]`).
+
 ## 14. Herramientas futuras relacionadas
 
 Después de DockPrep Audit podrían desarrollarse, sin fragmentar artificialmente publicaciones:
