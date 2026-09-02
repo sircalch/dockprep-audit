@@ -1,0 +1,2 @@
+pdb_id,stratum,ligand_component_id,ligand_chain,ligand_resseq,status,ligand_instances,ligand_atoms,receptor_chains,receptor_chains_geometric,receptor_chains_override_reason,binding_site_waters_4A,nearest_altloc_A,nearest_metal_A,eligibility_status,issues
+1EED,water_policy,0EO,P,327,replacement_candidate,1,45,P,P,,10,,,pass,

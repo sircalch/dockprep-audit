@@ -1,0 +1,47 @@
+{
+  "input_smiles": "O=S(=O)(c1ccc(O)cc1O)N3Cc2cc(O)cc(O)c2C3",
+  "ph": 7.4,
+  "variants": [
+    "O=S(=O)(c1ccc(O)cc1[O-])[NH+]1Cc2cc([O-])cc(O)c2C1",
+    "O=S(=O)(c1ccc(O)cc1[O-])[NH+]1Cc2cc(O)cc(O)c2C1",
+    "O=S(=O)(c1ccc([O-])cc1[O-])[NH+]1Cc2cc([O-])cc([O-])c2C1",
+    "O=S(=O)(c1ccc(O)cc1O)[NH+]1Cc2cc([O-])cc([O-])c2C1",
+    "O=S(=O)(c1ccc(O)cc1[O-])N1Cc2cc([O-])cc([O-])c2C1",
+    "O=S(=O)(c1ccc(O)cc1[O-])[NH+]1Cc2cc([O-])cc([O-])c2C1",
+    "O=S(=O)(c1ccc([O-])cc1O)[NH+]1Cc2cc([O-])cc([O-])c2C1",
+    "O=S(=O)(c1ccc([O-])cc1O)[NH+]1Cc2cc(O)cc([O-])c2C1",
+    "O=S(=O)(c1ccc([O-])cc1[O-])[NH+]1Cc2cc(O)cc([O-])c2C1",
+    "O=S(=O)(c1ccc([O-])cc1[O-])[NH+]1Cc2cc([O-])cc(O)c2C1",
+    "O=S(=O)(c1ccc(O)cc1[O-])[NH+]1Cc2cc(O)cc([O-])c2C1",
+    "O=S(=O)(c1ccc([O-])cc1[O-])N1Cc2cc(O)cc(O)c2C1",
+    "O=S(=O)(c1ccc([O-])cc1O)N1Cc2cc([O-])cc(O)c2C1",
+    "O=S(=O)(c1ccc([O-])cc1[O-])[NH+]1Cc2cc(O)cc(O)c2C1",
+    "O=S(=O)(c1ccc(O)cc1[O-])N1Cc2cc(O)cc(O)c2C1",
+    "O=S(=O)(c1ccc(O)cc1O)[NH+]1Cc2cc(O)cc(O)c2C1",
+    "O=S(=O)(c1ccc([O-])cc1O)[NH+]1Cc2cc([O-])cc(O)c2C1",
+    "O=S(=O)(c1ccc(O)cc1O)N1Cc2cc(O)cc([O-])c2C1",
+    "O=S(=O)(c1ccc([O-])cc1[O-])N1Cc2cc([O-])cc([O-])c2C1",
+    "O=S(=O)(c1ccc([O-])cc1O)N1Cc2cc(O)cc(O)c2C1",
+    "O=S(=O)(c1ccc(O)cc1[O-])N1Cc2cc([O-])cc(O)c2C1",
+    "O=S(=O)(c1ccc(O)cc1O)N1Cc2cc([O-])cc([O-])c2C1",
+    "O=S(=O)(c1ccc(O)cc1O)N1Cc2cc(O)cc(O)c2C1",
+    "O=S(=O)(c1ccc([O-])cc1O)[NH+]1Cc2cc(O)cc(O)c2C1",
+    "O=S(=O)(c1ccc(O)cc1O)N1Cc2cc([O-])cc(O)c2C1",
+    "O=S(=O)(c1ccc([O-])cc1O)N1Cc2cc([O-])cc([O-])c2C1",
+    "O=S(=O)(c1ccc(O)cc1O)[NH+]1Cc2cc([O-])cc(O)c2C1",
+    "O=S(=O)(c1ccc([O-])cc1[O-])N1Cc2cc([O-])cc(O)c2C1",
+    "O=S(=O)(c1ccc(O)cc1O)[NH+]1Cc2cc(O)cc([O-])c2C1",
+    "O=S(=O)(c1ccc(O)cc1[O-])N1Cc2cc(O)cc([O-])c2C1",
+    "O=S(=O)(c1ccc([O-])cc1[O-])N1Cc2cc(O)cc([O-])c2C1",
+    "O=S(=O)(c1ccc([O-])cc1O)N1Cc2cc(O)cc([O-])c2C1"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "O=S(=O)(c1ccc(O)cc1[O-])[NH+]1Cc2cc([O-])cc(O)c2C1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "O=S(=O)(c1ccc(O)cc1[O-])[NH+]1Cc2cc([O-])cc(O)c2C1"
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "chain": "A",
+    "resseq": "1681",
+    "resname": "CYS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "1716",
+    "resname": "ASN",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "1734",
+    "resname": "ASN",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "1858",
+    "resname": "ARG",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "1929",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "1938",
+    "resname": "ASP",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  }
+]

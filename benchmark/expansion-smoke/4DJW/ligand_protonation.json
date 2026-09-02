@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=C3N(C(=[N@H])NC3(c2cc(c1cccnc1)ccc2)c4ccccc4)C",
+  "ph": 7.4,
+  "variants": [
+    "CN1C(=[NH2+])NC(c2ccccc2)(c2cccc(-c3cccnc3)c2)C1=O"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CN1C(=[NH2+])NC(c2ccccc2)(c2cccc(-c3cccnc3)c2)C1=O",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CN1C(=[NH2+])NC(c2ccccc2)(c2cccc(-c3cccnc3)c2)C1=O"
+}

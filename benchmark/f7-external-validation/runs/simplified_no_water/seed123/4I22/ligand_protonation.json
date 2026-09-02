@@ -1,0 +1,17 @@
+{
+  "input_smiles": "Fc1ccc(cc1Cl)Nc1ncnc2cc(OC)c(cc12)OCCCN1CCOCC1",
+  "ph": 7.4,
+  "variants": [
+    "COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1",
+    "COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCC[NH+]1CCOCC1"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1"
+}

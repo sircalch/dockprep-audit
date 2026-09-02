@@ -1,0 +1,66 @@
+{
+  "schema_version": "0.1",
+  "tool": {
+    "name": "DockPrep Audit",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-08-22T22:14:48.307490+00:00",
+  "source": {
+    "path": "benchmark\\expansion-batch5\\raw-pdb\\1WA1.pdb",
+    "format": "PDB",
+    "lines": 3573,
+    "atom_records": 2931
+  },
+  "summary": {
+    "status": "review_required",
+    "findings": 3,
+    "high": 1,
+    "medium": 2,
+    "low": 0
+  },
+  "findings": [
+    {
+      "code": "ALTLOC_PRESENT",
+      "severity": "high",
+      "message": "Alternate atom locations require a documented conformer-selection policy before docking.",
+      "count": 43,
+      "examples": [
+        "ARG X244",
+        "ASP X154",
+        "GLN X18",
+        "LYS X31",
+        "THR X36",
+        "VAL X235"
+      ]
+    },
+    {
+      "code": "WATERS_PRESENT",
+      "severity": "medium",
+      "message": "Retaining or removing waters is protocol-dependent; record the decision.",
+      "count": 352,
+      "examples": [
+        "HOH X2001",
+        "HOH X2002",
+        "HOH X2003",
+        "HOH X2004",
+        "HOH X2005",
+        "HOH X2006",
+        "HOH X2007",
+        "HOH X2008",
+        "HOH X2009",
+        "HOH X2010"
+      ]
+    },
+    {
+      "code": "METAL_PRESENT",
+      "severity": "medium",
+      "message": "Metal coordination and charge treatment should be documented.",
+      "count": 3,
+      "examples": [
+        "CU CU X501",
+        "CU CU X502",
+        "ZN ZN X503"
+      ]
+    }
+  ]
+}

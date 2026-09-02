@@ -1,0 +1,43 @@
+{
+  "pdb_id": "3B25",
+  "policy": "conservative_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3B25",
+    "ligand_heavy_atoms": 18,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.625,
+      2.14,
+      4.478,
+      2.193,
+      5.632,
+      2.997,
+      6.045,
+      6.031,
+      5.814
+    ],
+    "top_pose_rmsd_A": 0.625,
+    "best_pose_rmsd_A": 0.625,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:16",
+      "A:225"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 2,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 64.83955555555556,
+      "center_y": 11.892388888888888,
+      "center_z": 24.269222222222222,
+      "size_x": 9.36629831321476,
+      "size_y": 9.36629831321476,
+      "size_z": 9.36629831321476,
+      "radius_of_gyration_A": 3.23
+    }
+  }
+}

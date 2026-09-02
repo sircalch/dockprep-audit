@@ -1,0 +1,146 @@
+[1/72] 1M17 conservative_water seed=42
+    -> OK rmsd=8.315 outcome=sampling_fail
+[2/72] 1M17 conservative_water seed=123
+    -> OK rmsd=7.997 outcome=sampling_fail
+[3/72] 1M17 conservative_water seed=2024
+    -> OK rmsd=8.598 outcome=sampling_fail
+[4/72] 1M17 simplified_no_water seed=42
+    -> OK rmsd=7.967 outcome=sampling_fail
+[5/72] 1M17 simplified_no_water seed=123
+    -> OK rmsd=7.969 outcome=sampling_fail
+[6/72] 1M17 simplified_no_water seed=2024
+    -> OK rmsd=8.228 outcome=sampling_fail
+[7/72] 1T46 conservative_water seed=42
+    -> OK rmsd=0.831 outcome=success
+[8/72] 1T46 conservative_water seed=123
+    -> OK rmsd=0.258 outcome=success
+[9/72] 1T46 conservative_water seed=2024
+    -> OK rmsd=0.834 outcome=success
+[10/72] 1T46 simplified_no_water seed=42
+    -> OK rmsd=0.826 outcome=success
+[11/72] 1T46 simplified_no_water seed=123
+    -> OK rmsd=1.426 outcome=success
+[12/72] 1T46 simplified_no_water seed=2024
+    -> OK rmsd=0.83 outcome=success
+[13/72] 4RJ3 conservative_water seed=42
+    -> OK rmsd=0.47 outcome=success
+[14/72] 4RJ3 conservative_water seed=123
+    -> OK rmsd=0.46 outcome=success
+[15/72] 4RJ3 conservative_water seed=2024
+    -> OK rmsd=0.46 outcome=success
+[16/72] 4RJ3 simplified_no_water seed=42
+    -> OK rmsd=0.336 outcome=success
+[17/72] 4RJ3 simplified_no_water seed=123
+    -> OK rmsd=0.337 outcome=success
+[18/72] 4RJ3 simplified_no_water seed=2024
+    -> OK rmsd=0.42 outcome=success
+[19/72] 5A2S conservative_water seed=42
+    -> OK rmsd=1.571 outcome=success
+[20/72] 5A2S conservative_water seed=123
+    -> OK rmsd=1.559 outcome=success
+[21/72] 5A2S conservative_water seed=2024
+    -> OK rmsd=1.584 outcome=success
+[22/72] 5A2S simplified_no_water seed=42
+    -> OK rmsd=1.571 outcome=success
+[23/72] 5A2S simplified_no_water seed=123
+    -> OK rmsd=1.559 outcome=success
+[24/72] 5A2S simplified_no_water seed=2024
+    -> OK rmsd=1.584 outcome=success
+[25/72] 1CBX conservative_water seed=42
+    -> OK rmsd=1.42 outcome=success
+[26/72] 1CBX conservative_water seed=123
+    -> OK rmsd=1.403 outcome=success
+[27/72] 1CBX conservative_water seed=2024
+    -> OK rmsd=1.416 outcome=success
+[28/72] 1CBX simplified_no_water seed=42
+    -> OK rmsd=1.42 outcome=success
+[29/72] 1CBX simplified_no_water seed=123
+    -> OK rmsd=1.403 outcome=success
+[30/72] 1CBX simplified_no_water seed=2024
+    -> OK rmsd=1.416 outcome=success
+[31/72] 4EXS conservative_water seed=42
+    -> OK rmsd=2.714 outcome=sampling_fail
+[32/72] 4EXS conservative_water seed=123
+    -> OK rmsd=2.67 outcome=sampling_fail
+[33/72] 4EXS conservative_water seed=2024
+    -> OK rmsd=2.449 outcome=sampling_fail
+[34/72] 4EXS simplified_no_water seed=42
+    -> OK rmsd=2.714 outcome=sampling_fail
+[35/72] 4EXS simplified_no_water seed=123
+    -> OK rmsd=2.67 outcome=sampling_fail
+[36/72] 4EXS simplified_no_water seed=2024
+    -> OK rmsd=2.481 outcome=sampling_fail
+[37/72] 1OHR conservative_water seed=42
+    -> OK rmsd=0.831 outcome=success
+[38/72] 1OHR conservative_water seed=123
+    -> OK rmsd=0.824 outcome=success
+[39/72] 1OHR conservative_water seed=2024
+    -> OK rmsd=0.853 outcome=success
+[40/72] 1OHR simplified_no_water seed=42
+    -> OK rmsd=0.839 outcome=success
+[41/72] 1OHR simplified_no_water seed=123
+    -> OK rmsd=0.77 outcome=success
+[42/72] 1OHR simplified_no_water seed=2024
+    -> OK rmsd=0.794 outcome=success
+[43/72] 3FNU conservative_water seed=42
+    -> OK rmsd=4.504 outcome=sampling_fail
+[44/72] 3FNU conservative_water seed=123
+    -> OK rmsd=4.502 outcome=sampling_fail
+[45/72] 3FNU conservative_water seed=2024
+    -> OK rmsd=4.536 outcome=sampling_fail
+[46/72] 3FNU simplified_no_water seed=42
+    -> OK rmsd=4.504 outcome=sampling_fail
+[47/72] 3FNU simplified_no_water seed=123
+    -> OK rmsd=7.919 outcome=sampling_fail
+[48/72] 3FNU simplified_no_water seed=2024
+    -> OK rmsd=4.513 outcome=sampling_fail
+[49/72] 4GID conservative_water seed=42
+    -> OK rmsd=2.681 outcome=scoring_fail
+[50/72] 4GID conservative_water seed=123
+    -> OK rmsd=2.684 outcome=scoring_fail
+[51/72] 4GID conservative_water seed=2024
+    -> OK rmsd=2.677 outcome=sampling_fail
+[52/72] 4GID simplified_no_water seed=42
+    -> OK rmsd=2.643 outcome=sampling_fail
+[53/72] 4GID simplified_no_water seed=123
+    -> OK rmsd=2.669 outcome=sampling_fail
+[54/72] 4GID simplified_no_water seed=2024
+    -> OK rmsd=2.631 outcome=scoring_fail
+[55/72] 1A28 conservative_water seed=42
+    -> OK rmsd=0.357 outcome=success
+[56/72] 1A28 conservative_water seed=123
+    -> OK rmsd=0.356 outcome=success
+[57/72] 1A28 conservative_water seed=2024
+    -> OK rmsd=0.297 outcome=success
+[58/72] 1A28 simplified_no_water seed=42
+    -> OK rmsd=0.357 outcome=success
+[59/72] 1A28 simplified_no_water seed=123
+    -> OK rmsd=0.356 outcome=success
+[60/72] 1A28 simplified_no_water seed=2024
+    -> OK rmsd=0.297 outcome=success
+[61/72] 1QKT conservative_water seed=42
+    -> OK rmsd=1.917 outcome=success
+[62/72] 1QKT conservative_water seed=123
+    -> OK rmsd=6.251 outcome=scoring_fail
+[63/72] 1QKT conservative_water seed=2024
+    -> OK rmsd=6.245 outcome=scoring_fail
+[64/72] 1QKT simplified_no_water seed=42
+    -> OK rmsd=1.92 outcome=success
+[65/72] 1QKT simplified_no_water seed=123
+    -> OK rmsd=6.242 outcome=scoring_fail
+[66/72] 1QKT simplified_no_water seed=2024
+    -> OK rmsd=1.917 outcome=success
+[67/72] 1RBP conservative_water seed=42
+    -> OK rmsd=0.709 outcome=success
+[68/72] 1RBP conservative_water seed=123
+    -> OK rmsd=0.704 outcome=success
+[69/72] 1RBP conservative_water seed=2024
+    -> OK rmsd=0.702 outcome=success
+[70/72] 1RBP simplified_no_water seed=42
+    -> OK rmsd=0.709 outcome=success
+[71/72] 1RBP simplified_no_water seed=123
+    -> OK rmsd=0.704 outcome=success
+[72/72] 1RBP simplified_no_water seed=2024
+    -> OK rmsd=0.702 outcome=success
+
+Wrote C:\Users\Andre\OneDrive\Documents\ChatGPT\Zenodo y cuentas\dockprep-audit\benchmark\phase-c\phase_c_summary.csv

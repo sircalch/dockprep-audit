@@ -1,0 +1,59 @@
+{
+  "pdb_id": "5F4N",
+  "altloc_policy": "highest_occupancy",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "5F4N",
+    "ligand_heavy_atoms": 27,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      1.001,
+      0.796,
+      5.156,
+      6.913,
+      7.086,
+      7.528,
+      7.832,
+      7.989
+    ],
+    "top_pose_rmsd_A": 1.001,
+    "best_pose_rmsd_A": 0.796,
+    "best_pose_rank": 2,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:7",
+      "A:8",
+      "A:17",
+      "A:20",
+      "A:22",
+      "A:24",
+      "A:41",
+      "A:51",
+      "A:53",
+      "A:60",
+      "A:74",
+      "A:75",
+      "A:76",
+      "A:78",
+      "A:79",
+      "A:141",
+      "A:166",
+      "A:180",
+      "A:232",
+      "A:271"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "box": {
+      "center_x": 16.180555555555557,
+      "center_y": -1.847074074074074,
+      "center_z": 10.889888888888889,
+      "size_x": 11.829288562946612,
+      "size_y": 11.829288562946612,
+      "size_z": 11.829288562946612,
+      "radius_of_gyration_A": 4.079
+    }
+  }
+}

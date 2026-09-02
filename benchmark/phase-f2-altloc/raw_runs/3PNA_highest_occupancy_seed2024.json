@@ -1,0 +1,40 @@
+{
+  "pdb_id": "3PNA",
+  "altloc_policy": "highest_occupancy",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3PNA",
+    "ligand_heavy_atoms": 22,
+    "n_poses": 6,
+    "rmsd_by_rank_A": [
+      6.616,
+      3.995,
+      6.621,
+      4.123,
+      6.516,
+      6.279
+    ],
+    "top_pose_rmsd_A": 6.616,
+    "best_pose_rmsd_A": 3.995,
+    "best_pose_rank": 2,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [
+      "A:112",
+      "A:239",
+      "A:240"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "box": {
+      "center_x": 29.580045454545452,
+      "center_y": 1.8700454545454546,
+      "center_z": 2.468681818181818,
+      "size_x": 9.824492262647587,
+      "size_y": 9.824492262647587,
+      "size_z": 9.824492262647587,
+      "radius_of_gyration_A": 3.388
+    }
+  }
+}

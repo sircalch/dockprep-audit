@@ -1,0 +1,302 @@
+[
+  {
+    "chain": "A",
+    "resseq": "113",
+    "resname": "MET",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "119",
+    "resname": "ASN",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "129",
+    "resname": "ARG",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "134",
+    "resname": "ILE",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "139",
+    "resname": "LYS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "140",
+    "resname": "PRO",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "141",
+    "resname": "ASN",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "143",
+    "resname": "ASN",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "147",
+    "resname": "LEU",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "150",
+    "resname": "GLN",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "168",
+    "resname": "ARG",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "169",
+    "resname": "ARG",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "183",
+    "resname": "ARG",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "188",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "193",
+    "resname": "GLU",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "194",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "196",
+    "resname": "LYS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "205",
+    "resname": "GLU",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "207",
+    "resname": "ASP",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "208",
+    "resname": "HIS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "226",
+    "resname": "LYS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "232",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "233",
+    "resname": "LYS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "236",
+    "resname": "ILE",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "249",
+    "resname": "MET",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  }
+]

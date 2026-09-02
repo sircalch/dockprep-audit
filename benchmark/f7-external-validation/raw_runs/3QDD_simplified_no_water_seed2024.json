@@ -1,0 +1,40 @@
+{
+  "pdb_id": "3QDD",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3QDD",
+    "ligand_heavy_atoms": 22,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.507,
+      2.098,
+      1.246,
+      6.924,
+      6.62,
+      2.715,
+      6.624,
+      3.096,
+      3.621
+    ],
+    "top_pose_rmsd_A": 0.507,
+    "best_pose_rmsd_A": 0.507,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -2.413272727272727,
+      "center_y": 33.385681818181816,
+      "center_z": 24.946818181818184,
+      "size_x": 10.261808115577377,
+      "size_y": 10.261808115577377,
+      "size_z": 10.261808115577377,
+      "radius_of_gyration_A": 3.539
+    }
+  }
+}

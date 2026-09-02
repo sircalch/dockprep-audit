@@ -1,0 +1,74 @@
+[
+  {
+    "chain": "A",
+    "resseq": "84",
+    "resname": "HIS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "B",
+    "basis": "tie_break_last_letter",
+    "policy": "lowest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "177",
+    "resname": "CYS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "B",
+    "basis": "tie_break_last_letter",
+    "policy": "lowest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "179",
+    "resname": "TYR",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "B",
+    "basis": "tie_break_last_letter",
+    "policy": "lowest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "180",
+    "resname": "TYR",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "B",
+    "basis": "tie_break_last_letter",
+    "policy": "lowest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "232",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "B",
+    "basis": "tie_break_last_letter",
+    "policy": "lowest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "264",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "B",
+    "basis": "tie_break_last_letter",
+    "policy": "lowest_occupancy"
+  }
+]

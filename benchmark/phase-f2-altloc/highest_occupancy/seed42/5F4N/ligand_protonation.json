@@ -1,0 +1,17 @@
+{
+  "input_smiles": "COC(=O)c1cnc(Nc2cnc(cn2)C#N)cc1NC[CH]3CNCCO3",
+  "ph": 7.4,
+  "variants": [
+    "COC(=O)c1cnc(Nc2cnc(C#N)cn2)cc1NCC1C[NH2+]CCO1",
+    "COC(=O)c1cnc(Nc2cnc(C#N)cn2)cc1NCC1CNCCO1"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "COC(=O)c1cnc(Nc2cnc(C#N)cn2)cc1NCC1C[NH2+]CCO1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "COC(=O)c1cnc(Nc2cnc(C#N)cn2)cc1NCC1C[NH2+]CCO1"
+}

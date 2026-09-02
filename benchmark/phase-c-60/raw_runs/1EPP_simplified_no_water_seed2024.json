@@ -1,0 +1,37 @@
+{
+  "pdb_id": "1EPP",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1EPP",
+    "ligand_heavy_atoms": 47,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      11.939,
+      10.006,
+      9.975,
+      12.167,
+      10.177,
+      9.96,
+      12.555,
+      12.992
+    ],
+    "top_pose_rmsd_A": 11.939,
+    "best_pose_rmsd_A": 9.96,
+    "best_pose_rank": 6,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 3.2132765957446807,
+      "center_y": 31.3171914893617,
+      "center_z": 16.644212765957448,
+      "size_x": 17.180677350326068,
+      "size_y": 17.180677350326068,
+      "size_z": 17.180677350326068,
+      "radius_of_gyration_A": 5.924
+    }
+  }
+}

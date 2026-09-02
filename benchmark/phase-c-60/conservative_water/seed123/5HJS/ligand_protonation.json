@@ -1,0 +1,19 @@
+{
+  "input_smiles": "FC(C(C(N3CCC(C1CCN(CC1)c2cc(Cl)c(C(N(C)C)=O)cc2)CC3)=O)(C(C)C)O)(F)F",
+  "ph": 7.4,
+  "variants": [
+    "CC(C)C(O)(C(=O)N1CCC(C2CCN(c3ccc(C(=O)N(C)C)c(Cl)c3)CC2)CC1)C(F)(F)F",
+    "CC(C)C(O)(C(=O)N1CCC(C2CCN(c3ccc(C(=O)[NH+](C)C)c(Cl)c3)CC2)CC1)C(F)(F)F",
+    "CC(C)C(O)(C(=O)[NH+]1CCC(C2CCN(c3ccc(C(=O)N(C)C)c(Cl)c3)CC2)CC1)C(F)(F)F",
+    "CC(C)C(O)(C(=O)[NH+]1CCC(C2CCN(c3ccc(C(=O)[NH+](C)C)c(Cl)c3)CC2)CC1)C(F)(F)F"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "CC(C)C(O)(C(=O)N1CCC(C2CCN(c3ccc(C(=O)N(C)C)c(Cl)c3)CC2)CC1)C(F)(F)F",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CC(C)C(O)(C(=O)N1CCC(C2CCN(c3ccc(C(=O)N(C)C)c(Cl)c3)CC2)CC1)C(F)(F)F"
+}

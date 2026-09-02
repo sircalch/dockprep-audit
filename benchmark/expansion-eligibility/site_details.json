@@ -1,0 +1,1140 @@
+{
+  "1M17": {
+    "ligand_instances": [
+      "A:999"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:10"
+    ],
+    "issues": []
+  },
+  "1T46": {
+    "ligand_instances": [
+      "A:3"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1024",
+      "A:1025",
+      "A:1053",
+      "A:1105",
+      "A:1106",
+      "A:1108",
+      "A:1110",
+      "A:1187",
+      "A:994",
+      "A:995"
+    ],
+    "issues": []
+  },
+  "4RJ3": {
+    "ligand_instances": [
+      "A:302"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:483",
+      "A:485",
+      "A:533",
+      "A:549",
+      "A:552"
+    ],
+    "issues": []
+  },
+  "5A2S": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:2001"
+    ],
+    "issues": []
+  },
+  "1CBX": {
+    "ligand_instances": [
+      "A:500"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:660",
+      "A:661",
+      "A:663"
+    ],
+    "issues": []
+  },
+  "4EXS": {
+    "ligand_instances": [
+      "A:301"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [],
+    "issues": []
+  },
+  "1OHR": {
+    "ligand_instances": [
+      "A:201"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "A",
+      "B"
+    ],
+    "binding_site_waters": [
+      "A:303",
+      "A:307",
+      "A:315",
+      "A:510",
+      "B:422"
+    ],
+    "issues": []
+  },
+  "3FNU": {
+    "ligand_instances": [
+      "A:329"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:332",
+      "A:339",
+      "A:349",
+      "A:351"
+    ],
+    "issues": []
+  },
+  "4GID": {
+    "ligand_instances": [
+      "A:501"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:619",
+      "A:628",
+      "A:638",
+      "A:655",
+      "A:661",
+      "A:663",
+      "A:664",
+      "A:670",
+      "A:692",
+      "A:722",
+      "A:735",
+      "A:780",
+      "A:875",
+      "A:886"
+    ],
+    "issues": []
+  },
+  "1A28": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1004"
+    ],
+    "issues": []
+  },
+  "1QKT": {
+    "ligand_instances": [
+      "A:600"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:796",
+      "A:830",
+      "A:958"
+    ],
+    "issues": []
+  },
+  "1RBP": {
+    "ligand_instances": [
+      "A:183"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:218",
+      "A:313"
+    ],
+    "issues": []
+  },
+  "3PNA": {
+    "ligand_instances": [
+      "A:250"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:13",
+      "A:275",
+      "A:30",
+      "A:327",
+      "A:49"
+    ],
+    "issues": []
+  },
+  "3KXG": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:344",
+      "A:489",
+      "A:543",
+      "A:547"
+    ],
+    "issues": []
+  },
+  "3MWU": {
+    "ligand_instances": [
+      "A:561"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:610",
+      "A:630"
+    ],
+    "issues": []
+  },
+  "5K8S": {
+    "ligand_instances": [
+      "A:501"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:625",
+      "A:676",
+      "A:682"
+    ],
+    "issues": []
+  },
+  "3P0M": {
+    "ligand_instances": [
+      "A:351"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "A",
+      "B"
+    ],
+    "binding_site_waters": [
+      "A:382",
+      "A:384",
+      "A:412",
+      "A:462",
+      "A:471",
+      "A:493",
+      "A:512",
+      "B:172"
+    ],
+    "issues": []
+  },
+  "2I4H": {
+    "ligand_instances": [
+      "A:401"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:125",
+      "A:25",
+      "A:8"
+    ],
+    "issues": []
+  },
+  "5E0J": {
+    "ligand_instances": [
+      "A:204"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:302",
+      "A:312",
+      "A:324",
+      "A:349",
+      "A:395",
+      "A:406"
+    ],
+    "issues": []
+  },
+  "5TG1": {
+    "ligand_instances": [
+      "A:203"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:337",
+      "A:369",
+      "A:385"
+    ],
+    "issues": []
+  },
+  "1E6U": {
+    "ligand_instances": [
+      "A:1318"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:2026",
+      "A:2092",
+      "A:2214",
+      "A:2365",
+      "A:2366"
+    ],
+    "issues": []
+  },
+  "1E7S": {
+    "ligand_instances": [
+      "A:1318"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:2001",
+      "A:2407",
+      "A:2408",
+      "A:2409",
+      "A:2410"
+    ],
+    "issues": []
+  },
+  "3LXE": {
+    "ligand_instances": [
+      "A:262"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:442",
+      "A:457",
+      "A:465",
+      "A:467"
+    ],
+    "issues": []
+  },
+  "6ZR9": {
+    "ligand_instances": [
+      "A:302"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:408",
+      "A:417",
+      "A:427",
+      "A:458",
+      "A:493"
+    ],
+    "issues": []
+  },
+  "1Z9Y": {
+    "ligand_instances": [
+      "A:500"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:2037",
+      "A:2048",
+      "A:2192",
+      "A:2199",
+      "A:2201"
+    ],
+    "issues": []
+  },
+  "3IBI": {
+    "ligand_instances": [
+      "A:300"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [],
+    "issues": []
+  },
+  "1O86": {
+    "ligand_instances": [
+      "A:702"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:2021",
+      "A:2029",
+      "A:2054",
+      "A:2150",
+      "A:2156",
+      "A:2157",
+      "A:2179",
+      "A:2311",
+      "A:2365",
+      "A:2392",
+      "A:2393",
+      "A:2409",
+      "A:2481",
+      "A:2567",
+      "A:2568",
+      "A:2569",
+      "A:2570"
+    ],
+    "issues": []
+  },
+  "1UZE": {
+    "ligand_instances": [
+      "A:3002"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:2010",
+      "A:2015",
+      "A:2018",
+      "A:2241",
+      "A:2278",
+      "A:2281",
+      "A:2320",
+      "A:2378",
+      "A:2455",
+      "A:2456"
+    ],
+    "issues": []
+  },
+  "1DTH": {
+    "ligand_instances": [
+      "A:972"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [],
+    "issues": []
+  },
+  "4G9L": {
+    "ligand_instances": [
+      "B:307"
+    ],
+    "receptor_chains": [
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "B"
+    ],
+    "binding_site_waters": [
+      "B:423"
+    ],
+    "issues": []
+  },
+  "4JA1": {
+    "ligand_instances": [
+      "B:306"
+    ],
+    "receptor_chains": [
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "B"
+    ],
+    "binding_site_waters": [
+      "B:437"
+    ],
+    "issues": []
+  },
+  "6TMN": {
+    "ligand_instances": [
+      "E:317"
+    ],
+    "receptor_chains": [
+      "E"
+    ],
+    "receptor_chains_geometric": [
+      "E"
+    ],
+    "binding_site_waters": [
+      "E:323",
+      "E:399",
+      "E:484",
+      "E:485",
+      "E:487",
+      "E:488",
+      "E:489",
+      "E:491",
+      "E:492"
+    ],
+    "issues": []
+  },
+  "1KJO": {
+    "ligand_instances": [
+      "A:1317"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1413",
+      "A:1414",
+      "A:1439"
+    ],
+    "issues": []
+  },
+  "4RSY": {
+    "ligand_instances": [
+      "A:701"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:807",
+      "A:818",
+      "A:887",
+      "A:897",
+      "A:928"
+    ],
+    "issues": []
+  },
+  "1EED": {
+    "ligand_instances": [
+      "P:327"
+    ],
+    "receptor_chains": [
+      "P"
+    ],
+    "receptor_chains_geometric": [
+      "P"
+    ],
+    "binding_site_waters": [
+      "P:329",
+      "P:330",
+      "P:332",
+      "P:333",
+      "P:592",
+      "P:596",
+      "P:600",
+      "P:602",
+      "P:603",
+      "P:604"
+    ],
+    "issues": []
+  },
+  "1WBM": {
+    "ligand_instances": [
+      "B:1100"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "A",
+      "B"
+    ],
+    "binding_site_waters": [
+      "A:2004",
+      "A:2012",
+      "A:2014",
+      "A:2016",
+      "A:2024",
+      "B:2018",
+      "B:2021",
+      "B:2030",
+      "B:2031",
+      "B:2057"
+    ],
+    "issues": []
+  },
+  "3KM4": {
+    "ligand_instances": [
+      "A:400"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "A",
+      "B"
+    ],
+    "binding_site_waters": [
+      "A:391",
+      "A:427",
+      "A:438",
+      "A:489"
+    ],
+    "issues": []
+  },
+  "4DJW": {
+    "ligand_instances": [
+      "A:501"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1028",
+      "A:1033",
+      "A:1043",
+      "A:1044",
+      "A:1045",
+      "A:1053"
+    ],
+    "issues": []
+  },
+  "6ASH": {
+    "ligand_instances": [
+      "A:301"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:405",
+      "A:427",
+      "A:457",
+      "A:493",
+      "A:591",
+      "A:596",
+      "A:600"
+    ],
+    "issues": []
+  },
+  "1EPP": {
+    "ligand_instances": [
+      "E:333"
+    ],
+    "receptor_chains": [
+      "E"
+    ],
+    "receptor_chains_geometric": [
+      "E"
+    ],
+    "binding_site_waters": [
+      "E:335",
+      "E:338",
+      "E:339",
+      "E:341",
+      "E:342",
+      "E:354",
+      "E:526",
+      "E:548",
+      "E:560"
+    ],
+    "issues": []
+  },
+  "1QRP": {
+    "ligand_instances": [
+      "E:327"
+    ],
+    "receptor_chains": [
+      "E"
+    ],
+    "receptor_chains_geometric": [
+      "E"
+    ],
+    "binding_site_waters": [
+      "E:330",
+      "E:339",
+      "E:424",
+      "E:443",
+      "E:461"
+    ],
+    "issues": []
+  },
+  "1PPM": {
+    "ligand_instances": [
+      "E:324"
+    ],
+    "receptor_chains": [
+      "E"
+    ],
+    "receptor_chains_geometric": [
+      "E"
+    ],
+    "binding_site_waters": [
+      "E:401",
+      "E:466",
+      "E:468",
+      "E:490",
+      "E:499",
+      "E:500",
+      "E:504",
+      "E:569",
+      "E:636",
+      "E:637"
+    ],
+    "issues": []
+  },
+  "1HRN": {
+    "ligand_instances": [
+      "A:391"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1037",
+      "A:1049",
+      "A:866",
+      "A:871",
+      "A:912",
+      "A:926",
+      "A:987"
+    ],
+    "issues": []
+  },
+  "1CVZ": {
+    "ligand_instances": [
+      "A:213"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:267",
+      "A:273",
+      "A:274"
+    ],
+    "issues": []
+  },
+  "2F25": {
+    "ligand_instances": [
+      "A:1001"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1019",
+      "A:1031",
+      "A:1033",
+      "A:1046",
+      "A:1047",
+      "A:1097",
+      "A:1127",
+      "A:1132",
+      "A:1193"
+    ],
+    "issues": []
+  },
+  "1GS4": {
+    "ligand_instances": [
+      "A:1918"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:2038",
+      "A:2104"
+    ],
+    "issues": []
+  },
+  "2OZ7": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:108"
+    ],
+    "issues": []
+  },
+  "3NOA": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [],
+    "issues": []
+  },
+  "6D8X": {
+    "ligand_instances": [
+      "A:501"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:667",
+      "A:703",
+      "A:706",
+      "A:742"
+    ],
+    "issues": []
+  },
+  "3GZ9": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:120",
+      "A:127",
+      "A:21"
+    ],
+    "issues": []
+  },
+  "1SN5": {
+    "ligand_instances": [
+      "C:601"
+    ],
+    "receptor_chains": [
+      "A",
+      "C"
+    ],
+    "receptor_chains_geometric": [
+      "A",
+      "C"
+    ],
+    "binding_site_waters": [
+      "A:714",
+      "A:733",
+      "A:757",
+      "C:613",
+      "C:660",
+      "C:662",
+      "C:671"
+    ],
+    "issues": []
+  },
+  "1G5Y": {
+    "ligand_instances": [
+      "B:501"
+    ],
+    "receptor_chains": [
+      "B",
+      "D"
+    ],
+    "receptor_chains_geometric": [
+      "B",
+      "D"
+    ],
+    "binding_site_waters": [
+      "B:551",
+      "B:599",
+      "B:619",
+      "B:632"
+    ],
+    "issues": []
+  },
+  "1IE9": {
+    "ligand_instances": [
+      "A:500"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:508"
+    ],
+    "issues": []
+  },
+  "3BEJ": {
+    "ligand_instances": [
+      "A:473"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:485",
+      "A:508",
+      "A:570",
+      "A:572"
+    ],
+    "issues": []
+  },
+  "3L1B": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:39"
+    ],
+    "issues": []
+  },
+  "5HJS": {
+    "ligand_instances": [
+      "A:301"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:449",
+      "A:513"
+    ],
+    "issues": []
+  },
+  "3KMR": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:14",
+      "A:15"
+    ],
+    "issues": []
+  },
+  "3D14": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:435",
+      "A:457",
+      "A:471",
+      "A:519",
+      "A:568"
+    ],
+    "issues": []
+  },
+  "5F4N": {
+    "ligand_instances": [
+      "A:301"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:425",
+      "A:458",
+      "A:497",
+      "A:521",
+      "A:534",
+      "A:535",
+      "A:541",
+      "A:573",
+      "A:616",
+      "A:626",
+      "A:650"
+    ],
+    "issues": []
+  },
+  "1WBK": {
+    "ligand_instances": [
+      "B:1100"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "A",
+      "B"
+    ],
+    "binding_site_waters": [
+      "A:2005",
+      "A:2007",
+      "A:2009",
+      "A:2019",
+      "B:2022",
+      "B:2023",
+      "B:2049"
+    ],
+    "issues": []
+  }
+}

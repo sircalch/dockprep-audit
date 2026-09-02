@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=C(CO)C3(O)C2(CC(O)C4(F)C1(C(=CC(=O)CC1)CCC4C2CC3)C)C",
+  "ph": 7.4,
+  "variants": [
+    "CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F"
+}

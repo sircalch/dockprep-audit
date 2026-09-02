@@ -1,0 +1,38 @@
+{
+  "pdb_id": "2F25",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "2F25",
+    "ligand_heavy_atoms": 20,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.47,
+      4.399,
+      4.663,
+      4.684,
+      4.337,
+      5.152,
+      4.809,
+      4.984,
+      5.081
+    ],
+    "top_pose_rmsd_A": 0.47,
+    "best_pose_rmsd_A": 0.47,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 66.9438,
+      "center_y": -5.9479,
+      "center_z": 8.28125,
+      "size_x": 9.320952810489654,
+      "size_y": 9.320952810489654,
+      "size_z": 9.320952810489654,
+      "radius_of_gyration_A": 3.214
+    }
+  }
+}

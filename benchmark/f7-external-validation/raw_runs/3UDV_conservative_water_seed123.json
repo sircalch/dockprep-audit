@@ -1,0 +1,40 @@
+{
+  "pdb_id": "3UDV",
+  "policy": "conservative_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3UDV",
+    "ligand_heavy_atoms": 44,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      2.437,
+      3.373,
+      2.833,
+      2.905,
+      0.726,
+      3.605,
+      1.849,
+      2.791,
+      3.273
+    ],
+    "top_pose_rmsd_A": 2.437,
+    "best_pose_rmsd_A": 0.726,
+    "best_pose_rank": 5,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 4.9981136363636365,
+      "center_y": 20.379363636363635,
+      "center_z": 11.168931818181818,
+      "size_x": 19.422790890700387,
+      "size_y": 19.422790890700387,
+      "size_z": 19.422790890700387,
+      "radius_of_gyration_A": 6.698
+    }
+  }
+}

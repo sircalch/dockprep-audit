@@ -1,0 +1,38 @@
+[
+  {
+    "chain": "A",
+    "resseq": "1880",
+    "resname": "MET",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "1902",
+    "resname": "LYS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "1945",
+    "resname": "GLU",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  }
+]

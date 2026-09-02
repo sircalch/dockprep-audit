@@ -1,0 +1,101 @@
+[
+  {
+    "chain": "A",
+    "resseq": "189",
+    "resname": "HIS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "218",
+    "resname": "ARG",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "233",
+    "resname": "ARG",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "239",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "258",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "276",
+    "resname": "LEU",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "321",
+    "resname": "GLU",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "363",
+    "resname": "ASP",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "375",
+    "resname": "ARG",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  }
+]

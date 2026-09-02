@@ -1,0 +1,21 @@
+[
+  {
+    "chain": "B",
+    "resseq": "2049",
+    "oxygen_coord": [
+      11.557,
+      21.173,
+      6.627
+    ],
+    "nearest_ligand_atom": [
+      10.651,
+      23.746,
+      6.036
+    ],
+    "nearest_protein_atom": [
+      9.345,
+      19.74,
+      5.431
+    ]
+  }
+]

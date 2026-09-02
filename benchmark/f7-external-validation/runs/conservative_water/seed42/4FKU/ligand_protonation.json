@@ -1,0 +1,22 @@
+{
+  "input_smiles": "O=S(=O)(N)c1ccc(cc1)N/N=C3/c2cc(ccc2NC3=O)C(=O)O",
+  "ph": 7.4,
+  "variants": [
+    "NS(=O)(=O)c1ccc(N/N=C2\\C(=O)Nc3ccc(C(=O)[O-])cc32)cc1",
+    "[NH-]S(=O)(=O)c1ccc(N/N=C2\\C(=O)Nc3ccc(C(=O)[O-])cc32)cc1"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "NS(=O)(=O)c1ccc(N/N=C2\\C(=O)Nc3ccc(C(=O)[O-])cc32)cc1",
+      "ok": false,
+      "error": "Explicit valence for atom # 14 O, 3, is greater than permitted"
+    },
+    {
+      "smiles": "[NH-]S(=O)(=O)c1ccc(N/N=C2\\C(=O)Nc3ccc(C(=O)[O-])cc32)cc1",
+      "ok": false,
+      "error": "Explicit valence for atom # 2 N, 4, is greater than permitted"
+    }
+  ],
+  "chosen_smiles": null
+}

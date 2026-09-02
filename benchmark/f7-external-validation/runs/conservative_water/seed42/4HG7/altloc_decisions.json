@@ -1,0 +1,110 @@
+[
+  {
+    "chain": "A",
+    "resseq": "22",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.8,
+      "B": 0.2
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "25",
+    "resname": "GLU",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "37",
+    "resname": "LEU",
+    "occupancies": {
+      "A": 0.8,
+      "B": 0.2
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "39",
+    "resname": "LYS",
+    "occupancies": {
+      "A": 0.8,
+      "B": 0.2
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "51",
+    "resname": "LYS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "57",
+    "resname": "LEU",
+    "occupancies": {
+      "A": 0.8,
+      "B": 0.2
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "59",
+    "resname": "GLN",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "78",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "95",
+    "resname": "GLU",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A",
+    "policy": "highest_occupancy"
+  }
+]

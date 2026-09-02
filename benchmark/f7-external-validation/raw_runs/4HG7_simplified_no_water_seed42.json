@@ -1,0 +1,40 @@
+{
+  "pdb_id": "4HG7",
+  "policy": "simplified_no_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "4HG7",
+    "ligand_heavy_atoms": 40,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      6.398,
+      6.12,
+      5.763,
+      1.016,
+      2.628,
+      5.37,
+      4.982,
+      5.927,
+      6.086
+    ],
+    "top_pose_rmsd_A": 6.398,
+    "best_pose_rmsd_A": 1.016,
+    "best_pose_rank": 4,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -23.834600000000002,
+      "center_y": 7.5297,
+      "center_z": -14.05275,
+      "size_x": 12.639215520667214,
+      "size_y": 12.639215520667214,
+      "size_z": 12.639215520667214,
+      "radius_of_gyration_A": 4.358
+    }
+  }
+}

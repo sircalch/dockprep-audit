@@ -1,0 +1,7 @@
+{
+  "pdb_id": "1QPC",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 1,
+  "stderr_tail": "Traceback (most recent call last):\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 851, in <module>\n    main()\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 832, in main\n    result = run_case(\n             ^^^^^^^^^\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 741, in run_case\n    ligand_pdb_to_sdf(ligand_raw, component_id, ligand_sdf,\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 536, in ligand_pdb_to_sdf\n    raise ValueError(f\"No protonation variant for {component_id} could be built: {attempts}\")\nValueError: No protonation variant for ANP could be built: [{'smiles': 'Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)NP(=O)([O-])O)C(O)C1O', 'ok': False, 'error': 'No matching found'}, {'smiles': 'Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)NP(=O)([O-])[O-])C(O)C1O', 'ok': False, 'error': 'No matching found'}]\n"
+}

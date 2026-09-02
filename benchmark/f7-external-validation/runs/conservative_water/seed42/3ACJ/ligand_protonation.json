@@ -1,0 +1,16 @@
+{
+  "input_smiles": "CCSc1nc(cc2nccn12)c3ccc(OC)c(OC)c3",
+  "ph": 7.4,
+  "variants": [
+    "CCSc1nc(-c2ccc(OC)c(OC)c2)cc2nccn12"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CCSc1nc(-c2ccc(OC)c(OC)c2)cc2nccn12",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CCSc1nc(-c2ccc(OC)c(OC)c2)cc2nccn12"
+}

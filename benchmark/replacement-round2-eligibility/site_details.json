@@ -1,0 +1,134 @@
+{
+  "1T46": {
+    "ligand_instances": [
+      "A:3"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1024",
+      "A:1025",
+      "A:1053",
+      "A:1105",
+      "A:1106",
+      "A:1108",
+      "A:1110",
+      "A:1187",
+      "A:994",
+      "A:995"
+    ],
+    "issues": []
+  },
+  "3W2Q": {
+    "ligand_instances": [
+      "A:1101"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:2051",
+      "A:2054",
+      "A:2068"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "4RJ3": {
+    "ligand_instances": [
+      "A:302"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:483",
+      "A:485",
+      "A:533",
+      "A:549",
+      "A:552"
+    ],
+    "issues": []
+  },
+  "6N2W": {
+    "ligand_instances": [
+      "B:702"
+    ],
+    "receptor_chains": [
+      "B"
+    ],
+    "binding_site_waters": [],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "7JXH": {
+    "ligand_instances": [
+      "A:1101",
+      "B:1101",
+      "C:1101",
+      "D:1101",
+      "E:1101",
+      "F:1101",
+      "G:1101",
+      "H:1101"
+    ],
+    "receptor_chains": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+    ],
+    "binding_site_waters": [],
+    "issues": [
+      "expected one ligand instance; found 8",
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "1CPS": {
+    "ligand_instances": [
+      "A:588"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:331"
+    ],
+    "issues": []
+  },
+  "1CBX": {
+    "ligand_instances": [
+      "A:500"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:660",
+      "A:661",
+      "A:663"
+    ],
+    "issues": []
+  },
+  "4EXS": {
+    "ligand_instances": [
+      "A:301",
+      "B:301"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "binding_site_waters": [],
+    "issues": [
+      "expected one ligand instance; found 2"
+    ]
+  }
+}

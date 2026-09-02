@@ -1,0 +1,42 @@
+{
+  "pdb_id": "2FVD",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "2FVD",
+    "ligand_heavy_atoms": 30,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.281,
+      3.274,
+      2.16,
+      2.891,
+      8.855,
+      2.842,
+      3.923,
+      3.94,
+      3.299
+    ],
+    "top_pose_rmsd_A": 0.281,
+    "best_pose_rmsd_A": 0.281,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:50"
+    ],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 1.1567,
+      "center_y": 28.44996666666667,
+      "center_z": 8.538566666666666,
+      "size_x": 13.70224496777363,
+      "size_y": 13.70224496777363,
+      "size_z": 13.70224496777363,
+      "radius_of_gyration_A": 4.725
+    }
+  }
+}

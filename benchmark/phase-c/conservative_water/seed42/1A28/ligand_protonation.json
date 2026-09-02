@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=C4C=C2C(C1CCC3(C(C(=O)C)CCC3C1CC2)C)(C)CC4",
+  "ph": 7.4,
+  "variants": [
+    "CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C"
+}

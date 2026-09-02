@@ -1,0 +1,38 @@
+{
+  "pdb_id": "3LXE",
+  "metal_policy": "remove",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3LXE",
+    "ligand_heavy_atoms": 22,
+    "n_poses": 7,
+    "rmsd_by_rank_A": [
+      0.859,
+      1.594,
+      5.855,
+      3.873,
+      1.846,
+      5.033,
+      4.828
+    ],
+    "top_pose_rmsd_A": 0.859,
+    "best_pose_rmsd_A": 0.859,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "remove",
+    "box": {
+      "center_x": -16.137045454545454,
+      "center_y": 35.436,
+      "center_z": 43.38822727272727,
+      "size_x": 9.047287368299228,
+      "size_y": 9.047287368299228,
+      "size_z": 9.047287368299228,
+      "radius_of_gyration_A": 3.12
+    }
+  }
+}

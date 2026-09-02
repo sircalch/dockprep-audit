@@ -1,0 +1,19 @@
+{
+  "input_smiles": "O=C(N3CCN(c1ncnc2c1C(C)CC2O)CC3)C(c4ccc(Cl)cc4)CNC(C)C",
+  "ph": 7.4,
+  "variants": [
+    "CC(C)[NH2+]CC(C(=O)[NH+]1CCN(c2ncnc3c2C(C)CC3O)CC1)c1ccc(Cl)cc1",
+    "CC(C)[NH2+]CC(C(=O)N1CCN(c2ncnc3c2C(C)CC3O)CC1)c1ccc(Cl)cc1",
+    "CC(C)NCC(C(=O)[NH+]1CCN(c2ncnc3c2C(C)CC3O)CC1)c1ccc(Cl)cc1",
+    "CC(C)NCC(C(=O)N1CCN(c2ncnc3c2C(C)CC3O)CC1)c1ccc(Cl)cc1"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "CC(C)[NH2+]CC(C(=O)[NH+]1CCN(c2ncnc3c2C(C)CC3O)CC1)c1ccc(Cl)cc1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CC(C)[NH2+]CC(C(=O)[NH+]1CCN(c2ncnc3c2C(C)CC3O)CC1)c1ccc(Cl)cc1"
+}

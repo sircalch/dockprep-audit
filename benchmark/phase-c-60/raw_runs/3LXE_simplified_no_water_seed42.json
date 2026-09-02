@@ -1,0 +1,38 @@
+{
+  "pdb_id": "3LXE",
+  "policy": "simplified_no_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3LXE",
+    "ligand_heavy_atoms": 22,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.688,
+      4.428,
+      4.679,
+      4.613,
+      2.519,
+      2.133,
+      5.865,
+      4.796,
+      4.929
+    ],
+    "top_pose_rmsd_A": 0.688,
+    "best_pose_rmsd_A": 0.688,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": -16.137045454545454,
+      "center_y": 35.436,
+      "center_z": 43.38822727272727,
+      "size_x": 9.047287368299228,
+      "size_y": 9.047287368299228,
+      "size_z": 9.047287368299228,
+      "radius_of_gyration_A": 3.12
+    }
+  }
+}

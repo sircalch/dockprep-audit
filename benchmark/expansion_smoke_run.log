@@ -1,0 +1,99 @@
+[1/48] 6FTF
+    -> FAIL rmsd=None outcome=None
+[2/48] 3KXG
+    -> OK rmsd=0.68 outcome=success
+[3/48] 3MWU
+    -> FAIL rmsd=None outcome=None
+[4/48] 7ORS
+    -> FAIL rmsd=None outcome=None
+[5/48] 3P0M
+    -> FAIL rmsd=None outcome=None
+[6/48] 2I4H
+    -> OK rmsd=8.439 outcome=sampling_fail
+[7/48] 5E0J
+    -> OK rmsd=2.299 outcome=sampling_fail
+[8/48] 5TG1
+    -> OK rmsd=1.863 outcome=success
+[9/48] 1E6U
+    -> OK rmsd=1.455 outcome=success
+[10/48] 1E7S
+    -> OK rmsd=3.251 outcome=scoring_fail
+[11/48] 3LXE
+    -> OK rmsd=0.697 outcome=success
+[12/48] 6ZR9
+    -> OK rmsd=5.792 outcome=sampling_fail
+[13/48] 1Z9Y
+    -> OK rmsd=2.25 outcome=scoring_fail
+[14/48] 3IBI
+    -> OK rmsd=4.282 outcome=sampling_fail
+[15/48] 1O86
+    -> OK rmsd=1.357 outcome=success
+[16/48] 1UZE
+    -> OK rmsd=0.93 outcome=success
+[17/48] 1DTH
+    -> OK rmsd=7.928 outcome=sampling_fail
+[18/48] 4G9L
+    -> OK rmsd=0.903 outcome=success
+[19/48] 4JA1
+    -> OK rmsd=1.119 outcome=success
+[20/48] 6TMN
+    -> OK rmsd=7.015 outcome=sampling_fail
+[21/48] 1THL
+    -> FAIL rmsd=None outcome=None
+[22/48] 4RSY
+    -> OK rmsd=1.013 outcome=success
+[23/48] 1EPQ
+    -> FAIL rmsd=None outcome=None
+[24/48] 1ENT
+    -> FAIL rmsd=None outcome=None
+[25/48] 3KM4
+    -> OK rmsd=0.362 outcome=success
+[26/48] 4DJW
+    -> OK rmsd=1.173 outcome=success
+[27/48] 6ASH
+    -> OK rmsd=5.016 outcome=sampling_fail
+[28/48] 1PSO
+    -> FAIL rmsd=None outcome=None
+[29/48] 1QRP
+    -> OK rmsd=3.369 outcome=scoring_fail
+[30/48] 1WKR
+    -> FAIL rmsd=None outcome=None
+[31/48] 1XDH
+    -> FAIL rmsd=None outcome=None
+[32/48] 1CVZ
+    -> OK rmsd=10.981 outcome=sampling_fail
+[33/48] 2F25
+    -> OK rmsd=0.493 outcome=success
+[34/48] 1GS4
+    -> OK rmsd=0.688 outcome=success
+[35/48] 2OZ7
+    -> OK rmsd=0.422 outcome=success
+[36/48] 3NOA
+    -> OK rmsd=1.156 outcome=success
+[37/48] 6D8X
+    -> OK rmsd=1.068 outcome=success
+[38/48] 3GZ9
+    -> OK rmsd=0.743 outcome=success
+[39/48] 1SN5
+    -> FAIL rmsd=None outcome=None
+[40/48] 1G5Y
+    -> OK rmsd=3.432 outcome=scoring_fail
+[41/48] 1IE9
+    -> OK rmsd=0.892 outcome=success
+[42/48] 3FLI
+    -> FAIL rmsd=None outcome=None
+[43/48] 3L1B
+    -> OK rmsd=2.992 outcome=scoring_fail
+[44/48] 5HJS
+    -> OK rmsd=0.738 outcome=success
+[45/48] 3KMR
+    -> OK rmsd=0.633 outcome=success
+[46/48] 3D14
+    -> OK rmsd=0.754 outcome=success
+[47/48] 5F4N
+    -> OK rmsd=0.992 outcome=success
+[48/48] 1WBK
+    -> OK rmsd=10.418 outcome=scoring_fail
+
+36/48 cases prepared and docked without error.
+Preparation/docking failures: ['6FTF', '3MWU', '7ORS', '3P0M', '1THL', '1EPQ', '1ENT', '1PSO', '1WKR', '1XDH', '1SN5', '3FLI']

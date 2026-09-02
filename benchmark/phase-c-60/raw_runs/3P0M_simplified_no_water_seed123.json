@@ -1,0 +1,60 @@
+{
+  "pdb_id": "3P0M",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3P0M",
+    "ligand_heavy_atoms": 23,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      8.261,
+      1.936,
+      8.256,
+      8.496,
+      8.316,
+      3.788,
+      2.327,
+      2.814,
+      8.594
+    ],
+    "top_pose_rmsd_A": 8.261,
+    "best_pose_rmsd_A": 1.936,
+    "best_pose_rank": 2,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [
+      "A:16",
+      "A:17",
+      "A:21",
+      "A:24",
+      "A:44",
+      "A:64",
+      "A:105",
+      "A:121",
+      "A:198",
+      "A:213",
+      "A:217",
+      "A:256",
+      "A:285",
+      "A:295",
+      "A:309",
+      "A:317",
+      "A:318",
+      "A:319",
+      "A:333",
+      "A:334",
+      "A:345"
+    ],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 26.514304347826084,
+      "center_y": 10.677826086956522,
+      "center_z": -1.2085217391304348,
+      "size_x": 13.054162922239712,
+      "size_y": 13.054162922239712,
+      "size_z": 13.054162922239712,
+      "radius_of_gyration_A": 4.501
+    }
+  }
+}

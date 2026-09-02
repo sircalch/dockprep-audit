@@ -1,0 +1,79 @@
+[
+  {
+    "chain": "A",
+    "resseq": "28",
+    "resname": "THR",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "46",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "58",
+    "resname": "PHE",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "84",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "99",
+    "resname": "VAL",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "126",
+    "resname": "ASN",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "152",
+    "resname": "VAL",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  }
+]

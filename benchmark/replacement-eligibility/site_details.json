@@ -1,0 +1,88 @@
+{
+  "3ERT": {
+    "ligand_instances": [
+      "A:600"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:2",
+      "A:31",
+      "A:58",
+      "A:59"
+    ],
+    "issues": []
+  },
+  "1ERE": {
+    "ligand_instances": [
+      "A:600",
+      "B:600",
+      "C:600",
+      "D:600",
+      "E:600",
+      "F:600"
+    ],
+    "receptor_chains": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "binding_site_waters": [
+      "A:3",
+      "B:22",
+      "C:41",
+      "D:60",
+      "E:79",
+      "F:98"
+    ],
+    "issues": [
+      "expected one ligand instance; found 6",
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "1QG4": {
+    "ligand_instances": [
+      "A:220",
+      "B:220"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "binding_site_waters": [
+      "A:229",
+      "A:247",
+      "A:290",
+      "A:314",
+      "A:315",
+      "A:317",
+      "B:222",
+      "B:254",
+      "B:307",
+      "B:308",
+      "B:309",
+      "B:310"
+    ],
+    "issues": [
+      "expected one ligand instance; found 2"
+    ]
+  },
+  "4LDE": {
+    "ligand_instances": [
+      "A:1403"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1564"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  }
+}

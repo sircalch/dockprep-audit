@@ -1,0 +1,40 @@
+{
+  "pdb_id": "1LIF",
+  "policy": "conservative_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1LIF",
+    "ligand_heavy_atoms": 20,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      7.877,
+      7.137,
+      4.901,
+      6.196,
+      4.316,
+      2.493,
+      5.662,
+      7.464,
+      6.368
+    ],
+    "top_pose_rmsd_A": 7.877,
+    "best_pose_rmsd_A": 2.493,
+    "best_pose_rank": 6,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -48.96235,
+      "center_y": 70.2991,
+      "center_z": -9.0946,
+      "size_x": 14.702545704692605,
+      "size_y": 14.702545704692605,
+      "size_z": 14.702545704692605,
+      "radius_of_gyration_A": 5.07
+    }
+  }
+}

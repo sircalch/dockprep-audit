@@ -1,0 +1,16 @@
+{
+  "input_smiles": "NC(=N)c1sc(CNC(=O)[CH]2CCCOCC2)c(c1)c3ccccc3",
+  "ph": 7.4,
+  "variants": [
+    "NC(=[NH2+])c1cc(-c2ccccc2)c(CNC(=O)C2CCCOCC2)s1"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "NC(=[NH2+])c1cc(-c2ccccc2)c(CNC(=O)C2CCCOCC2)s1",
+      "ok": false,
+      "error": "Explicit valence for atom # 20 N, 5, is greater than permitted"
+    }
+  ],
+  "chosen_smiles": null
+}

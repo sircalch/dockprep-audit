@@ -1,0 +1,13 @@
+[
+  {
+    "chain": "X",
+    "resseq": "95",
+    "resname": "PNT",
+    "occupancies": {
+      "A": 0.3
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  }
+]

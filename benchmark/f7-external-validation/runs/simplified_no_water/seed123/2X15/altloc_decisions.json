@@ -1,0 +1,46 @@
+[
+  {
+    "chain": "A",
+    "resseq": "1419",
+    "resname": "ADP",
+    "occupancies": {
+      "A": 0.8
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "1420",
+    "resname": "X15",
+    "occupancies": {
+      "A": 0.8
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "1421",
+    "resname": "3PG",
+    "occupancies": {
+      "B": 0.2
+    },
+    "chosen_altloc": "B",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "1422",
+    "resname": "ATP",
+    "occupancies": {
+      "B": 0.2
+    },
+    "chosen_altloc": "B",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1",
+  "tool": {
+    "name": "DockPrep Audit",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-08-23T00:39:39.796078+00:00",
+  "source": {
+    "path": "benchmark\\expansion-metal-batch3\\raw-pdb\\1DTH.pdb",
+    "format": "PDB",
+    "lines": 3879,
+    "atom_records": 3250
+  },
+  "summary": {
+    "status": "review_recommended",
+    "findings": 1,
+    "high": 0,
+    "medium": 1,
+    "low": 0
+  },
+  "findings": [
+    {
+      "code": "METAL_PRESENT",
+      "severity": "medium",
+      "message": "Metal coordination and charge treatment should be documented.",
+      "count": 4,
+      "examples": [
+        "CA CA A903",
+        "CA CA B904",
+        "ZN ZN A901",
+        "ZN ZN B902"
+      ]
+    }
+  ]
+}

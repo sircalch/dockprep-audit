@@ -1,0 +1,35 @@
+{
+  "pdb_id": "2OZ7",
+  "policy": "conservative_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "2OZ7",
+    "ligand_heavy_atoms": 29,
+    "n_poses": 1,
+    "rmsd_by_rank_A": [
+      0.362
+    ],
+    "top_pose_rmsd_A": 0.362,
+    "best_pose_rmsd_A": 0.362,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:887",
+      "A:888",
+      "A:889",
+      "A:890"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "box": {
+      "center_x": 28.041689655172412,
+      "center_y": 1.760896551724138,
+      "center_z": 3.6768620689655176,
+      "size_x": 11.308859741813054,
+      "size_y": 11.308859741813054,
+      "size_z": 11.308859741813054,
+      "radius_of_gyration_A": 3.9
+    }
+  }
+}

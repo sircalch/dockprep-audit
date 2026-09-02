@@ -1,0 +1,31 @@
+{
+  "input_smiles": "O=C(NCC(C)CC)CC(O)C(NC(=O)C(NC(=O)C(NS(=O)(=O)N(C)C)Cc1ccccc1)CCCCNC(=S)NC)CC(C)C",
+  "ph": 7.4,
+  "variants": [
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCC[NH2+]C(=S)NC)NC(=O)C(Cc1ccccc1)NS(=O)(=O)[NH+](C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCCNC(=S)[NH2+]C)NC(=O)C(Cc1ccccc1)NS(=O)(=O)[NH+](C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCCNC(=S)[NH2+]C)NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)N(C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCCNC(=S)[NH2+]C)NC(=O)C(Cc1ccccc1)NS(=O)(=O)N(C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCC[NH2+]C(=S)[NH2+]C)NC(=O)C(Cc1ccccc1)NS(=O)(=O)[NH+](C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCCNC(=S)[NH2+]C)NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)[NH+](C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCC[NH2+]C(=S)[NH2+]C)NC(=O)C(Cc1ccccc1)NS(=O)(=O)N(C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCCNC(=S)NC)NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)N(C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCC[NH2+]C(=S)NC)NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)[NH+](C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCC[NH2+]C(=S)[NH2+]C)NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)N(C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCC[NH2+]C(=S)NC)NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)N(C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCCNC(=S)NC)NC(=O)C(Cc1ccccc1)NS(=O)(=O)[NH+](C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCCNC(=S)NC)NC(=O)C(Cc1ccccc1)NS(=O)(=O)N(C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCC[NH2+]C(=S)[NH2+]C)NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)[NH+](C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCC[NH2+]C(=S)NC)NC(=O)C(Cc1ccccc1)NS(=O)(=O)N(C)C",
+    "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCCNC(=S)NC)NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)[NH+](C)C"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCC[NH2+]C(=S)NC)NC(=O)C(Cc1ccccc1)NS(=O)(=O)[NH+](C)C",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CCC(C)CNC(=O)CC(O)C(CC(C)C)NC(=O)C(CCCC[NH2+]C(=S)NC)NC(=O)C(Cc1ccccc1)NS(=O)(=O)[NH+](C)C"
+}

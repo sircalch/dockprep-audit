@@ -1,0 +1,42 @@
+{
+  "pdb_id": "2X4Z",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "2X4Z",
+    "ligand_heavy_atoms": 35,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      2.024,
+      1.401,
+      8.023,
+      7.479,
+      7.001,
+      6.233,
+      8.191,
+      4.409,
+      4.907
+    ],
+    "top_pose_rmsd_A": 2.024,
+    "best_pose_rmsd_A": 1.401,
+    "best_pose_rank": 2,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [
+      "A:590"
+    ],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 20.560685714285714,
+      "center_y": 20.474400000000003,
+      "center_z": 59.00008571428572,
+      "size_x": 13.53456065648959,
+      "size_y": 13.53456065648959,
+      "size_z": 13.53456065648959,
+      "radius_of_gyration_A": 4.667
+    }
+  }
+}

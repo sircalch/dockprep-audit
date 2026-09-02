@@ -1,0 +1,49 @@
+{
+  "pdb_id": "5A2S",
+  "policy": "conservative_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "5A2S",
+    "ligand_heavy_atoms": 27,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      1.571,
+      1.641,
+      3.291,
+      8.894,
+      9.23,
+      8.828,
+      9.054,
+      8.71,
+      9.3
+    ],
+    "top_pose_rmsd_A": 1.571,
+    "best_pose_rmsd_A": 1.571,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:697",
+      "A:702",
+      "A:732",
+      "A:996",
+      "A:1002",
+      "A:1003",
+      "A:1008",
+      "A:1015",
+      "A:1022",
+      "A:1029"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": -5.284666666666667,
+      "center_y": -13.66925925925926,
+      "center_z": -40.119851851851855,
+      "size_x": 13.360941696551771,
+      "size_y": 13.360941696551771,
+      "size_z": 13.360941696551771,
+      "radius_of_gyration_A": 4.607
+    }
+  }
+}

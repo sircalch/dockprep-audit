@@ -1,0 +1,3 @@
+altloc_policy,n_cases,mean_success_fraction_top1,mean_success_fraction_best,mean_median_top1_rmsd_A,mean_median_best_rmsd_A,n_cases_unstable_across_seeds
+highest_occupancy,15,0.556,0.8,2.662,1.249,3
+lowest_occupancy,15,0.6,0.867,2.649,1.427,0

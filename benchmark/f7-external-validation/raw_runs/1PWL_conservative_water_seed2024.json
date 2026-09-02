@@ -1,0 +1,35 @@
+{
+  "pdb_id": "1PWL",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1PWL",
+    "ligand_heavy_atoms": 48,
+    "n_poses": 4,
+    "rmsd_by_rank_A": [
+      0.496,
+      2.075,
+      4.04,
+      2.863
+    ],
+    "top_pose_rmsd_A": 0.496,
+    "best_pose_rmsd_A": 0.496,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 21.388479166666666,
+      "center_y": 21.951229166666668,
+      "center_z": -17.104479166666668,
+      "size_x": 19.156166533085898,
+      "size_y": 19.156166533085898,
+      "size_z": 19.156166533085898,
+      "radius_of_gyration_A": 6.606
+    }
+  }
+}

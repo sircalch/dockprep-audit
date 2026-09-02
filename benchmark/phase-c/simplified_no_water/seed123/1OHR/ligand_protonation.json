@@ -1,0 +1,29 @@
+{
+  "input_smiles": "O=C(c1cccc(O)c1C)NC(CSc2ccccc2)C(O)CN4C(C(=O)NC(C)(C)C)CC3CCCCC3C4",
+  "ph": 7.4,
+  "variants": [
+    "Cc1c([O-])cccc1C(=O)NC(CSc1ccccc1)C(O)C[NH+]1CC2CCCCC2CC1C(=O)NC(C)(C)C",
+    "Cc1c([O-])cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C",
+    "Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C",
+    "Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)C[NH+]1CC2CCCCC2CC1C(=O)NC(C)(C)C"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "Cc1c([O-])cccc1C(=O)NC(CSc1ccccc1)C(O)C[NH+]1CC2CCCCC2CC1C(=O)NC(C)(C)C",
+      "ok": false,
+      "error": "Explicit valence for atom # 31 O, 2, is greater than permitted"
+    },
+    {
+      "smiles": "Cc1c([O-])cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C",
+      "ok": false,
+      "error": "Explicit valence for atom # 31 O, 2, is greater than permitted"
+    },
+    {
+      "smiles": "Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C"
+}

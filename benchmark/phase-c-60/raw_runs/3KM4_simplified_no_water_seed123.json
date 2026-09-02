@@ -1,0 +1,38 @@
+{
+  "pdb_id": "3KM4",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3KM4",
+    "ligand_heavy_atoms": 36,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.341,
+      3.919,
+      7.35,
+      4.174,
+      4.638,
+      3.844,
+      2.494,
+      7.155,
+      7.288
+    ],
+    "top_pose_rmsd_A": 0.341,
+    "best_pose_rmsd_A": 0.341,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 28.49452777777778,
+      "center_y": -7.875166666666666,
+      "center_z": -12.003972222222224,
+      "size_x": 12.236268304741962,
+      "size_y": 12.236268304741962,
+      "size_z": 12.236268304741962,
+      "radius_of_gyration_A": 4.219
+    }
+  }
+}

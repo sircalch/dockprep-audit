@@ -1,0 +1,40 @@
+{
+  "pdb_id": "6ASH",
+  "policy": "conservative_oriented",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "6ASH",
+    "ligand_heavy_atoms": 17,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      4.899,
+      5.159,
+      5.772,
+      3.835,
+      4.595,
+      5.588,
+      4.912,
+      2.109,
+      3.23
+    ],
+    "top_pose_rmsd_A": 4.899,
+    "best_pose_rmsd_A": 2.109,
+    "best_pose_rank": 8,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative_oriented",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 41.50894117647059,
+      "center_y": 9.151764705882353,
+      "center_z": 4.050529411764706,
+      "size_x": 8.759867070972437,
+      "size_y": 8.759867070972437,
+      "size_z": 8.759867070972437,
+      "radius_of_gyration_A": 3.021
+    }
+  }
+}

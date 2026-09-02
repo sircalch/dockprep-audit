@@ -1,0 +1,34 @@
+{
+  "input_smiles": "O=S(=O)(N1CCOCC1)NC(C(=O)NC(SCC)C(=O)NC(CC2CCCCC2)C(O)C(O)CC(C)C)Cc3ccccc3",
+  "ph": 7.4,
+  "variants": [
+    "CCSC(NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)[NH+]1CCOCC1)C(=O)NC(CC1CCCCC1)C(O)C(O)CC(C)C",
+    "CCSC(NC(=O)C(Cc1ccccc1)NS(=O)(=O)N1CCOCC1)C(=O)NC(CC1CCCCC1)C(O)C(O)CC(C)C",
+    "CCSC(NC(=O)C(Cc1ccccc1)NS(=O)(=O)[NH+]1CCOCC1)C(=O)NC(CC1CCCCC1)C(O)C(O)CC(C)C",
+    "CCSC(NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)N1CCOCC1)C(=O)NC(CC1CCCCC1)C(O)C(O)CC(C)C"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "CCSC(NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)[NH+]1CCOCC1)C(=O)NC(CC1CCCCC1)C(O)C(O)CC(C)C",
+      "ok": false,
+      "error": "No matching found"
+    },
+    {
+      "smiles": "CCSC(NC(=O)C(Cc1ccccc1)NS(=O)(=O)N1CCOCC1)C(=O)NC(CC1CCCCC1)C(O)C(O)CC(C)C",
+      "ok": false,
+      "error": "No matching found"
+    },
+    {
+      "smiles": "CCSC(NC(=O)C(Cc1ccccc1)NS(=O)(=O)[NH+]1CCOCC1)C(=O)NC(CC1CCCCC1)C(O)C(O)CC(C)C",
+      "ok": false,
+      "error": "No matching found"
+    },
+    {
+      "smiles": "CCSC(NC(=O)C(Cc1ccccc1)[N-]S(=O)(=O)N1CCOCC1)C(=O)NC(CC1CCCCC1)C(O)C(O)CC(C)C",
+      "ok": false,
+      "error": "No matching found"
+    }
+  ],
+  "chosen_smiles": null
+}

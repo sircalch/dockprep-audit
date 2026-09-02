@@ -1,0 +1,44 @@
+[
+  {
+    "chain": "B",
+    "resseq": "151",
+    "nd1_metal_dist_A": 4.213,
+    "ne2_metal_dist_A": 2.097,
+    "assigned_tautomer": "HID"
+  },
+  {
+    "chain": "B",
+    "resseq": "166",
+    "nd1_metal_dist_A": 4.164,
+    "ne2_metal_dist_A": 2.086,
+    "assigned_tautomer": "HID"
+  },
+  {
+    "chain": "B",
+    "resseq": "179",
+    "nd1_metal_dist_A": 2.094,
+    "ne2_metal_dist_A": 4.201,
+    "assigned_tautomer": "HIE"
+  },
+  {
+    "chain": "B",
+    "resseq": "201",
+    "nd1_metal_dist_A": 4.152,
+    "ne2_metal_dist_A": 2.082,
+    "assigned_tautomer": "HID"
+  },
+  {
+    "chain": "B",
+    "resseq": "205",
+    "nd1_metal_dist_A": 4.27,
+    "ne2_metal_dist_A": 2.174,
+    "assigned_tautomer": "HID"
+  },
+  {
+    "chain": "B",
+    "resseq": "211",
+    "nd1_metal_dist_A": 4.09,
+    "ne2_metal_dist_A": 2.014,
+    "assigned_tautomer": "HID"
+  }
+]

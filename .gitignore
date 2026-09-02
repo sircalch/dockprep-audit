@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+dockprep-audit-results/
+smoke-results/
+sample_receptor.pdb
+benchmark/pilot-inventory/raw-pdb/
+benchmark/pilot-inventory/reports/
+tools/vina/*.exe
+benchmark/pilot-extraction/
+benchmark/smoke-robustness/
+
+# Per manuscript Data availability (manuscript/draft.md): original deposited
+# coordinates and local PDBQT/log files are not redistributed here -- PDB
+# IDs, source URLs, and checksums in the tracked manifests/CSVs are enough to
+# regenerate them. This is most of benchmark/'s on-disk size (~930 MB of
+# ~1 GB); derived, non-coordinate summary tables (CSV/JSON) stay tracked.
+**/raw-pdb/
+**/raw_graphql/
+*.pdbqt
+*receptor_raw.pdb
+*ligand_raw.pdb
+vina.log
+receptor_prep.log

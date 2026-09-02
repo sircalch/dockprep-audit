@@ -1,0 +1,40 @@
+{
+  "pdb_id": "6TMN",
+  "metal_policy": "remove",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "6TMN",
+    "ligand_heavy_atoms": 32,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      10.469,
+      10.905,
+      6.989,
+      7.587,
+      10.492,
+      10.747,
+      11.286,
+      10.391,
+      10.874
+    ],
+    "top_pose_rmsd_A": 10.469,
+    "best_pose_rmsd_A": 6.989,
+    "best_pose_rank": 3,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "remove",
+    "box": {
+      "center_x": 35.496843750000004,
+      "center_y": 40.50759375,
+      "center_z": -6.13428125,
+      "size_x": 15.07393881368246,
+      "size_y": 15.07393881368246,
+      "size_z": 15.07393881368246,
+      "radius_of_gyration_A": 5.198
+    }
+  }
+}

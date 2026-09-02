@@ -1,0 +1,19 @@
+{
+  "input_smiles": "Brc2cc(/C=N/NC(=O)C(c1ccccc1)CCN)ccc2O",
+  "ph": 7.4,
+  "variants": [
+    "NCCC(C(=O)[N-]/N=C/c1ccc(O)c(Br)c1)c1ccccc1",
+    "NCCC(C(=O)[N-]/N=C/c1ccc([O-])c(Br)c1)c1ccccc1",
+    "[NH3+]CCC(C(=O)[N-]/N=C/c1ccc(O)c(Br)c1)c1ccccc1",
+    "[NH3+]CCC(C(=O)[N-]/N=C/c1ccc([O-])c(Br)c1)c1ccccc1"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "NCCC(C(=O)[N-]/N=C/c1ccc(O)c(Br)c1)c1ccccc1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "NCCC(C(=O)[N-]/N=C/c1ccc(O)c(Br)c1)c1ccccc1"
+}

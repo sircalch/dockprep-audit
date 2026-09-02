@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=C(c3nccc(Oc2ccc(NC(=O)Nc1ccc(Cl)c(c1)C(F)(F)F)cc2)c3)NC",
+  "ph": 7.4,
+  "variants": [
+    "CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1"
+}

@@ -1,0 +1,38 @@
+{
+  "pdb_id": "4RSY",
+  "policy": "conservative_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "4RSY",
+    "ligand_heavy_atoms": 22,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.648,
+      2.589,
+      1.856,
+      8.839,
+      9.086,
+      8.777,
+      9.757,
+      2.066,
+      9.153
+    ],
+    "top_pose_rmsd_A": 0.648,
+    "best_pose_rmsd_A": 0.648,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": -29.897409090909093,
+      "center_y": -1.8995909090909089,
+      "center_z": 0.6852727272727273,
+      "size_x": 14.007008392148814,
+      "size_y": 14.007008392148814,
+      "size_z": 14.007008392148814,
+      "radius_of_gyration_A": 4.83
+    }
+  }
+}

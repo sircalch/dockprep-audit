@@ -1,0 +1,16 @@
+{
+  "input_smiles": "OC3C(=C)/C(=C\\C=C1/CCCC2(C)C(C(C)CCCC(O)(C)C)CCC12)CC(O)C3",
+  "ph": 7.4,
+  "variants": [
+    "C=C1/C(=C\\C=C2/CCCC3(C)C2CCC3C(C)CCCC(C)(C)O)CC(O)CC1O"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "C=C1/C(=C\\C=C2/CCCC3(C)C2CCC3C(C)CCCC(C)(C)O)CC(O)CC1O",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "C=C1/C(=C\\C=C2/CCCC3(C)C2CCC3C(C)CCCC(C)(C)O)CC(O)CC1O"
+}

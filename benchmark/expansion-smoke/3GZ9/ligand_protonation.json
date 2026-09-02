@@ -1,0 +1,16 @@
+{
+  "input_smiles": "FC(F)(F)c3ccc(OCc2ccc(Sc1c(c(c(OCC(=O)O)cc1)C)C)c(OCC#C)c2)cc3",
+  "ph": 7.4,
+  "variants": [
+    "C#CCOc1cc(COc2ccc(C(F)(F)F)cc2)ccc1Sc1ccc(OCC(=O)[O-])c(C)c1C"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "C#CCOc1cc(COc2ccc(C(F)(F)F)cc2)ccc1Sc1ccc(OCC(=O)[O-])c(C)c1C",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "C#CCOc1cc(COc2ccc(C(F)(F)F)cc2)ccc1Sc1ccc(OCC(=O)[O-])c(C)c1C"
+}

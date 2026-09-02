@@ -1,0 +1,31 @@
+{
+  "pdb_id": "5K8S",
+  "altloc_policy": "lowest_occupancy",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "5K8S",
+    "ligand_heavy_atoms": 22,
+    "n_poses": 1,
+    "rmsd_by_rank_A": [
+      0.142
+    ],
+    "top_pose_rmsd_A": 0.142,
+    "best_pose_rmsd_A": 0.142,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 2,
+    "altloc_policy": "lowest_occupancy",
+    "box": {
+      "center_x": 18.650227272727275,
+      "center_y": -20.383863636363635,
+      "center_z": -14.835863636363637,
+      "size_x": 9.859343311232228,
+      "size_y": 9.859343311232228,
+      "size_z": 9.859343311232228,
+      "radius_of_gyration_A": 3.4
+    }
+  }
+}

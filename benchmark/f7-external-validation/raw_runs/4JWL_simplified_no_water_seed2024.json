@@ -1,0 +1,41 @@
+{
+  "pdb_id": "4JWL",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "4JWL",
+    "ligand_heavy_atoms": 19,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      2.356,
+      1.294,
+      3.872,
+      2.816,
+      1.535,
+      5.64,
+      2.711,
+      3.032
+    ],
+    "top_pose_rmsd_A": 2.356,
+    "best_pose_rmsd_A": 1.294,
+    "best_pose_rank": 2,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [
+      "A:247"
+    ],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 0.9536315789473684,
+      "center_y": 43.09536842105263,
+      "center_z": 55.34,
+      "size_x": 8.710458258299875,
+      "size_y": 8.710458258299875,
+      "size_z": 8.710458258299875,
+      "radius_of_gyration_A": 3.004
+    }
+  }
+}

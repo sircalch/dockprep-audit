@@ -1,0 +1,7 @@
+{
+  "pdb_id": "4FKI",
+  "policy": "conservative_water",
+  "seed": 42,
+  "returncode": 1,
+  "stderr_tail": "[12:40:51] Can't kekulize mol.  Unkekulized atoms: 15 16 17 18 19\nTraceback (most recent call last):\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 851, in <module>\n    main()\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 832, in main\n    result = run_case(\n             ^^^^^^^^^\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 741, in run_case\n    ligand_pdb_to_sdf(ligand_raw, component_id, ligand_sdf,\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 510, in ligand_pdb_to_sdf\n    variants, protonation_log = protonate_ligand_smiles(deposited_smiles)\n                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 487, in protonate_ligand_smiles\n    raise ValueError(f\"dimorphite-dl returned no protonation state for SMILES: {smiles}\")\nValueError: dimorphite-dl returned no protonation state for SMILES: FC(F)(F)Oc1ccc(cc1)CC(=O)Nc2cc(nn2)C3CC3\n"
+}

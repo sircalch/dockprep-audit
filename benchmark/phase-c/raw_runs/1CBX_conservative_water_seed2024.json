@@ -1,0 +1,38 @@
+{
+  "pdb_id": "1CBX",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1CBX",
+    "ligand_heavy_atoms": 15,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      1.416,
+      5.496,
+      5.473,
+      5.425,
+      5.423,
+      5.186,
+      3.03,
+      4.874,
+      2.671
+    ],
+    "top_pose_rmsd_A": 1.416,
+    "best_pose_rmsd_A": 1.416,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": -2.1747333333333336,
+      "center_y": 29.681733333333334,
+      "center_z": -9.391133333333332,
+      "size_x": 8.269670346416476,
+      "size_y": 8.269670346416476,
+      "size_z": 8.269670346416476,
+      "radius_of_gyration_A": 2.852
+    }
+  }
+}

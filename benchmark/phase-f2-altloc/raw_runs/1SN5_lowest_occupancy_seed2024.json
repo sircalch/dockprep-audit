@@ -1,0 +1,34 @@
+{
+  "pdb_id": "1SN5",
+  "altloc_policy": "lowest_occupancy",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1SN5",
+    "ligand_heavy_atoms": 23,
+    "n_poses": 4,
+    "rmsd_by_rank_A": [
+      6.858,
+      6.373,
+      6.491,
+      7.435
+    ],
+    "top_pose_rmsd_A": 6.858,
+    "best_pose_rmsd_A": 6.373,
+    "best_pose_rank": 2,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "lowest_occupancy",
+    "box": {
+      "center_x": -43.23295652173913,
+      "center_y": -24.225782608695653,
+      "center_z": -17.051304347826086,
+      "size_x": 11.578891296489351,
+      "size_y": 11.578891296489351,
+      "size_z": 11.578891296489351,
+      "radius_of_gyration_A": 3.993
+    }
+  }
+}

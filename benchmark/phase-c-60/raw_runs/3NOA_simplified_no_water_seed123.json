@@ -1,0 +1,38 @@
+{
+  "pdb_id": "3NOA",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3NOA",
+    "ligand_heavy_atoms": 41,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.916,
+      9.901,
+      10.195,
+      3.349,
+      10.778,
+      10.126,
+      10.187,
+      2.203,
+      7.075
+    ],
+    "top_pose_rmsd_A": 0.916,
+    "best_pose_rmsd_A": 0.916,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": -9.294195121951219,
+      "center_y": 5.670853658536585,
+      "center_z": 39.1640243902439,
+      "size_x": 16.987300885024617,
+      "size_y": 16.987300885024617,
+      "size_z": 16.987300885024617,
+      "radius_of_gyration_A": 5.858
+    }
+  }
+}

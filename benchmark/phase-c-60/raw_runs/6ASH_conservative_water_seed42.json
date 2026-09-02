@@ -1,0 +1,38 @@
+{
+  "pdb_id": "6ASH",
+  "policy": "conservative_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "6ASH",
+    "ligand_heavy_atoms": 17,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      5.006,
+      4.923,
+      5.676,
+      5.148,
+      5.605,
+      5.118,
+      5.536,
+      3.893,
+      3.303
+    ],
+    "top_pose_rmsd_A": 5.006,
+    "best_pose_rmsd_A": 3.303,
+    "best_pose_rank": 9,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "box": {
+      "center_x": 41.50894117647059,
+      "center_y": 9.151764705882353,
+      "center_z": 4.050529411764706,
+      "size_x": 8.759867070972437,
+      "size_y": 8.759867070972437,
+      "size_z": 8.759867070972437,
+      "radius_of_gyration_A": 3.021
+    }
+  }
+}

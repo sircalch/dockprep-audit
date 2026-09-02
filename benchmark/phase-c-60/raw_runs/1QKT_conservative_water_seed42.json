@@ -1,0 +1,37 @@
+{
+  "pdb_id": "1QKT",
+  "policy": "conservative_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1QKT",
+    "ligand_heavy_atoms": 20,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      1.917,
+      6.242,
+      2.851,
+      1.448,
+      5.752,
+      3.953,
+      6.343,
+      6.671
+    ],
+    "top_pose_rmsd_A": 1.917,
+    "best_pose_rmsd_A": 1.448,
+    "best_pose_rank": 4,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "box": {
+      "center_x": -1.4872999999999998,
+      "center_y": 51.30125,
+      "center_z": 165.16244999999998,
+      "size_x": 9.95236788259206,
+      "size_y": 9.95236788259206,
+      "size_z": 9.95236788259206,
+      "radius_of_gyration_A": 3.432
+    }
+  }
+}

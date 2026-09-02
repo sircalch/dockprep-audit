@@ -1,0 +1,22 @@
+{
+  "input_smiles": "OC[CH]1O[CH]([CH](O)[CH]1O)n2cc(C#N)c3C(=O)NC=Nc23",
+  "ph": 7.4,
+  "variants": [
+    "N#Cc1cn(C2OC(CO)C(O)C2O)c2nc[nH]c(=O)c12",
+    "N#Cc1cn(C2OC(CO)C(O)C2O)c2nc[n-]c(=O)c12"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "N#Cc1cn(C2OC(CO)C(O)C2O)c2nc[nH]c(=O)c12",
+      "ok": false,
+      "error": "Explicit valence for atom # 7 N, 5, is greater than permitted"
+    },
+    {
+      "smiles": "N#Cc1cn(C2OC(CO)C(O)C2O)c2nc[n-]c(=O)c12",
+      "ok": false,
+      "error": "Explicit valence for atom # 7 N, 4, is greater than permitted"
+    }
+  ],
+  "chosen_smiles": null
+}

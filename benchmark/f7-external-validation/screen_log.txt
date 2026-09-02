@@ -1,0 +1,17 @@
+710 raw candidates, 188 excluded identifiers
+  [50/710] 27 qualifying so far
+  [100/710] 57 qualifying so far
+  [150/710] 79 qualifying so far
+  [200/710] 103 qualifying so far
+  [250/710] 131 qualifying so far
+  [300/710] 156 qualifying so far
+  [350/710] 193 qualifying so far
+  [400/710] 227 qualifying so far
+  [450/710] 265 qualifying so far
+  [500/710] 304 qualifying so far
+  [550/710] 337 qualifying so far
+  [600/710] 378 qualifying so far
+  [650/710] 416 qualifying so far
+  [700/710] 447 qualifying so far
+
+Done. 453 qualifying candidates (SITE_BRIDGING_WATER_PRESENT) out of 710 raw candidates.

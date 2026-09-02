@@ -1,0 +1,16 @@
+{
+  "input_smiles": "C1(CCCC(=C1\\C=C\\C(=C\\C=C\\C(=C\\C(=O)O)C)C)C)(C)C",
+  "ph": 7.4,
+  "variants": [
+    "CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)[O-])C(C)(C)CCC1"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)[O-])C(C)(C)CCC1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)[O-])C(C)(C)CCC1"
+}

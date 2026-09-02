@@ -1,0 +1,42 @@
+{
+  "pdb_id": "4KOW",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "4KOW",
+    "ligand_heavy_atoms": 28,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      0.378,
+      1.309,
+      1.713,
+      2.325,
+      5.226,
+      5.08,
+      4.679,
+      3.174
+    ],
+    "top_pose_rmsd_A": 0.378,
+    "best_pose_rmsd_A": 0.378,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:2",
+      "A:130"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -14.747142857142858,
+      "center_y": 3.1135357142857143,
+      "center_z": -8.625607142857143,
+      "size_x": 12.19789715084225,
+      "size_y": 12.19789715084225,
+      "size_z": 12.19789715084225,
+      "radius_of_gyration_A": 4.206
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "input_smiles": "O=C(O)c1nc2c(O)cccc2cc1",
+  "ph": 7.4,
+  "variants": [
+    "O=C([O-])c1ccc2cccc([O-])c2n1",
+    "O=C([O-])c1ccc2cccc(O)c2n1"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "O=C([O-])c1ccc2cccc([O-])c2n1",
+      "ok": false,
+      "error": "Explicit valence for atom # 11 O, 2, is greater than permitted"
+    },
+    {
+      "smiles": "O=C([O-])c1ccc2cccc(O)c2n1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "O=C([O-])c1ccc2cccc(O)c2n1"
+}

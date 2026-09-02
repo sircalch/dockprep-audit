@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4RJ3",
+  "altloc_policy": "lowest_occupancy",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "4RJ3",
+    "ligand_heavy_atoms": 29,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.475,
+      5.382,
+      3.98,
+      4.01,
+      6.29,
+      5.643,
+      5.356,
+      2.643,
+      7.832
+    ],
+    "top_pose_rmsd_A": 0.475,
+    "best_pose_rmsd_A": 0.475,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "lowest_occupancy",
+    "box": {
+      "center_x": -1.2151379310344828,
+      "center_y": -27.035758620689656,
+      "center_z": 45.10337931034483,
+      "size_x": 11.310692076084468,
+      "size_y": 11.310692076084468,
+      "size_z": 11.310692076084468,
+      "radius_of_gyration_A": 3.9
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1",
+  "tool": {
+    "name": "DockPrep Audit",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-08-23T00:37:09.721461+00:00",
+  "source": {
+    "path": "benchmark\\expansion-metal-batch2\\raw-pdb\\6S1Y.pdb",
+    "format": "PDB",
+    "lines": 10787,
+    "atom_records": 10037
+  },
+  "summary": {
+    "status": "review_required",
+    "findings": 3,
+    "high": 1,
+    "medium": 2,
+    "low": 0
+  },
+  "findings": [
+    {
+      "code": "ALTLOC_PRESENT",
+      "severity": "high",
+      "message": "Alternate atom locations require a documented conformer-selection policy before docking.",
+      "count": 148,
+      "examples": [
+        "ASN A555",
+        "ASP A596",
+        "GLU A174",
+        "HOH A989",
+        "KSN A710"
+      ]
+    },
+    {
+      "code": "WATERS_PRESENT",
+      "severity": "medium",
+      "message": "Retaining or removing waters is protocol-dependent; record the decision.",
+      "count": 198,
+      "examples": [
+        "HOH A801",
+        "HOH A802",
+        "HOH A803",
+        "HOH A804",
+        "HOH A805",
+        "HOH A806",
+        "HOH A807",
+        "HOH A808",
+        "HOH A809",
+        "HOH A810"
+      ]
+    },
+    {
+      "code": "METAL_PRESENT",
+      "severity": "medium",
+      "message": "Metal coordination and charge treatment should be documented.",
+      "count": 1,
+      "examples": [
+        "ZN ZN A709"
+      ]
+    }
+  ]
+}

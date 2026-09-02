@@ -1,0 +1,40 @@
+{
+  "pdb_id": "3ML5",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3ML5",
+    "ligand_heavy_atoms": 13,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      1.341,
+      5.354,
+      1.613,
+      2.515,
+      2.587,
+      2.627,
+      5.736,
+      5.833,
+      5.652
+    ],
+    "top_pose_rmsd_A": 1.341,
+    "best_pose_rmsd_A": 1.341,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -3.639692307692308,
+      "center_y": -2.289615384615385,
+      "center_z": 19.938692307692307,
+      "size_x": 8.400874919341092,
+      "size_y": 8.400874919341092,
+      "size_z": 8.400874919341092,
+      "radius_of_gyration_A": 2.897
+    }
+  }
+}

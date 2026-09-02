@@ -1,0 +1,34 @@
+{
+  "pdb_id": "2IKJ",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "2IKJ",
+    "ligand_heavy_atoms": 48,
+    "n_poses": 3,
+    "rmsd_by_rank_A": [
+      0.503,
+      2.094,
+      4.41
+    ],
+    "top_pose_rmsd_A": 0.503,
+    "best_pose_rmsd_A": 0.503,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 21.319333333333333,
+      "center_y": -6.172479166666666,
+      "center_z": 27.523020833333334,
+      "size_x": 19.215156606757425,
+      "size_y": 19.215156606757425,
+      "size_z": 19.215156606757425,
+      "radius_of_gyration_A": 6.626
+    }
+  }
+}

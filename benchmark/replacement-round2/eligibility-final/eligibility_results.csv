@@ -1,0 +1,10 @@
+pdb_id,stratum,ligand_component_id,ligand_chain,ligand_resseq,status,ligand_instances,ligand_atoms,receptor_chains,receptor_chains_geometric,receptor_chains_override_reason,binding_site_waters_4A,nearest_altloc_A,nearest_metal_A,eligibility_status,issues
+3PNA,alternate_location,CMP,A,250,replacement_candidate,1,22,A,A,,5,5.455,,pass,
+5K8S,alternate_location,CMP,A,501,replacement_candidate,1,22,A,A,,3,4.235,,pass,
+1KJO,metal_or_cofactor,THR,A,1317,replacement_candidate,1,8,A,A,,3,21.241,2.045,pass,
+1EPP,water_policy,1Z1,E,333,replacement_candidate,1,47,E,E,,9,,,pass,
+1PPM,water_policy,0P1,E,324,replacement_candidate,1,42,E,E,,10,,,pass,
+1HRN,water_policy,03D,A,391,replacement_candidate,1,36,A,A,,7,,,pass,
+1MEM,water_policy,0D6,A,280,replacement_candidate,1,39,A,A,,5,,,pass,
+1WBM,water_policy,BLL,B,1100,replacement_candidate,1,48,A;B,A;B,,10,,,pass,
+3BEJ,low_risk_control,MUF,A,473,replacement_candidate,1,31,A,A,,4,,,pass,

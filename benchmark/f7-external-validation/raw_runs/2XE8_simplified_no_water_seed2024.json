@@ -1,0 +1,40 @@
+{
+  "pdb_id": "2XE8",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "2XE8",
+    "ligand_heavy_atoms": 31,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      3.435,
+      3.628,
+      3.89,
+      2.337,
+      2.8,
+      3.221,
+      3.803,
+      4.792,
+      9.081
+    ],
+    "top_pose_rmsd_A": 3.435,
+    "best_pose_rmsd_A": 2.337,
+    "best_pose_rank": 4,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -11.043903225806451,
+      "center_y": -10.358064516129033,
+      "center_z": -25.844870967741937,
+      "size_x": 14.680826908637453,
+      "size_y": 14.680826908637453,
+      "size_z": 14.680826908637453,
+      "radius_of_gyration_A": 5.062
+    }
+  }
+}

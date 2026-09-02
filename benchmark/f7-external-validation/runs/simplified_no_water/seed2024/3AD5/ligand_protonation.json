@@ -1,0 +1,17 @@
+{
+  "input_smiles": "Clc1ccc(cc1)C(=O)CSC2=NNC(=O)N2c3ccc(OCc4ccccc4)cc3",
+  "ph": 7.4,
+  "variants": [
+    "O=C(CSc1n[nH]c(=O)n1-c1ccc(OCc2ccccc2)cc1)c1ccc(Cl)cc1",
+    "O=C(CSc1n[n-]c(=O)n1-c1ccc(OCc2ccccc2)cc1)c1ccc(Cl)cc1"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "O=C(CSc1n[nH]c(=O)n1-c1ccc(OCc2ccccc2)cc1)c1ccc(Cl)cc1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "O=C(CSc1n[nH]c(=O)n1-c1ccc(OCc2ccccc2)cc1)c1ccc(Cl)cc1"
+}

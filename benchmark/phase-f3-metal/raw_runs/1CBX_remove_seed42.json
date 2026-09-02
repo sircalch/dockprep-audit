@@ -1,0 +1,40 @@
+{
+  "pdb_id": "1CBX",
+  "metal_policy": "remove",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1CBX",
+    "ligand_heavy_atoms": 15,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      1.422,
+      0.675,
+      5.524,
+      5.424,
+      3.009,
+      5.283,
+      4.884,
+      2.679,
+      5.21
+    ],
+    "top_pose_rmsd_A": 1.422,
+    "best_pose_rmsd_A": 0.675,
+    "best_pose_rank": 2,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "remove",
+    "box": {
+      "center_x": -2.1747333333333336,
+      "center_y": 29.681733333333334,
+      "center_z": -9.391133333333332,
+      "size_x": 8.269670346416476,
+      "size_y": 8.269670346416476,
+      "size_z": 8.269670346416476,
+      "radius_of_gyration_A": 2.852
+    }
+  }
+}

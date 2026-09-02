@@ -1,0 +1,35 @@
+{
+  "pdb_id": "3GZ9",
+  "policy": "conservative_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3GZ9",
+    "ligand_heavy_atoms": 36,
+    "n_poses": 6,
+    "rmsd_by_rank_A": [
+      1.099,
+      1.827,
+      2.575,
+      8.985,
+      9.242,
+      8.583
+    ],
+    "top_pose_rmsd_A": 1.099,
+    "best_pose_rmsd_A": 1.099,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 34.47422222222222,
+      "center_y": 70.6075,
+      "center_z": -2.6066944444444444,
+      "size_x": 15.46233771162651,
+      "size_y": 15.46233771162651,
+      "size_z": 15.46233771162651,
+      "radius_of_gyration_A": 5.332
+    }
+  }
+}

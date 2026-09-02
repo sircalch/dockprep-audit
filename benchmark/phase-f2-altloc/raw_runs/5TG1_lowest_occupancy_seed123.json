@@ -1,0 +1,47 @@
+{
+  "pdb_id": "5TG1",
+  "altloc_policy": "lowest_occupancy",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "5TG1",
+    "ligand_heavy_atoms": 33,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      1.777,
+      2.403,
+      6.021,
+      2.239,
+      6.542,
+      5.381,
+      6.845,
+      3.027,
+      6.648
+    ],
+    "top_pose_rmsd_A": 1.777,
+    "best_pose_rmsd_A": 1.777,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:11",
+      "A:75",
+      "A:79",
+      "A:108",
+      "A:128",
+      "A:146",
+      "A:162"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "lowest_occupancy",
+    "box": {
+      "center_x": 74.70857575757576,
+      "center_y": -51.976757575757574,
+      "center_z": 132.76142424242423,
+      "size_x": 12.239351469708811,
+      "size_y": 12.239351469708811,
+      "size_z": 12.239351469708811,
+      "radius_of_gyration_A": 4.22
+    }
+  }
+}

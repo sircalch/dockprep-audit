@@ -1,0 +1,53 @@
+{
+  "schema_version": "0.1",
+  "tool": {
+    "name": "DockPrep Audit",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-08-22T22:05:19.441305+00:00",
+  "source": {
+    "path": "benchmark\\expansion-batch2\\raw-pdb\\7KP6.pdb",
+    "format": "PDB",
+    "lines": 14049,
+    "atom_records": 8962
+  },
+  "summary": {
+    "status": "review_required",
+    "findings": 2,
+    "high": 1,
+    "medium": 1,
+    "low": 0
+  },
+  "findings": [
+    {
+      "code": "ALTLOC_PRESENT",
+      "severity": "high",
+      "message": "Alternate atom locations require a documented conformer-selection policy before docking.",
+      "count": 96,
+      "examples": [
+        "ARG A127",
+        "ASP B172",
+        "LEU B320",
+        "TRP B321"
+      ]
+    },
+    {
+      "code": "WATERS_PRESENT",
+      "severity": "medium",
+      "message": "Retaining or removing waters is protocol-dependent; record the decision.",
+      "count": 279,
+      "examples": [
+        "HOH A501",
+        "HOH A502",
+        "HOH A503",
+        "HOH A504",
+        "HOH A505",
+        "HOH A506",
+        "HOH A507",
+        "HOH A508",
+        "HOH A509",
+        "HOH A510"
+      ]
+    }
+  ]
+}

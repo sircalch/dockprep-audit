@@ -1,0 +1,7 @@
+{
+  "pdb_id": "4LV4",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 1,
+  "stderr_tail": "[13:12:51] WARNING: More than one matching pattern found - picking one\n\n[13:12:51] Explicit valence for atom # 11 O, 2, is greater than permitted\n[13:12:51] WARNING: More than one matching pattern found - picking one\n\nTraceback (most recent call last):\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 851, in <module>\n    main()\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 832, in main\n    result = run_case(\n             ^^^^^^^^^\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 765, in run_case\n    index_map = build_reference_to_pdbqt_index_map(ref_coords, ligand_pdbqt_coords)\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Andre\\OneDrive\\Documents\\ChatGPT\\Zenodo y cuentas\\dockprep-audit\\scripts\\smoke_redock_case.py\", line 663, in build_reference_to_pdbqt_index_map\n    raise ValueError(f\"No ligand.pdbqt atom within {tolerance} A of reference atom {ref_atom}\")\nValueError: No ligand.pdbqt atom within 0.01 A of reference atom (15.746, 155.164, 19.239)\n"
+}

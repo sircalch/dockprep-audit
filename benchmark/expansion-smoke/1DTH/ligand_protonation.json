@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=C(NC)C(NC(=O)C(C(C(=O)NO)CSc1sccc1)CC(C)C)Cc2ccccc2",
+  "ph": 7.4,
+  "variants": [
+    "CNC(=O)C(Cc1ccccc1)NC(=O)C(CC(C)C)C(CSc1cccs1)C(=O)NO"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CNC(=O)C(Cc1ccccc1)NC(=O)C(CC(C)C)C(CSc1cccs1)C(=O)NO",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CNC(=O)C(Cc1ccccc1)NC(=O)C(CC(C)C)C(CSc1cccs1)C(=O)NO"
+}

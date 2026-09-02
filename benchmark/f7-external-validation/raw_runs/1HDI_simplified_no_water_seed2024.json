@@ -1,0 +1,40 @@
+{
+  "pdb_id": "1HDI",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1HDI",
+    "ligand_heavy_atoms": 23,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.998,
+      1.326,
+      2.167,
+      3.112,
+      7.151,
+      6.774,
+      7.122,
+      6.956,
+      6.852
+    ],
+    "top_pose_rmsd_A": 0.998,
+    "best_pose_rmsd_A": 0.998,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 20.483608695652173,
+      "center_y": 17.335521739130435,
+      "center_z": 26.125043478260867,
+      "size_x": 11.215136133277184,
+      "size_y": 11.215136133277184,
+      "size_z": 11.215136133277184,
+      "radius_of_gyration_A": 3.867
+    }
+  }
+}

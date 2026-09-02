@@ -1,0 +1,16 @@
+[
+  {
+    "chain": "A",
+    "resseq": "142",
+    "nd1_metal_dist_A": 4.159,
+    "ne2_metal_dist_A": 2.015,
+    "assigned_tautomer": "HID"
+  },
+  {
+    "chain": "A",
+    "resseq": "146",
+    "nd1_metal_dist_A": 4.061,
+    "ne2_metal_dist_A": 2.038,
+    "assigned_tautomer": "HID"
+  }
+]

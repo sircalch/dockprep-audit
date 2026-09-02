@@ -1,0 +1,37 @@
+{
+  "pdb_id": "1E7S",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1E7S",
+    "ligand_heavy_atoms": 8,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      3.25,
+      3.142,
+      3.289,
+      1.988,
+      3.306,
+      1.378,
+      2.392,
+      2.801
+    ],
+    "top_pose_rmsd_A": 3.25,
+    "best_pose_rmsd_A": 1.378,
+    "best_pose_rank": 6,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 60.135625000000005,
+      "center_y": 21.8415,
+      "center_z": 18.1215,
+      "size_x": 5.089026546265383,
+      "size_y": 5.089026546265383,
+      "size_z": 5.089026546265383,
+      "radius_of_gyration_A": 1.755
+    }
+  }
+}

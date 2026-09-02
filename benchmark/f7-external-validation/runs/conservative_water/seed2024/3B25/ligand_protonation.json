@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=S(=O)(c1nc(nc(c1)C)N)c2ccc(cc2)C",
+  "ph": 7.4,
+  "variants": [
+    "Cc1ccc(S(=O)(=O)c2cc(C)nc(N)n2)cc1"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "Cc1ccc(S(=O)(=O)c2cc(C)nc(N)n2)cc1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "Cc1ccc(S(=O)(=O)c2cc(C)nc(N)n2)cc1"
+}

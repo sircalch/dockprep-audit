@@ -1,0 +1,40 @@
+{
+  "pdb_id": "1ADL",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1ADL",
+    "ligand_heavy_atoms": 22,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      4.873,
+      2.641,
+      3.216,
+      5.141,
+      4.995,
+      1.869,
+      4.206,
+      3.613,
+      3.6
+    ],
+    "top_pose_rmsd_A": 4.873,
+    "best_pose_rmsd_A": 1.869,
+    "best_pose_rank": 6,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -48.50681818181818,
+      "center_y": 69.5565909090909,
+      "center_z": -8.643590909090909,
+      "size_x": 11.70085268310013,
+      "size_y": 11.70085268310013,
+      "size_z": 11.70085268310013,
+      "radius_of_gyration_A": 4.035
+    }
+  }
+}

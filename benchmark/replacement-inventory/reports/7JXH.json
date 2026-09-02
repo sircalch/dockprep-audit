@@ -1,0 +1,41 @@
+{
+  "schema_version": "0.1",
+  "tool": {
+    "name": "DockPrep Audit",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-08-21T04:59:00.038806+00:00",
+  "source": {
+    "path": "benchmark\\replacement-inventory\\raw-pdb\\7JXH.pdb",
+    "format": "PDB",
+    "lines": 37314,
+    "atom_records": 17908
+  },
+  "summary": {
+    "status": "review_required",
+    "findings": 1,
+    "high": 1,
+    "medium": 0,
+    "low": 0
+  },
+  "findings": [
+    {
+      "code": "ALTLOC_PRESENT",
+      "severity": "high",
+      "message": "Alternate atom locations require a documented conformer-selection policy before docking.",
+      "count": 96,
+      "examples": [
+        "ASN A857",
+        "ASN B857",
+        "ASN C857",
+        "ASN D857",
+        "ASN E857",
+        "ASN F857",
+        "ASN G857",
+        "ASN H857",
+        "SER A974",
+        "SER B974"
+      ]
+    }
+  ]
+}

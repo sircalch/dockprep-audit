@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=C(NC2c1ccccc1CC2O)C(CCc3ccccc3)C(O)C(O)C(C(=O)NC5c4ccccc4CC5O)CCc6ccccc6",
+  "ph": 7.4,
+  "variants": [
+    "O=C(NC1c2ccccc2CC1O)C(CCc1ccccc1)C(O)C(O)C(CCc1ccccc1)C(=O)NC1c2ccccc2CC1O"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "O=C(NC1c2ccccc2CC1O)C(CCc1ccccc1)C(O)C(O)C(CCc1ccccc1)C(=O)NC1c2ccccc2CC1O",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "O=C(NC1c2ccccc2CC1O)C(CCc1ccccc1)C(O)C(O)C(CCc1ccccc1)C(=O)NC1c2ccccc2CC1O"
+}

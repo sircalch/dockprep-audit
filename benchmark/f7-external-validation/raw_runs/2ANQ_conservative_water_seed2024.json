@@ -1,0 +1,40 @@
+{
+  "pdb_id": "2ANQ",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "2ANQ",
+    "ligand_heavy_atoms": 48,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      1.751,
+      2.508,
+      13.1,
+      13.806,
+      4.145,
+      4.827,
+      4.433,
+      3.273,
+      13.871
+    ],
+    "top_pose_rmsd_A": 1.751,
+    "best_pose_rmsd_A": 1.751,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 2,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 28.812875000000002,
+      "center_y": 53.04360416666666,
+      "center_z": 15.1084375,
+      "size_x": 20.090602245201723,
+      "size_y": 20.090602245201723,
+      "size_z": 20.090602245201723,
+      "radius_of_gyration_A": 6.928
+    }
+  }
+}

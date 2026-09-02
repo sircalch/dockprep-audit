@@ -1,0 +1,40 @@
+{
+  "pdb_id": "3PE1",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3PE1",
+    "ligand_heavy_atoms": 25,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.224,
+      1.609,
+      6.029,
+      5.118,
+      5.117,
+      5.281,
+      4.936,
+      6.192,
+      6.17
+    ],
+    "top_pose_rmsd_A": 0.224,
+    "best_pose_rmsd_A": 0.224,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 22.816840000000003,
+      "center_y": -29.98296,
+      "center_z": 14.46984,
+      "size_x": 11.272736098443536,
+      "size_y": 11.272736098443536,
+      "size_z": 11.272736098443536,
+      "radius_of_gyration_A": 3.887
+    }
+  }
+}

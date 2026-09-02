@@ -1,0 +1,41 @@
+{
+  "pdb_id": "2XDL",
+  "policy": "simplified_no_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "2XDL",
+    "ligand_heavy_atoms": 16,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      0.483,
+      2.326,
+      5.138,
+      5.315,
+      5.458,
+      2.646,
+      5.321,
+      5.2
+    ],
+    "top_pose_rmsd_A": 0.483,
+    "best_pose_rmsd_A": 0.483,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:224"
+    ],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 65.369375,
+      "center_y": 34.9675625,
+      "center_z": 25.541249999999998,
+      "size_x": 8.404331861389526,
+      "size_y": 8.404331861389526,
+      "size_z": 8.404331861389526,
+      "radius_of_gyration_A": 2.898
+    }
+  }
+}

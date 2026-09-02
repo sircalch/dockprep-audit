@@ -1,0 +1,2 @@
+pdb_id,selected,reason,source_url,sha256,category,experimental_method,resolution_angstrom,hetero_residues,title,status
+1BJI,False,candidate,https://files.rcsb.org/download/1BJI.pdb,0538e80d89be28e827d6a51a82ef06afd3d5e84db75f2d94ae095f423ef9c679,metal_or_cofactor,X-RAY DIFFRACTION,2.0,BMA; CA; DPC; MAN; NAG,THE X-RAY STRUCTURE OF A COMPLEX OF TERN N9 INFLUENZA VIRUS NEURAMINIDASE COMPLEXED WITH THE GLAXO 6-CARBOXAMIDE SIALIC ACID ANALOGUE GR217029,retrieved

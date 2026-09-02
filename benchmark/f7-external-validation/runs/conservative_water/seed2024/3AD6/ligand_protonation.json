@@ -1,0 +1,16 @@
+{
+  "input_smiles": "COc1ccc(Nc2nn3c(NCC4CC4)cc(C)nc3c2C(N)=O)cc1",
+  "ph": 7.4,
+  "variants": [
+    "COc1ccc(Nc2nn3c(NCC4CC4)cc(C)nc3c2C(N)=O)cc1"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "COc1ccc(Nc2nn3c(NCC4CC4)cc(C)nc3c2C(N)=O)cc1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "COc1ccc(Nc2nn3c(NCC4CC4)cc(C)nc3c2C(N)=O)cc1"
+}

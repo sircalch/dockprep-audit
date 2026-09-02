@@ -1,0 +1,16 @@
+{
+  "input_smiles": "Nc1c(cccc1N)C",
+  "ph": 7.4,
+  "variants": [
+    "Cc1cccc(N)c1N"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "Cc1cccc(N)c1N",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "Cc1cccc(N)c1N"
+}

@@ -1,0 +1,41 @@
+{
+  "pdb_id": "3PNA",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3PNA",
+    "ligand_heavy_atoms": 22,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      0.752,
+      6.633,
+      1.686,
+      3.98,
+      6.665,
+      4.162,
+      4.099,
+      6.529
+    ],
+    "top_pose_rmsd_A": 0.752,
+    "best_pose_rmsd_A": 0.752,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:112",
+      "A:239",
+      "A:240"
+    ],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 29.580045454545452,
+      "center_y": 1.8700454545454546,
+      "center_z": 2.468681818181818,
+      "size_x": 9.824492262647587,
+      "size_y": 9.824492262647587,
+      "size_z": 9.824492262647587,
+      "radius_of_gyration_A": 3.388
+    }
+  }
+}

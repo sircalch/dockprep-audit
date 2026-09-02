@@ -1,0 +1,61 @@
+{
+  "pdb_id": "1DTH",
+  "metal_policy": "retain",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1DTH",
+    "ligand_heavy_atoms": 32,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      7.8,
+      6.752,
+      7.784,
+      4.205,
+      6.694,
+      4.402,
+      6.784,
+      7.756,
+      5.838
+    ],
+    "top_pose_rmsd_A": 7.8,
+    "best_pose_rmsd_A": 4.205,
+    "best_pose_rank": 4,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [
+      "A:6",
+      "A:7",
+      "A:17",
+      "A:22",
+      "A:30",
+      "A:32",
+      "A:44",
+      "A:45",
+      "A:59",
+      "A:81",
+      "A:82",
+      "A:89",
+      "A:159",
+      "A:167",
+      "A:174",
+      "A:176",
+      "A:185",
+      "A:186",
+      "A:188",
+      "A:193"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 1.3325625,
+      "center_y": 24.08690625,
+      "center_z": 3.22934375,
+      "size_x": 13.102342694608954,
+      "size_y": 13.102342694608954,
+      "size_z": 13.102342694608954,
+      "radius_of_gyration_A": 4.518
+    }
+  }
+}

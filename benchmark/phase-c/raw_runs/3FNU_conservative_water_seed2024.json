@@ -1,0 +1,38 @@
+{
+  "pdb_id": "3FNU",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3FNU",
+    "ligand_heavy_atoms": 45,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      4.536,
+      7.804,
+      8.242,
+      2.898,
+      3.196,
+      5.298,
+      8.154,
+      8.129,
+      7.481
+    ],
+    "top_pose_rmsd_A": 4.536,
+    "best_pose_rmsd_A": 2.898,
+    "best_pose_rank": 4,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": -7.462888888888888,
+      "center_y": -49.09846666666667,
+      "center_z": -76.95733333333334,
+      "size_x": 15.156422442376462,
+      "size_y": 15.156422442376462,
+      "size_z": 15.156422442376462,
+      "radius_of_gyration_A": 5.226
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "input_smiles": "O=S(=O)(c1ccccc1OC)Nc2ccc3NC(=O)N(Cc3c2)C",
+  "ph": 7.4,
+  "variants": [
+    "COc1ccccc1S(=O)(=O)Nc1ccc2c(c1)CN(C)C(=O)N2",
+    "COc1ccccc1S(=O)(=O)[N-]c1ccc2c(c1)CN(C)C(=O)N2",
+    "COc1ccccc1S(=O)(=O)Nc1ccc2c(c1)C[NH+](C)C(=O)N2",
+    "COc1ccccc1S(=O)(=O)[N-]c1ccc2c(c1)C[NH+](C)C(=O)N2"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "COc1ccccc1S(=O)(=O)Nc1ccc2c(c1)CN(C)C(=O)N2",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "COc1ccccc1S(=O)(=O)Nc1ccc2c(c1)CN(C)C(=O)N2"
+}

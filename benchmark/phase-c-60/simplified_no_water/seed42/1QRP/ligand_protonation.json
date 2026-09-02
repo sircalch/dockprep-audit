@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=C(OC)C(NC(=O)C(NC(=O)C(OP(=O)(O)C(NC(=O)C(NC(=O)C(NC(=O)CC(C)C)C(C)C)C(C)C)CC(C)C)Cc1ccccc1)C)C",
+  "ph": 7.4,
+  "variants": [
+    "COC(=O)C(C)NC(=O)C(C)NC(=O)C(Cc1ccccc1)OP(=O)([O-])C(CC(C)C)NC(=O)C(NC(=O)C(NC(=O)CC(C)C)C(C)C)C(C)C"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "COC(=O)C(C)NC(=O)C(C)NC(=O)C(Cc1ccccc1)OP(=O)([O-])C(CC(C)C)NC(=O)C(NC(=O)C(NC(=O)CC(C)C)C(C)C)C(C)C",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "COC(=O)C(C)NC(=O)C(C)NC(=O)C(Cc1ccccc1)OP(=O)([O-])C(CC(C)C)NC(=O)C(NC(=O)C(NC(=O)CC(C)C)C(C)C)C(C)C"
+}

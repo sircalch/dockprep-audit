@@ -1,0 +1,54 @@
+{
+  "pdb_id": "1OHR",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1OHR",
+    "ligand_heavy_atoms": 44,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.853,
+      1.724,
+      8.418,
+      4.362,
+      8.22,
+      9.123,
+      8.475,
+      5.621,
+      7.588
+    ],
+    "top_pose_rmsd_A": 0.853,
+    "best_pose_rmsd_A": 0.853,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:7",
+      "A:14",
+      "A:34",
+      "A:35",
+      "A:41",
+      "A:43",
+      "A:45",
+      "A:55",
+      "A:61",
+      "A:70",
+      "B:7",
+      "B:14",
+      "B:41",
+      "B:55",
+      "B:61"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 3,
+    "box": {
+      "center_x": 5.042136363636364,
+      "center_y": -1.0351363636363635,
+      "center_z": 13.900068181818181,
+      "size_x": 13.871194379366932,
+      "size_y": 13.871194379366932,
+      "size_z": 13.871194379366932,
+      "radius_of_gyration_A": 4.783
+    }
+  }
+}

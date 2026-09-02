@@ -1,0 +1,38 @@
+{
+  "pdb_id": "1EED",
+  "policy": "conservative_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1EED",
+    "ligand_heavy_atoms": 45,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      11.778,
+      11.005,
+      8.227,
+      9.371,
+      9.691,
+      13.659,
+      7.582,
+      12.34,
+      12.556
+    ],
+    "top_pose_rmsd_A": 11.778,
+    "best_pose_rmsd_A": 7.582,
+    "best_pose_rank": 7,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "box": {
+      "center_x": 4.318577777777778,
+      "center_y": 31.607844444444446,
+      "center_z": 16.66431111111111,
+      "size_x": 18.225344575145492,
+      "size_y": 18.225344575145492,
+      "size_z": 18.225344575145492,
+      "radius_of_gyration_A": 6.285
+    }
+  }
+}

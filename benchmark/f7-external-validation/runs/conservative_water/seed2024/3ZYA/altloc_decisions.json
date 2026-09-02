@@ -1,0 +1,50 @@
+[
+  {
+    "chain": "A",
+    "resseq": "55",
+    "resname": "LEU",
+    "occupancies": {
+      "A": 0.54,
+      "B": 0.46
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "56",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.54,
+      "B": 0.46
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "57",
+    "resname": "ARG",
+    "occupancies": {
+      "A": 0.54,
+      "B": 0.46
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  },
+  {
+    "chain": "A",
+    "resseq": "107",
+    "resname": "HIS",
+    "occupancies": {
+      "A": 0.58,
+      "B": 0.42
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  }
+]

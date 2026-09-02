@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=C(NC1C(O)C(O)C(OC1O)CO)C",
+  "ph": 7.4,
+  "variants": [
+    "CC(=O)NC1C(O)OC(CO)C(O)C1O"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CC(=O)NC1C(O)OC(CO)C(O)C1O",
+      "ok": false,
+      "error": "No matching found"
+    }
+  ],
+  "chosen_smiles": null
+}

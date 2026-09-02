@@ -1,0 +1,16 @@
+{
+  "input_smiles": "Clc2c(c1nc(nc(SC)n1)N)cccc2",
+  "ph": 7.4,
+  "variants": [
+    "CSc1nc(N)nc(-c2ccccc2Cl)n1"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CSc1nc(N)nc(-c2ccccc2Cl)n1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CSc1nc(N)nc(-c2ccccc2Cl)n1"
+}

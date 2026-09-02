@@ -1,0 +1,41 @@
+{
+  "pdb_id": "3MWU",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3MWU",
+    "ligand_heavy_atoms": 28,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      1.976,
+      1.094,
+      7.174,
+      3.352,
+      7.111,
+      4.707,
+      3.396,
+      8.005,
+      6.012
+    ],
+    "top_pose_rmsd_A": 1.976,
+    "best_pose_rmsd_A": 1.094,
+    "best_pose_rank": 2,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:512",
+      "A:513"
+    ],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 25.402714285714286,
+      "center_y": 9.567892857142857,
+      "center_z": 5.070857142857143,
+      "size_x": 12.44965833277337,
+      "size_y": 12.44965833277337,
+      "size_z": 12.44965833277337,
+      "radius_of_gyration_A": 4.293
+    }
+  }
+}

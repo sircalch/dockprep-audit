@@ -1,0 +1,49 @@
+pdb_id,stratum,comp_id,comp_name,title
+3PNA,alternate_location,CMP,"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE",Crystal Structure of cAMP bound (91-244)RIa Subunit of cAMP-dependent Protein Kinase
+3KXG,alternate_location,K6X,"3,4,5,6,7-pentabromo-1H-indazole","Crystal structure of Z. mays CK2 kinase alpha subunit in complex with the inhibitor 3,4,5,6,7-pentabromo-1H-indazole (K64)"
+3MWU,alternate_location,BK3,"3-(naphthalen-1-ylmethyl)-1-(piperidin-4-ylmethyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",Activated Calcium-Dependent Protein Kinase 1 from Cryptosporidium parvum (CpCDPK1) in complex with bumped kinase inhibitor RM-1-95
+5K8S,alternate_location,CMP,"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE",cAMP bound PfPKA-R (297-441)
+3P0M,alternate_location,4SB,(2R)-4-amino-N'-[(1E)-(3-bromo-4-hydroxyphenyl)methylidene]-2-phenylbutanehydrazide,Human cAMP-dependent protein kinase in complex with an inhibitor
+2I4H,alternate_location,UA1,N-(TERT-BUTOXYCARBONYL)-L-TYROSYL-N-METHYL-4-(SULFOAMINO)-L-PHENYLALANINAMIDE,Structural studies of protein tyrosine phosphatase beta catalytic domain co-crystallized with a sulfamic acid inhibitor
+5E0J,alternate_location,5LJ,"(phenylmethyl) ~{N}-[(12~{S},15~{S},18~{S})-15-(cyclohexylmethyl)-12-(hydroxymethyl)-9,14,17-tris(oxidanylidene)-1,8,13,16,21,22-hexazabicyclo[18.2.1]tricosa-20(23),21-dien-18-yl]carbamate",1.20 A resolution structure of Norovirus 3CL protease in complex with a triazole-based macrocyclic (21-mer) inhibitor
+5TG1,alternate_location,V56,"(4S,7S,17S)-17-(3-chlorophenyl)-7-(hydroxymethyl)-4-(2-methylpropyl)-1-oxa-3,6,11-triazacycloheptadecane-2,5,10-trione",1.40 A resolution structure of Norovirus 3CL protease in complex with the a m-chlorophenyl substituted macrocyclic inhibitor (17-mer)
+1E6U,alternate_location,UVW,ACETYLPHOSPHATE,GDP 4-keto-6-deoxy-D-mannose epimerase reductase
+1E7S,alternate_location,UVW,ACETYLPHOSPHATE,GDP 4-keto-6-deoxy-D-mannose epimerase reductase K140R
+3LXE,metal_or_cofactor,TOR,"[(3aS,5aR,8aR,8bS)-2,2,7,7-tetramethyltetrahydro-3aH-bis[1,3]dioxolo[4,5-b:4',5'-d]pyran-3a-yl]methyl sulfamate",Human Carbonic Anhydrase I in complex with topiramate
+6ZR9,metal_or_cofactor,QOZ,2-[4-(diphenylmethyl)piperazin-1-yl]-~{N}-(4-sulfamoylphenyl)ethanamide,The crystal structure of the complex of hCAVII with 2-(4-benzhydrylpiperazin-1-yl)-N-(4-sulfamoylphenyl)acetamide
+1Z9Y,metal_or_cofactor,FUN,5-(AMINOSULFONYL)-4-CHLORO-2-[(2-FURYLMETHYL)AMINO]BENZOIC ACID,carbonic anhydrase II in complex with furosemide as sulfonamide inhibitor
+3IBI,metal_or_cofactor,BOW,octyl sulfamate,The crystal structure of the human carbonic anhydrase II in complex with an aliphatic sulfamate inhibitor
+1O86,metal_or_cofactor,LPR,[N2-[(S)-1-CARBOXY-3-PHENYLPROPYL]-L-LYSYL-L-PROLINE,Crystal Structure of Human Angiotensin Converting Enzyme in complex with lisinopril.
+1UZE,metal_or_cofactor,EAL,1-((2S)-2-{[(1S)-1-CARBOXY-3-PHENYLPROPYL]AMINO}PROPANOYL)-L-PROLINE,Complex of the anti-hypertensive drug enalaprilat and the human testicular angiotensin I-converting enzyme
+1DTH,metal_or_cofactor,BAT,4-(N-HYDROXYAMINO)-2R-ISOBUTYL-2S-(2-THIENYLTHIOMETHYL)SUCCINYL-L-PHENYLALANINE-N-METHYLAMIDE,METALLOPROTEASE
+4G9L,metal_or_cofactor,NGH,N-ISOBUTYL-N-[4-METHOXYPHENYLSULFONYL]GLYCYL HYDROXAMIC ACID,Structure of MMP3 complexed with NNGH inhibitor.
+4JA1,metal_or_cofactor,NGH,N-ISOBUTYL-N-[4-METHOXYPHENYLSULFONYL]GLYCYL HYDROXAMIC ACID,Structure of MMP3 complexed with a platinum-based inhibitor
+6TMN,metal_or_cofactor,0PI,"N-[(2R,4S)-4-hydroxy-2-(2-methylpropyl)-4-oxido-7-oxo-9-phenyl-3,8-dioxa-6-aza-4-phosphanonan-1-oyl]-L-leucine",Structures of two thermolysin-inhibitor complexes that differ by a single hydrogen bond
+1KJO,metal_or_cofactor,THR,THREONINE,Thermolysin complexed with Z-L-Threonine (benzyloxycarbonyl-L-Threonine)
+4RSY,metal_or_cofactor,B3N,4-(dimethylamino)-N-[7-(hydroxyamino)-7-oxoheptyl]benzamide,Crystal structures of the Human leukotriene A4 Hydrolase complex with a potential inhibitor H7
+1EED,water_policy,0EO,"(2S)-2-[[(3S,4S)-5-cyclohexyl-4-[[(4S,5S)-5-[(2-methylpropan-2-yl)oxycarbonylamino]-4-oxidanyl-6-phenyl-hexanoyl]amino] -3-oxidanyl-pentanoyl]amino]-4-methyl-pentanoic acid",X-ray crystallographic analysis of inhibition of endothiapepsin by cyclohexyl renin inhibitors
+1WBM,water_policy,BLL,"(2R,3R,4R,5R)-3,4-DIHYDROXY-N,N'-BIS[(1S,2R)-2-HYDROXY-2,3-DIHYDRO-1H-INDEN-1-YL]-2,5-BIS(2-PHENYLETHYL)HEXANEDIAMIDE","HIV-1 protease in complex with symmetric inhibitor, BEA450"
+3KM4,water_policy,22X,(3R)-3-[(1S)-4-(acetylamino)-1-(3-chlorophenyl)-1-hydroxybutyl]-N-{(1S)-2-cyclohexyl-1-[(methylamino)methyl]ethyl}piperidine-1-carboxamide,Optimization of Orally Bioavailable Alkyl Amine Renin Inhibitors
+4DJW,water_policy,0KP,"(2E,5R)-2-imino-3-methyl-5-phenyl-5-[3-(pyridin-3-yl)phenyl]imidazolidin-4-one",Structure of BACE Bound to 2-imino-3-methyl-5-phenyl-5-(3-(pyridin-3-yl)phenyl)imidazolidin-4-one
+6ASH,water_policy,1XF,2-{[(carbamoylsulfanyl)acetyl]amino}benzoic acid,Crystal structure of human Cathepsin K with a non-active site inhibitor at 1.42 Angstrom resolution
+1EPP,water_policy,1Z1,"N-(dimethylsulfamoyl)-L-phenylalanyl-N-[(1S,2S)-2-hydroxy-4-{[(2S)-2-methylbutyl]amino}-1-(2-methylpropyl)-4-oxobutyl]-N~6~-(methylcarbamothioyl)-L-lysinamide","ENDOTHIA ASPARTIC PROTEINASE (ENDOTHIAPEPSIN) COMPLEXED WITH PD-130,693 (MAS PHE LYS+MTF STA MBA)"
+1QRP,water_policy,HH0,methyl N-[(2S)-2-({(S)-hydroxy[(1R)-3-methyl-1-{[N-(3-methylbutanoyl)-L-valyl-L-valyl]amino}butyl]phosphoryl}oxy)-3-phenylpropanoyl]-L-alanyl-L-alaninate,Human pepsin 3A in complex with a phosphonate inhibitor IVA-VAL-VAL-LEU(P)-(O)PHE-ALA-ALA-OME
+1PPM,water_policy,0P1,N-[(benzyloxy)carbonyl]-L-alanyl-N-{(1S)-1-[(R)-[(1R)-1-benzyl-2-methoxy-2-oxoethoxy](hydroxy)phosphoryl]-3-methylbutyl }-L-alaninamide,CRYSTALLOGRAPHIC ANALYSIS OF TRANSITION-STATE MIMICS BOUND TO PENICILLOPEPSIN: PHOSPHORUS-CONTAINING PEPTIDE ANALOGUES
+1HRN,water_policy,03D,"(2R,4S,5S)-N-[(2S,3R,4S)-1-cyclohexyl-3,4-dihydroxy-6-methylheptan-2-yl]-2-(cyclopropylmethyl)-4,5-dihydroxy-6-phenylhexanamide",HIGH RESOLUTION CRYSTAL STRUCTURES OF RECOMBINANT HUMAN RENIN IN COMPLEX WITH POLYHYDROXYMONOAMIDE INHIBITORS
+1CVZ,water_policy,C48,N1-(1-DIMETHYLCARBAMOYL-2-PHENYL-ETHYL)-2-OXO-N4-(2-PYRIDIN-2-YL-ETHYL)-SUCCINAMIDE,CRYSTAL STRUCTURE ANALYSIS OF PAPAIN WITH CLIK148(CATHEPSIN L SPECIFIC INHIBITOR)
+2F25,water_policy,DAN,"2-DEOXY-2,3-DEHYDRO-N-ACETYL-NEURAMINIC ACID",Crystal Structure of the Human Sialidase Neu2 E111Q Mutant in Complex with DANA Inhibitor
+1GS4,low_risk_control,ZK5,9ALPHA-FLUOROCORTISOL,Structural basis for the glucocorticoid response in a mutant human androgen receptor (ARccr) derived from an androgen-independent prostate cancer
+2OZ7,low_risk_control,CA4,CYPROTERONE ACETATE,Crystal structure of the human androgen receptor T877A mutant ligand-binding domain with cyproterone acetate
+3NOA,low_risk_control,5BC,(5-{3-[4-(biphenyl-4-ylcarbonyl)-2-propylphenoxy]propoxy}-1H-indol-1-yl)acetic acid,Crystal structure of human PPAR-gamma ligand binding domain complex with a potency improved agonist
+6D8X,low_risk_control,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid,PPAR gamma LBD complexed with the agonist GW1929
+3GZ9,low_risk_control,D32,"(2,3-dimethyl-4-{[2-(prop-2-yn-1-yloxy)-4-{[4-(trifluoromethyl)phenoxy]methyl}phenyl]sulfanyl}phenoxy)acetic acid",Crystal Structure of Peroxisome Proliferator-Activated Receptor Delta (PPARd) in Complex with a Full Agonist
+1SN5,low_risk_control,T3,"3,5,3'TRIIODOTHYRONINE",Crystal Structure of Sea Bream Transthyretin in complex with Triiodothyronine at 1.90A Resolution
+1G5Y,low_risk_control,REA,RETINOIC ACID,THE 2.0 ANGSTROM RESOLUTION CRYSTAL STRUCTURE OF THE RXRALPHA LIGAND BINDING DOMAIN TETRAMER IN THE PRESENCE OF A NON-ACTIVATING RETINOIC ACID ISOMER.
+1IE9,low_risk_control,VDX,"5-{2-[1-(5-HYDROXY-1,5-DIMETHYL-HEXYL)-7A-METHYL-OCTAHYDRO-INDEN-4-YLIDENE]-ETHYLIDENE}-4-METHYLENE-CYCLOHEXANE-1,3-DIOL",Crystal Structure Of The Nuclear Receptor For Vitamin D Ligand Binding Domain Bound to MC1288
+3BEJ,low_risk_control,MUF,"(8alpha,10alpha,13alpha,17beta)-17-[(4-hydroxyphenyl)carbonyl]androsta-3,5-diene-3-carboxylic acid",Structure of human FXR in complex with MFA-1 and co-activator peptide
+3L1B,low_risk_control,635,"1-methylethyl 8-fluoro-1,1-dimethyl-3-{[4-(3-morpholin-4-ylpropoxy)phenyl]carbonyl}-1,2,3,6-tetrahydroazepino[4,5-b]indole-5-carboxylate",Complex Structure of FXR Ligand-binding domain with a tetrahydroazepinoindole compound
+5HJS,low_risk_control,668,"2-chloro-4-{1'-[(2R)-2-hydroxy-3-methyl-2-(trifluoromethyl)butanoyl]-4,4'-bipiperidin-1-yl}-N,N-dimethylbenzamide",Identification of LXRbeta selective agonists for the treatment of Alzheimer's Disease
+3KMR,low_risk_control,EQN,"4-{[(5,5,8,8-tetramethyl-5,6,7,8-tetrahydronaphthalen-2-yl)carbonyl]amino}benzoic acid",Crystal structure of RARalpha ligand binding domain in complex with an agonist ligand (Am580) and a coactivator fragment
+3D14,alternate_location,AK1,"1-{5-[2-(thieno[3,2-d]pyrimidin-4-ylamino)ethyl]-1,3-thiazol-2-yl}-3-[3-(trifluoromethyl)phenyl]urea","Crystal structure of mouse Aurora A (Asn186->Gly, Lys240->Arg, Met302->Leu) in complex with 1-{5-[2-(thieno[3,2-d]pyrimidin-4-ylamino)-ethyl]- thiazol-2-yl}-3-(3-trifluoromethyl-phenyl)-urea"
+5F4N,alternate_location,5UY,methyl 6-[(5-cyanopyrazin-2-yl)amino]-4-[[(2~{R})-morpholin-2-yl]methylamino]pyridine-3-carboxylate,Multi-parameter lead optimization to give an oral CHK1 inhibitor clinical candidate: (R)-5-((4-((morpholin-2-ylmethyl)amino)-5-(trifluoromethyl)pyridin-2-yl)amino)pyrazine-2-carbonitrile (CCT245737)
+1WBK,water_policy,568,"N,N-[2,5-O-DIBENZYL-GLUCARYL]-DI-[1-AMINO-INDAN-2-OL]","HIV-1 protease in complex with asymmetric inhibitor, BEA568"

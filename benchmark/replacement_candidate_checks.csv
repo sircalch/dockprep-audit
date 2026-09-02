@@ -1,0 +1,5 @@
+pdb_id,stratum,ligand_component_id,status
+3ERT,alternate_location,OHT,candidate_check
+1ERE,alternate_location,EST,candidate_check
+1QG4,metal_or_cofactor,GDP,candidate_check
+4LDE,metal_or_cofactor,1WV,candidate_check

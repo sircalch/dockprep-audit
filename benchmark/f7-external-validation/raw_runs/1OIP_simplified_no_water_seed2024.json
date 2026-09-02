@@ -1,0 +1,40 @@
+{
+  "pdb_id": "1OIP",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1OIP",
+    "ligand_heavy_atoms": 31,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.998,
+      2.626,
+      1.997,
+      4.634,
+      8.405,
+      8.649,
+      7.153,
+      7.755,
+      8.3
+    ],
+    "top_pose_rmsd_A": 0.998,
+    "best_pose_rmsd_A": 0.998,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -12.137645161290322,
+      "center_y": 4.275870967741935,
+      "center_z": 17.51958064516129,
+      "size_x": 13.997428842337278,
+      "size_y": 13.997428842337278,
+      "size_z": 13.997428842337278,
+      "radius_of_gyration_A": 4.827
+    }
+  }
+}

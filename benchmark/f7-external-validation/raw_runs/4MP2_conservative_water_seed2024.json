@@ -1,0 +1,40 @@
+{
+  "pdb_id": "4MP2",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "4MP2",
+    "ligand_heavy_atoms": 20,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      6.831,
+      6.99,
+      7.164,
+      3.602,
+      2.125,
+      4.51,
+      7.04,
+      6.939,
+      7.051
+    ],
+    "top_pose_rmsd_A": 6.831,
+    "best_pose_rmsd_A": 2.125,
+    "best_pose_rank": 5,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 2,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 14.003499999999999,
+      "center_y": 2.2079,
+      "center_z": -37.66585,
+      "size_x": 10.20740851777154,
+      "size_y": 10.20740851777154,
+      "size_z": 10.20740851777154,
+      "radius_of_gyration_A": 3.52
+    }
+  }
+}

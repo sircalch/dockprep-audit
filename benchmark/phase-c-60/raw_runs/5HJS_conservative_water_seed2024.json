@@ -1,0 +1,33 @@
+{
+  "pdb_id": "5HJS",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "5HJS",
+    "ligand_heavy_atoms": 35,
+    "n_poses": 4,
+    "rmsd_by_rank_A": [
+      1.763,
+      2.075,
+      2.409,
+      2.239
+    ],
+    "top_pose_rmsd_A": 1.763,
+    "best_pose_rmsd_A": 1.763,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 22.165085714285716,
+      "center_y": -15.926485714285715,
+      "center_z": 19.08942857142857,
+      "size_x": 17.262553748670285,
+      "size_y": 17.262553748670285,
+      "size_z": 17.262553748670285,
+      "radius_of_gyration_A": 5.953
+    }
+  }
+}

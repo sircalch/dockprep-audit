@@ -1,0 +1,24 @@
+[
+  {
+    "chain": "A",
+    "resseq": "751",
+    "resname": "CYS",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "A",
+    "resseq": "831",
+    "resname": "ASP",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  }
+]

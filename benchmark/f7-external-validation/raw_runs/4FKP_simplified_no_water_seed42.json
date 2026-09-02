@@ -1,0 +1,47 @@
+{
+  "pdb_id": "4FKP",
+  "policy": "simplified_no_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "4FKP",
+    "ligand_heavy_atoms": 25,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      1.623,
+      1.618,
+      2.259,
+      3.669,
+      3.686,
+      8.576,
+      8.839,
+      8.883,
+      3.261
+    ],
+    "top_pose_rmsd_A": 1.623,
+    "best_pose_rmsd_A": 1.618,
+    "best_pose_rank": 2,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:12",
+      "A:34",
+      "A:44",
+      "A:74",
+      "A:295",
+      "A:297"
+    ],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -2.737,
+      "center_y": 7.76044,
+      "center_z": -28.14564,
+      "size_x": 13.339719276037558,
+      "size_y": 13.339719276037558,
+      "size_z": 13.339719276037558,
+      "radius_of_gyration_A": 4.6
+    }
+  }
+}

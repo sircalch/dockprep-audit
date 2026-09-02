@@ -1,0 +1,47 @@
+{
+  "pdb_id": "1UZE",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1UZE",
+    "ligand_heavy_atoms": 25,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.602,
+      3.28,
+      8.365,
+      8.261,
+      2.746,
+      2.13,
+      3.711,
+      8.76,
+      8.392
+    ],
+    "top_pose_rmsd_A": 0.602,
+    "best_pose_rmsd_A": 0.602,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:40",
+      "A:64",
+      "A:117",
+      "A:298",
+      "A:303",
+      "A:307",
+      "A:440",
+      "A:618"
+    ],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 40.63776,
+      "center_y": 35.47076,
+      "center_z": 46.56308,
+      "size_x": 12.770737622038281,
+      "size_y": 12.770737622038281,
+      "size_z": 12.770737622038281,
+      "radius_of_gyration_A": 4.404
+    }
+  }
+}

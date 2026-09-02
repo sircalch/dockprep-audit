@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O(CCCCCCCCCCCC)C2OC(C(OC1OC(CO)C(O)C(O)C1O)C(O)C2O)CO",
+  "ph": 7.4,
+  "variants": [
+    "CCCCCCCCCCCCOC1OC(CO)C(OC2OC(CO)C(O)C(O)C2O)C(O)C1O"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CCCCCCCCCCCCOC1OC(CO)C(OC2OC(CO)C(O)C(O)C2O)C(O)C1O",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CCCCCCCCCCCCOC1OC(CO)C(OC2OC(CO)C(O)C(O)C2O)C(O)C1O"
+}

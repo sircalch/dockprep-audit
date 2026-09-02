@@ -1,0 +1,30 @@
+[
+  {
+    "chain": "A",
+    "resseq": "64",
+    "nd1_metal_dist_A": 2.178,
+    "ne2_metal_dist_A": 4.287,
+    "assigned_tautomer": "HIE"
+  },
+  {
+    "chain": "A",
+    "resseq": "94",
+    "nd1_metal_dist_A": 4.145,
+    "ne2_metal_dist_A": 2.033,
+    "assigned_tautomer": "HID"
+  },
+  {
+    "chain": "A",
+    "resseq": "96",
+    "nd1_metal_dist_A": 4.146,
+    "ne2_metal_dist_A": 2.055,
+    "assigned_tautomer": "HID"
+  },
+  {
+    "chain": "A",
+    "resseq": "119",
+    "nd1_metal_dist_A": 2.021,
+    "ne2_metal_dist_A": 4.055,
+    "assigned_tautomer": "HIE"
+  }
+]

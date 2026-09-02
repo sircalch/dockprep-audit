@@ -1,0 +1,10 @@
+original_pdb_id,stratum,replacement_pdb_id,ligand_component_id,ligand_chain,ligand_resseq,replacement_uniprot,eligibility_status,smoke_test_status
+6FTF,alternate_location,3PNA,CMP,A,250,P00514,pass,blocked_by_environment
+7ORS,alternate_location,5K8S,CMP,A,501,Q7KQK0,pass,blocked_by_environment
+1THL,metal_or_cofactor,1KJO,THR,A,1317,P00800,pass,blocked_by_environment
+1PSO,water_policy,1EPP,1Z1,E,333,P11838,pass,blocked_by_environment
+1WKR,water_policy,1PPM,0P1,E,324,P00798,pass,blocked_by_environment
+1XDH,water_policy,1HRN,03D,A,391,P00797,pass,blocked_by_environment
+1EPQ,water_policy,1MEM,0D6,A,280,P43235,pass,blocked_by_environment
+1ENT,water_policy,1WBM,BLL,B,1100,Q8Q3H0,pass,blocked_by_environment
+3FLI,low_risk_control,3BEJ,MUF,A,473,Q96RI1,pass,blocked_by_environment

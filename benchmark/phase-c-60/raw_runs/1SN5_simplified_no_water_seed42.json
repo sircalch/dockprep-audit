@@ -1,0 +1,31 @@
+{
+  "pdb_id": "1SN5",
+  "policy": "simplified_no_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1SN5",
+    "ligand_heavy_atoms": 23,
+    "n_poses": 2,
+    "rmsd_by_rank_A": [
+      8.562,
+      8.976
+    ],
+    "top_pose_rmsd_A": 8.562,
+    "best_pose_rmsd_A": 8.562,
+    "best_pose_rank": 1,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": -43.23295652173913,
+      "center_y": -24.225782608695653,
+      "center_z": -17.051304347826086,
+      "size_x": 11.578891296489351,
+      "size_y": 11.578891296489351,
+      "size_z": 11.578891296489351,
+      "radius_of_gyration_A": 3.993
+    }
+  }
+}

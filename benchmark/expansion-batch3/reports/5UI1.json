@@ -1,0 +1,70 @@
+{
+  "schema_version": "0.1",
+  "tool": {
+    "name": "DockPrep Audit",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-08-22T22:08:14.215218+00:00",
+  "source": {
+    "path": "benchmark\\expansion-batch3\\raw-pdb\\5UI1.pdb",
+    "format": "PDB",
+    "lines": 11469,
+    "atom_records": 10491
+  },
+  "summary": {
+    "status": "review_required",
+    "findings": 3,
+    "high": 1,
+    "medium": 2,
+    "low": 0
+  },
+  "findings": [
+    {
+      "code": "ALTLOC_PRESENT",
+      "severity": "high",
+      "message": "Alternate atom locations require a documented conformer-selection policy before docking.",
+      "count": 20,
+      "examples": [
+        "CYS A208",
+        "CYS B208",
+        "CYS D208",
+        "SER B357",
+        "SER D357"
+      ]
+    },
+    {
+      "code": "WATERS_PRESENT",
+      "severity": "medium",
+      "message": "Retaining or removing waters is protocol-dependent; record the decision.",
+      "count": 358,
+      "examples": [
+        "HOH A601",
+        "HOH A602",
+        "HOH A603",
+        "HOH A604",
+        "HOH A605",
+        "HOH A606",
+        "HOH A607",
+        "HOH A608",
+        "HOH A609",
+        "HOH A610"
+      ]
+    },
+    {
+      "code": "METAL_PRESENT",
+      "severity": "medium",
+      "message": "Metal coordination and charge treatment should be documented.",
+      "count": 8,
+      "examples": [
+        "MN MN A501",
+        "MN MN A502",
+        "MN MN B501",
+        "MN MN B502",
+        "MN MN C501",
+        "MN MN C502",
+        "MN MN D501",
+        "MN MN D502"
+      ]
+    }
+  ]
+}

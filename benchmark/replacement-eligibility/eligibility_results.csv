@@ -1,0 +1,5 @@
+pdb_id,stratum,ligand_component_id,status,ligand_instances,ligand_atoms,receptor_chains,binding_site_waters_4A,nearest_altloc_A,nearest_metal_A,eligibility_status,issues
+3ERT,alternate_location,OHT,candidate_check,1,29,A,4,5.054,,pass,
+1ERE,alternate_location,EST,candidate_check,6,120,A;B;C;D;E;F,6,11.584,,review,expected one ligand instance; found 6; declared stratum feature is not binding-site relevant
+1QG4,metal_or_cofactor,GDP,candidate_check,2,56,A;B,12,,1.676,review,expected one ligand instance; found 2
+4LDE,metal_or_cofactor,1WV,candidate_check,1,15,A,1,,17.980,review,declared stratum feature is not binding-site relevant

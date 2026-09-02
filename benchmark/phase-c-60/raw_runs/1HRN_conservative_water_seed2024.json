@@ -1,0 +1,40 @@
+{
+  "pdb_id": "1HRN",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1HRN",
+    "ligand_heavy_atoms": 36,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.955,
+      7.578,
+      6.226,
+      7.851,
+      8.361,
+      7.831,
+      4.91,
+      6.295,
+      7.93
+    ],
+    "top_pose_rmsd_A": 0.955,
+    "best_pose_rmsd_A": 0.955,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:160A"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 35.600861111111115,
+      "center_y": 60.02063888888889,
+      "center_z": 43.749944444444445,
+      "size_x": 13.900340299396548,
+      "size_y": 13.900340299396548,
+      "size_z": 13.900340299396548,
+      "radius_of_gyration_A": 4.793
+    }
+  }
+}

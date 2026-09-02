@@ -1,0 +1,19 @@
+{
+  "input_smiles": "COc1cc(Nc2nc(N[CH]3CCCC[CH]3N)cnc2C(N)=O)cc(OC)c1",
+  "ph": 7.4,
+  "variants": [
+    "COc1cc(Nc2nc([NH2+]C3CCCCC3N)cnc2C(N)=O)cc(OC)c1",
+    "COc1cc(Nc2nc([NH2+]C3CCCCC3[NH3+])cnc2C(N)=O)cc(OC)c1",
+    "COc1cc(Nc2nc(NC3CCCCC3N)cnc2C(N)=O)cc(OC)c1",
+    "COc1cc(Nc2nc(NC3CCCCC3[NH3+])cnc2C(N)=O)cc(OC)c1"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "COc1cc(Nc2nc([NH2+]C3CCCCC3N)cnc2C(N)=O)cc(OC)c1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "COc1cc(Nc2nc([NH2+]C3CCCCC3N)cnc2C(N)=O)cc(OC)c1"
+}

@@ -1,0 +1,38 @@
+{
+  "pdb_id": "1QRP",
+  "policy": "simplified_no_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1QRP",
+    "ligand_heavy_atoms": 52,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      3.21,
+      1.709,
+      12.199,
+      11.907,
+      12.221,
+      12.002,
+      12.561,
+      11.663,
+      6.999
+    ],
+    "top_pose_rmsd_A": 3.21,
+    "best_pose_rmsd_A": 1.709,
+    "best_pose_rank": 2,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 7.307173076923077,
+      "center_y": 17.622692307692308,
+      "center_z": 10.181596153846154,
+      "size_x": 18.855387854869665,
+      "size_y": 18.855387854869665,
+      "size_z": 18.855387854869665,
+      "radius_of_gyration_A": 6.502
+    }
+  }
+}

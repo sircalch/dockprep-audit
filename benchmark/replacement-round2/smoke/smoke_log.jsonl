@@ -1,0 +1,10 @@
+{"pdb_id": "3PNA", "returncode": null, "stderr_tail": "ImportError: DLL load failed while importing rdMolStandardize: Una directiva de Control de aplicaciones bloqueo este archivo. (Windows Application Control / Smart App Control policy blocked .venv/Lib/site-packages/rdkit/Chem/MolStandardize/rdMolStandardize.pyd at import time, before any case-specific code ran)", "blocked": "environment_policy_block"}
+{"pdb_id": "5K8S", "returncode": null, "stderr_tail": "Same DLL-load block as 3PNA -- occurs at 'import dimorphite_dl' in scripts/smoke_redock_case.py before any pipeline logic executes.", "blocked": "environment_policy_block"}
+{"pdb_id": "1KJO", "returncode": null, "stderr_tail": "Same DLL-load block.", "blocked": "environment_policy_block"}
+{"pdb_id": "1EPP", "returncode": null, "stderr_tail": "Same DLL-load block.", "blocked": "environment_policy_block"}
+{"pdb_id": "1PPM", "returncode": null, "stderr_tail": "Same DLL-load block.", "blocked": "environment_policy_block"}
+{"pdb_id": "1HRN", "returncode": null, "stderr_tail": "Same DLL-load block.", "blocked": "environment_policy_block"}
+{"pdb_id": "1MEM", "returncode": null, "stderr_tail": "Same DLL-load block.", "blocked": "environment_policy_block"}
+{"pdb_id": "1WBM", "returncode": null, "stderr_tail": "Same DLL-load block.", "blocked": "environment_policy_block"}
+{"pdb_id": "3BEJ", "returncode": null, "stderr_tail": "Same DLL-load block.", "blocked": "environment_policy_block"}
+{"pdb_id": "1M17", "returncode": null, "stderr_tail": "Control probe: re-ran smoke_redock_case.py against an ALREADY-FROZEN, previously-passing pilot case (1M17) to confirm the block is environment-wide and not specific to any candidate here. Same ImportError.", "blocked": "environment_policy_block", "note": "control_probe_on_existing_frozen_case"}

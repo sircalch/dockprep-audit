@@ -1,0 +1,486 @@
+{
+  "1KJO": {
+    "ligand_instances": [
+      "A:1317"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1413",
+      "A:1414",
+      "A:1439"
+    ],
+    "issues": []
+  },
+  "1EPP": {
+    "ligand_instances": [
+      "E:333"
+    ],
+    "receptor_chains": [
+      "E"
+    ],
+    "receptor_chains_geometric": [
+      "E"
+    ],
+    "binding_site_waters": [
+      "E:335",
+      "E:338",
+      "E:339",
+      "E:341",
+      "E:342",
+      "E:354",
+      "E:526",
+      "E:548",
+      "E:560"
+    ],
+    "issues": []
+  },
+  "1PPM": {
+    "ligand_instances": [
+      "E:324"
+    ],
+    "receptor_chains": [
+      "E"
+    ],
+    "receptor_chains_geometric": [
+      "E"
+    ],
+    "binding_site_waters": [
+      "E:401",
+      "E:466",
+      "E:468",
+      "E:490",
+      "E:499",
+      "E:500",
+      "E:504",
+      "E:569",
+      "E:636",
+      "E:637"
+    ],
+    "issues": []
+  },
+  "1WBM": {
+    "ligand_instances": [
+      "B:1100"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "A",
+      "B"
+    ],
+    "binding_site_waters": [
+      "A:2004",
+      "A:2012",
+      "A:2014",
+      "A:2016",
+      "A:2024",
+      "B:2018",
+      "B:2021",
+      "B:2030",
+      "B:2031",
+      "B:2057"
+    ],
+    "issues": []
+  },
+  "1MEM": {
+    "ligand_instances": [
+      "A:280"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:301",
+      "A:312",
+      "A:354",
+      "A:361",
+      "A:366"
+    ],
+    "issues": []
+  },
+  "1HRN": {
+    "ligand_instances": [
+      "A:391"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1037",
+      "A:1049",
+      "A:866",
+      "A:871",
+      "A:912",
+      "A:926",
+      "A:987"
+    ],
+    "issues": []
+  },
+  "6N2W": {
+    "ligand_instances": [
+      "B:702"
+    ],
+    "receptor_chains": [
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "B"
+    ],
+    "binding_site_waters": [],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "1XKK": {
+    "ligand_instances": [
+      "A:91"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:22",
+      "A:29",
+      "A:4",
+      "A:5",
+      "A:71"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "2ITX": {
+    "ligand_instances": [
+      "A:2020"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:3022"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "6MKL": {
+    "ligand_instances": [
+      "A:400"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "A",
+      "B"
+    ],
+    "binding_site_waters": [
+      "A:507",
+      "A:534",
+      "A:540",
+      "A:572",
+      "B:140",
+      "B:153",
+      "B:162"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "4RVI": {
+    "ligand_instances": [
+      "A:500"
+    ],
+    "receptor_chains": [
+      "A",
+      "B"
+    ],
+    "receptor_chains_geometric": [
+      "A",
+      "B"
+    ],
+    "binding_site_waters": [
+      "A:601",
+      "A:609",
+      "A:612",
+      "A:618",
+      "A:631",
+      "A:634",
+      "B:109",
+      "B:118"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "4RVX": {
+    "ligand_instances": [
+      "A:500"
+    ],
+    "receptor_chains": [
+      "A",
+      "B",
+      "C"
+    ],
+    "receptor_chains_geometric": [
+      "A",
+      "B",
+      "C"
+    ],
+    "binding_site_waters": [
+      "A:604",
+      "A:605",
+      "A:611",
+      "A:630",
+      "B:101",
+      "C:156"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "5TDI": {
+    "ligand_instances": [
+      "A:301"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:418",
+      "A:437",
+      "A:503",
+      "A:558",
+      "A:582",
+      "A:593",
+      "A:618",
+      "A:620",
+      "A:622",
+      "A:647",
+      "A:678"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "1T7R": {
+    "ligand_instances": [
+      "A:300"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:5"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "1T79": {
+    "ligand_instances": [
+      "A:200"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:1"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "1T7F": {
+    "ligand_instances": [
+      "A:200"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:3"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "1FCY": {
+    "ligand_instances": [
+      "A:450"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:547"
+    ],
+    "issues": []
+  },
+  "1FCZ": {
+    "ligand_instances": [
+      "A:450"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:549"
+    ],
+    "issues": []
+  },
+  "3ILZ": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:124",
+      "A:28",
+      "A:672",
+      "A:8"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  },
+  "1I37": {
+    "ligand_instances": [
+      "A:201"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:49"
+    ],
+    "issues": []
+  },
+  "1I38": {
+    "ligand_instances": [
+      "A:201"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:13"
+    ],
+    "issues": []
+  },
+  "1DB1": {
+    "ligand_instances": [
+      "A:428"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [],
+    "issues": []
+  },
+  "3CS6": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:434"
+    ],
+    "issues": []
+  },
+  "3BEJ": {
+    "ligand_instances": [
+      "A:473"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:485",
+      "A:508",
+      "A:570",
+      "A:572"
+    ],
+    "issues": []
+  },
+  "3PLZ": {
+    "ligand_instances": [
+      "A:1"
+    ],
+    "receptor_chains": [
+      "A"
+    ],
+    "receptor_chains_geometric": [
+      "A"
+    ],
+    "binding_site_waters": [
+      "A:13",
+      "A:16",
+      "A:31",
+      "A:41"
+    ],
+    "issues": [
+      "declared stratum feature is not binding-site relevant"
+    ]
+  }
+}

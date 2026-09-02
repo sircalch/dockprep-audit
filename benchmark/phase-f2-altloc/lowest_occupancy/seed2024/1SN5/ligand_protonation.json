@@ -1,0 +1,19 @@
+{
+  "input_smiles": "O=C(O)C(N)Cc2cc(I)c(Oc1cc(I)c(O)cc1)c(I)c2",
+  "ph": 7.4,
+  "variants": [
+    "[NH3+]C(Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)[O-]",
+    "[NH3+]C(Cc1cc(I)c(Oc2ccc([O-])c(I)c2)c(I)c1)C(=O)[O-]",
+    "NC(Cc1cc(I)c(Oc2ccc([O-])c(I)c2)c(I)c1)C(=O)[O-]",
+    "NC(Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)[O-]"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "[NH3+]C(Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)[O-]",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "[NH3+]C(Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)[O-]"
+}

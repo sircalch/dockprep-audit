@@ -1,0 +1,45 @@
+{
+  "pdb_id": "1UPV",
+  "policy": "conservative_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1UPV",
+    "ligand_heavy_atoms": 31,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      3.521,
+      4.049,
+      1.689,
+      2.305,
+      2.567,
+      1.606,
+      4.068,
+      4.394,
+      7.403
+    ],
+    "top_pose_rmsd_A": 3.521,
+    "best_pose_rmsd_A": 1.606,
+    "best_pose_rank": 6,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [
+      "A:225",
+      "A:237",
+      "A:249",
+      "A:461"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 38.801870967741934,
+      "center_y": 0.5271612903225806,
+      "center_z": 15.276032258064516,
+      "size_x": 11.345059175872915,
+      "size_y": 11.345059175872915,
+      "size_z": 11.345059175872915,
+      "radius_of_gyration_A": 3.912
+    }
+  }
+}

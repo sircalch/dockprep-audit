@@ -1,0 +1,40 @@
+{
+  "pdb_id": "3S8X",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3S8X",
+    "ligand_heavy_atoms": 22,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      5.166,
+      4.333,
+      4.255,
+      3.923,
+      4.008,
+      7.33,
+      4.394,
+      8.004,
+      5.556
+    ],
+    "top_pose_rmsd_A": 5.166,
+    "best_pose_rmsd_A": 3.923,
+    "best_pose_rank": 4,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -3.584681818181818,
+      "center_y": 5.262136363636364,
+      "center_z": 14.48940909090909,
+      "size_x": 12.173183856729159,
+      "size_y": 12.173183856729159,
+      "size_z": 12.173183856729159,
+      "radius_of_gyration_A": 4.198
+    }
+  }
+}

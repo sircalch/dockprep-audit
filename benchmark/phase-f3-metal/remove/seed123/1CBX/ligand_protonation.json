@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=C(O)CC(C(=O)O)Cc1ccccc1",
+  "ph": 7.4,
+  "variants": [
+    "O=C([O-])CC(Cc1ccccc1)C(=O)[O-]"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "O=C([O-])CC(Cc1ccccc1)C(=O)[O-]",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "O=C([O-])CC(Cc1ccccc1)C(=O)[O-]"
+}

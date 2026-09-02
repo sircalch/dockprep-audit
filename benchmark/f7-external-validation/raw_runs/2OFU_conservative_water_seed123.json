@@ -1,0 +1,45 @@
+{
+  "pdb_id": "2OFU",
+  "policy": "conservative_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "2OFU",
+    "ligand_heavy_atoms": 50,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      2.698,
+      2.499,
+      1.689,
+      3.179,
+      2.937,
+      5.138,
+      9.779,
+      8.787,
+      9.198
+    ],
+    "top_pose_rmsd_A": 2.698,
+    "best_pose_rmsd_A": 1.689,
+    "best_pose_rank": 3,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [
+      "A:310",
+      "A:397",
+      "A:401",
+      "A:451"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 2,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 26.8908,
+      "center_y": 38.75326,
+      "center_z": 85.15414000000001,
+      "size_x": 17.40789587340894,
+      "size_y": 17.40789587340894,
+      "size_z": 17.40789587340894,
+      "radius_of_gyration_A": 6.003
+    }
+  }
+}

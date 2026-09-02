@@ -1,0 +1,45 @@
+{
+  "pdb_id": "3D14",
+  "altloc_policy": "highest_occupancy",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3D14",
+    "ligand_heavy_atoms": 31,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.716,
+      1.939,
+      10.875,
+      12.294,
+      11.349,
+      3.264,
+      11.562,
+      4.99,
+      5.477
+    ],
+    "top_pose_rmsd_A": 0.716,
+    "best_pose_rmsd_A": 0.716,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:140",
+      "A:156",
+      "A:184",
+      "A:193",
+      "A:263"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "box": {
+      "center_x": -9.134258064516128,
+      "center_y": 25.577322580645163,
+      "center_z": 78.79754838709678,
+      "size_x": 18.417075805591033,
+      "size_y": 18.417075805591033,
+      "size_z": 18.417075805591033,
+      "radius_of_gyration_A": 6.351
+    }
+  }
+}

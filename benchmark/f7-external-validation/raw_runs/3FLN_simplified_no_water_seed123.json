@@ -1,0 +1,40 @@
+{
+  "pdb_id": "3FLN",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3FLN",
+    "ligand_heavy_atoms": 28,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      2.464,
+      1.443,
+      1.903,
+      2.487,
+      4.667,
+      4.339,
+      2.645,
+      8.98,
+      3.212
+    ],
+    "top_pose_rmsd_A": 2.464,
+    "best_pose_rmsd_A": 1.443,
+    "best_pose_rank": 2,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 21.618357142857143,
+      "center_y": 10.308285714285715,
+      "center_z": 31.104071428571427,
+      "size_x": 13.444800718944958,
+      "size_y": 13.444800718944958,
+      "size_z": 13.444800718944958,
+      "radius_of_gyration_A": 4.636
+    }
+  }
+}

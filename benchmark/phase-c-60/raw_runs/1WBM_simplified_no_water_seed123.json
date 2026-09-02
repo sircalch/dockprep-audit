@@ -1,0 +1,38 @@
+{
+  "pdb_id": "1WBM",
+  "policy": "simplified_no_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1WBM",
+    "ligand_heavy_atoms": 48,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      10.704,
+      1.074,
+      10.102,
+      4.266,
+      10.73,
+      1.95,
+      10.06,
+      4.319,
+      6.323
+    ],
+    "top_pose_rmsd_A": 10.704,
+    "best_pose_rmsd_A": 1.074,
+    "best_pose_rank": 2,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 13.067375,
+      "center_y": 22.837500000000002,
+      "center_z": 5.5055000000000005,
+      "size_x": 15.820954038021128,
+      "size_y": 15.820954038021128,
+      "size_z": 15.820954038021128,
+      "radius_of_gyration_A": 5.456
+    }
+  }
+}

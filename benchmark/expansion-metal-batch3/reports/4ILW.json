@@ -1,0 +1,71 @@
+{
+  "schema_version": "0.1",
+  "tool": {
+    "name": "DockPrep Audit",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-08-23T00:39:18.894997+00:00",
+  "source": {
+    "path": "benchmark\\expansion-metal-batch3\\raw-pdb\\4ILW.pdb",
+    "format": "PDB",
+    "lines": 6458,
+    "atom_records": 5564
+  },
+  "summary": {
+    "status": "review_required",
+    "findings": 3,
+    "high": 1,
+    "medium": 2,
+    "low": 0
+  },
+  "findings": [
+    {
+      "code": "ALTLOC_PRESENT",
+      "severity": "high",
+      "message": "Alternate atom locations require a documented conformer-selection policy before docking.",
+      "count": 32,
+      "examples": [
+        "ASP D253",
+        "ASP F253",
+        "SER D179",
+        "SER F179"
+      ]
+    },
+    {
+      "code": "WATERS_PRESENT",
+      "severity": "medium",
+      "message": "Retaining or removing waters is protocol-dependent; record the decision.",
+      "count": 160,
+      "examples": [
+        "HOH A201",
+        "HOH A202",
+        "HOH A203",
+        "HOH A204",
+        "HOH A205",
+        "HOH A206",
+        "HOH A207",
+        "HOH A208",
+        "HOH A209",
+        "HOH A210"
+      ]
+    },
+    {
+      "code": "METAL_PRESENT",
+      "severity": "medium",
+      "message": "Metal coordination and charge treatment should be documented.",
+      "count": 10,
+      "examples": [
+        "CA CA D303",
+        "CA CA D304",
+        "CA CA D305",
+        "CA CA F303",
+        "CA CA F304",
+        "CA CA F305",
+        "ZN ZN D301",
+        "ZN ZN D302",
+        "ZN ZN F301",
+        "ZN ZN F302"
+      ]
+    }
+  ]
+}

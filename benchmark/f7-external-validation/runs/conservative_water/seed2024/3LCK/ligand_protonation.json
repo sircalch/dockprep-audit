@@ -1,0 +1,22 @@
+{
+  "input_smiles": "O=P(Oc1ccc(cc1)CC(C(=O)O)N)(O)O",
+  "ph": 7.4,
+  "variants": [
+    "NC(Cc1ccc(OP(=O)([O-])[O-])cc1)C(=O)[O-]",
+    "[NH3+]C(Cc1ccc(OP(=O)([O-])[O-])cc1)C(=O)[O-]"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "NC(Cc1ccc(OP(=O)([O-])[O-])cc1)C(=O)[O-]",
+      "ok": false,
+      "error": "No matching found"
+    },
+    {
+      "smiles": "[NH3+]C(Cc1ccc(OP(=O)([O-])[O-])cc1)C(=O)[O-]",
+      "ok": false,
+      "error": "No matching found"
+    }
+  ],
+  "chosen_smiles": null
+}

@@ -1,0 +1,26 @@
+{
+  "1EED": {
+    "ligand_instances": [
+      "P:327"
+    ],
+    "receptor_chains": [
+      "P"
+    ],
+    "receptor_chains_geometric": [
+      "P"
+    ],
+    "binding_site_waters": [
+      "P:329",
+      "P:330",
+      "P:332",
+      "P:333",
+      "P:592",
+      "P:596",
+      "P:600",
+      "P:602",
+      "P:603",
+      "P:604"
+    ],
+    "issues": []
+  }
+}

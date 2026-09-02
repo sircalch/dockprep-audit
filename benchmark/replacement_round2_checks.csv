@@ -1,0 +1,9 @@
+pdb_id,stratum,ligand_component_id,status
+1T46,alternate_location,STI,candidate_check
+3W2Q,alternate_location,HKI,candidate_check
+4RJ3,alternate_location,3QS,candidate_check
+6N2W,alternate_location,30Z,candidate_check
+7JXH,alternate_location,VOY,candidate_check
+1CPS,metal_or_cofactor,CPM,candidate_check
+1CBX,metal_or_cofactor,BZS,candidate_check
+4EXS,metal_or_cofactor,X8Z,candidate_check

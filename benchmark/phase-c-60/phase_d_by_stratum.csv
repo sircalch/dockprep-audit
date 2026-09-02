@@ -1,0 +1,9 @@
+stratum,policy,n_cases,mean_success_fraction_top1,mean_success_fraction_best,mean_median_top1_rmsd_A,mean_median_best_rmsd_A,n_cases_unstable_across_seeds
+alternate_location,conservative_water,15,0.556,0.778,2.654,1.286,2
+alternate_location,simplified_no_water,15,0.622,0.822,2.614,1.545,3
+low_risk_control,conservative_water,15,0.756,0.933,1.972,1.459,1
+low_risk_control,simplified_no_water,15,0.778,0.933,1.804,1.47,1
+metal_or_cofactor,conservative_water,15,0.511,0.689,3.022,2.171,3
+metal_or_cofactor,simplified_no_water,15,0.511,0.667,3.024,2.224,3
+water_policy,conservative_water,15,0.333,0.644,5.519,2.963,1
+water_policy,simplified_no_water,15,0.333,0.556,5.495,3.123,1

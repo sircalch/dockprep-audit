@@ -1,0 +1,38 @@
+{
+  "pdb_id": "3KXG",
+  "policy": "conservative_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3KXG",
+    "ligand_heavy_atoms": 14,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      3.355,
+      0.562,
+      4.373,
+      5.246,
+      3.294,
+      4.135,
+      3.741,
+      3.574,
+      4.051
+    ],
+    "top_pose_rmsd_A": 3.355,
+    "best_pose_rmsd_A": 0.562,
+    "best_pose_rank": 2,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "box": {
+      "center_x": 21.91042857142857,
+      "center_y": 7.796785714285714,
+      "center_z": 19.592857142857145,
+      "size_x": 7.661728083770843,
+      "size_y": 7.661728083770843,
+      "size_z": 7.661728083770843,
+      "radius_of_gyration_A": 2.642
+    }
+  }
+}

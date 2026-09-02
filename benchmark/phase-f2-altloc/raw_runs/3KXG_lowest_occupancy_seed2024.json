@@ -1,0 +1,38 @@
+{
+  "pdb_id": "3KXG",
+  "altloc_policy": "lowest_occupancy",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3KXG",
+    "ligand_heavy_atoms": 14,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      3.379,
+      4.625,
+      5.245,
+      3.257,
+      0.352,
+      4.049,
+      3.768,
+      3.568
+    ],
+    "top_pose_rmsd_A": 3.379,
+    "best_pose_rmsd_A": 0.352,
+    "best_pose_rank": 5,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "lowest_occupancy",
+    "box": {
+      "center_x": 21.91042857142857,
+      "center_y": 7.796785714285714,
+      "center_z": 19.592857142857145,
+      "size_x": 7.661728083770843,
+      "size_y": 7.661728083770843,
+      "size_z": 7.661728083770843,
+      "radius_of_gyration_A": 2.642
+    }
+  }
+}

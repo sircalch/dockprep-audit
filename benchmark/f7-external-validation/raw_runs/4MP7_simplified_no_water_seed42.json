@@ -1,0 +1,40 @@
+{
+  "pdb_id": "4MP7",
+  "policy": "simplified_no_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "4MP7",
+    "ligand_heavy_atoms": 19,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.317,
+      1.865,
+      6.6,
+      3.166,
+      6.717,
+      3.272,
+      6.591,
+      7.095,
+      4.289
+    ],
+    "top_pose_rmsd_A": 0.317,
+    "best_pose_rmsd_A": 0.317,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 13.895052631578949,
+      "center_y": 2.2377894736842108,
+      "center_z": -37.393368421052635,
+      "size_x": 9.887059744264125,
+      "size_y": 9.887059744264125,
+      "size_z": 9.887059744264125,
+      "radius_of_gyration_A": 3.409
+    }
+  }
+}

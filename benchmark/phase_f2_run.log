@@ -1,0 +1,287 @@
+[1/102] 1E6U highest_occupancy seed=42
+    -> OK rmsd=1.444 outcome=success
+[2/102] 1E6U highest_occupancy seed=123
+    -> OK rmsd=1.457 outcome=success
+[3/102] 1E6U highest_occupancy seed=2024
+    -> OK rmsd=1.464 outcome=success
+[4/102] 1E6U lowest_occupancy seed=42
+    -> OK rmsd=1.45 outcome=success
+[5/102] 1E6U lowest_occupancy seed=123
+    -> OK rmsd=1.44 outcome=success
+[6/102] 1E6U lowest_occupancy seed=2024
+    -> OK rmsd=1.439 outcome=success
+[7/102] 1E7S highest_occupancy seed=42
+    -> OK rmsd=3.26 outcome=scoring_fail
+[8/102] 1E7S highest_occupancy seed=123
+    -> OK rmsd=3.26 outcome=scoring_fail
+[9/102] 1E7S highest_occupancy seed=2024
+    -> OK rmsd=3.261 outcome=scoring_fail
+[10/102] 1E7S lowest_occupancy seed=42
+    -> OK rmsd=3.25 outcome=scoring_fail
+[11/102] 1E7S lowest_occupancy seed=123
+    -> OK rmsd=3.25 outcome=scoring_fail
+[12/102] 1E7S lowest_occupancy seed=2024
+    -> OK rmsd=3.25 outcome=scoring_fail
+[13/102] 1GS4 highest_occupancy seed=42
+    -> OK rmsd=0.696 outcome=success
+[14/102] 1GS4 highest_occupancy seed=123
+    -> OK rmsd=0.659 outcome=success
+[15/102] 1GS4 highest_occupancy seed=2024
+    -> OK rmsd=0.678 outcome=success
+[16/102] 1GS4 lowest_occupancy seed=42
+    -> OK rmsd=0.696 outcome=success
+[17/102] 1GS4 lowest_occupancy seed=123
+    -> OK rmsd=0.659 outcome=success
+[18/102] 1GS4 lowest_occupancy seed=2024
+    -> OK rmsd=0.678 outcome=success
+[19/102] 1M17 highest_occupancy seed=42
+    -> OK rmsd=8.315 outcome=sampling_fail
+[20/102] 1M17 highest_occupancy seed=123
+    -> OK rmsd=7.997 outcome=sampling_fail
+[21/102] 1M17 highest_occupancy seed=2024
+    -> OK rmsd=8.598 outcome=sampling_fail
+[22/102] 1M17 lowest_occupancy seed=42
+    -> OK rmsd=5.104 outcome=sampling_fail
+[23/102] 1M17 lowest_occupancy seed=123
+    -> OK rmsd=3.15 outcome=sampling_fail
+[24/102] 1M17 lowest_occupancy seed=2024
+    -> OK rmsd=7.899 outcome=sampling_fail
+[25/102] 1SN5 highest_occupancy seed=42
+    -> OK rmsd=8.812 outcome=sampling_fail
+[26/102] 1SN5 highest_occupancy seed=123
+    -> OK rmsd=8.753 outcome=sampling_fail
+[27/102] 1SN5 highest_occupancy seed=2024
+    -> OK rmsd=8.821 outcome=sampling_fail
+[28/102] 1SN5 lowest_occupancy seed=42
+    -> OK rmsd=6.978 outcome=sampling_fail
+[29/102] 1SN5 lowest_occupancy seed=123
+    -> OK rmsd=6.803 outcome=sampling_fail
+[30/102] 1SN5 lowest_occupancy seed=2024
+    -> OK rmsd=6.858 outcome=sampling_fail
+[31/102] 1T46 highest_occupancy seed=42
+    -> OK rmsd=0.831 outcome=success
+[32/102] 1T46 highest_occupancy seed=123
+    -> OK rmsd=0.257 outcome=success
+[33/102] 1T46 highest_occupancy seed=2024
+    -> OK rmsd=0.271 outcome=success
+[34/102] 1T46 lowest_occupancy seed=42
+    -> OK rmsd=0.841 outcome=success
+[35/102] 1T46 lowest_occupancy seed=123
+    -> OK rmsd=0.845 outcome=success
+[36/102] 1T46 lowest_occupancy seed=2024
+    -> OK rmsd=0.838 outcome=success
+[37/102] 2I4H highest_occupancy seed=42
+    -> OK rmsd=5.18 outcome=scoring_fail
+[38/102] 2I4H highest_occupancy seed=123
+    -> OK rmsd=2.499 outcome=sampling_fail
+[39/102] 2I4H highest_occupancy seed=2024
+    -> OK rmsd=7.835 outcome=sampling_fail
+[40/102] 2I4H lowest_occupancy seed=42
+    -> OK rmsd=8.26 outcome=sampling_fail
+[41/102] 2I4H lowest_occupancy seed=123
+    -> OK rmsd=8.293 outcome=sampling_fail
+[42/102] 2I4H lowest_occupancy seed=2024
+    -> OK rmsd=9.241 outcome=sampling_fail
+[43/102] 3D14 highest_occupancy seed=42
+    -> OK rmsd=0.738 outcome=success
+[44/102] 3D14 highest_occupancy seed=123
+    -> OK rmsd=0.716 outcome=success
+[45/102] 3D14 highest_occupancy seed=2024
+    -> OK rmsd=0.729 outcome=success
+[46/102] 3D14 lowest_occupancy seed=42
+    -> OK rmsd=0.982 outcome=success
+[47/102] 3D14 lowest_occupancy seed=123
+    -> OK rmsd=1.875 outcome=success
+[48/102] 3D14 lowest_occupancy seed=2024
+    -> OK rmsd=0.756 outcome=success
+[49/102] 3KXG highest_occupancy seed=42
+    -> OK rmsd=3.386 outcome=scoring_fail
+[50/102] 3KXG highest_occupancy seed=123
+    -> OK rmsd=3.385 outcome=scoring_fail
+[51/102] 3KXG highest_occupancy seed=2024
+    -> OK rmsd=3.356 outcome=scoring_fail
+[52/102] 3KXG lowest_occupancy seed=42
+    -> OK rmsd=3.379 outcome=scoring_fail
+[53/102] 3KXG lowest_occupancy seed=123
+    -> OK rmsd=3.39 outcome=scoring_fail
+[54/102] 3KXG lowest_occupancy seed=2024
+    -> OK rmsd=3.379 outcome=scoring_fail
+[55/102] 3MWU highest_occupancy seed=42
+    -> OK rmsd=1.992 outcome=success
+[56/102] 3MWU highest_occupancy seed=123
+    -> OK rmsd=1.116 outcome=success
+[57/102] 3MWU highest_occupancy seed=2024
+    -> OK rmsd=1.12 outcome=success
+[58/102] 3MWU lowest_occupancy seed=42
+    -> OK rmsd=1.214 outcome=success
+[59/102] 3MWU lowest_occupancy seed=123
+    -> OK rmsd=1.209 outcome=success
+[60/102] 3MWU lowest_occupancy seed=2024
+    -> OK rmsd=1.215 outcome=success
+[61/102] 3P0M highest_occupancy seed=42
+    -> OK rmsd=8.262 outcome=scoring_fail
+[62/102] 3P0M highest_occupancy seed=123
+    -> OK rmsd=8.329 outcome=scoring_fail
+[63/102] 3P0M highest_occupancy seed=2024
+    -> OK rmsd=8.335 outcome=scoring_fail
+[64/102] 3P0M lowest_occupancy seed=42
+    -> OK rmsd=8.077 outcome=scoring_fail
+[65/102] 3P0M lowest_occupancy seed=123
+    -> OK rmsd=8.068 outcome=scoring_fail
+[66/102] 3P0M lowest_occupancy seed=2024
+    -> OK rmsd=8.049 outcome=scoring_fail
+[67/102] 3PNA highest_occupancy seed=42
+    -> OK rmsd=0.714 outcome=success
+[68/102] 3PNA highest_occupancy seed=123
+    -> OK rmsd=0.747 outcome=success
+[69/102] 3PNA highest_occupancy seed=2024
+    -> OK rmsd=6.616 outcome=sampling_fail
+[70/102] 3PNA lowest_occupancy seed=42
+    -> OK rmsd=0.729 outcome=success
+[71/102] 3PNA lowest_occupancy seed=123
+    -> OK rmsd=0.713 outcome=success
+[72/102] 3PNA lowest_occupancy seed=2024
+    -> OK rmsd=0.728 outcome=success
+[73/102] 4RJ3 highest_occupancy seed=42
+    -> OK rmsd=0.47 outcome=success
+[74/102] 4RJ3 highest_occupancy seed=123
+    -> OK rmsd=0.46 outcome=success
+[75/102] 4RJ3 highest_occupancy seed=2024
+    -> OK rmsd=0.46 outcome=success
+[76/102] 4RJ3 lowest_occupancy seed=42
+    -> OK rmsd=0.475 outcome=success
+[77/102] 4RJ3 lowest_occupancy seed=123
+    -> OK rmsd=0.465 outcome=success
+[78/102] 4RJ3 lowest_occupancy seed=2024
+    -> OK rmsd=0.473 outcome=success
+[79/102] 5E0J highest_occupancy seed=42
+    -> OK rmsd=7.236 outcome=sampling_fail
+[80/102] 5E0J highest_occupancy seed=123
+    -> OK rmsd=3.808 outcome=sampling_fail
+[81/102] 5E0J highest_occupancy seed=2024
+    -> OK rmsd=3.239 outcome=sampling_fail
+[82/102] 5E0J lowest_occupancy seed=42
+    -> OK rmsd=2.644 outcome=scoring_fail
+[83/102] 5E0J lowest_occupancy seed=123
+    -> OK rmsd=2.99 outcome=scoring_fail
+[84/102] 5E0J lowest_occupancy seed=2024
+    -> OK rmsd=3.274 outcome=scoring_fail
+[85/102] 5F4N highest_occupancy seed=42
+    -> OK rmsd=1.001 outcome=success
+[86/102] 5F4N highest_occupancy seed=123
+    -> OK rmsd=0.835 outcome=success
+[87/102] 5F4N highest_occupancy seed=2024
+    -> OK rmsd=1.001 outcome=success
+[88/102] 5F4N lowest_occupancy seed=42
+    -> OK rmsd=1.048 outcome=success
+[89/102] 5F4N lowest_occupancy seed=123
+    -> OK rmsd=1.219 outcome=success
+[90/102] 5F4N lowest_occupancy seed=2024
+    -> OK rmsd=0.833 outcome=success
+[91/102] 5K8S highest_occupancy seed=42
+    -> OK rmsd=0.119 outcome=success
+[92/102] 5K8S highest_occupancy seed=123
+    -> OK rmsd=0.108 outcome=success
+[93/102] 5K8S highest_occupancy seed=2024
+    -> OK rmsd=0.171 outcome=success
+[94/102] 5K8S lowest_occupancy seed=42
+    -> OK rmsd=0.156 outcome=success
+[95/102] 5K8S lowest_occupancy seed=123
+    -> OK rmsd=0.147 outcome=success
+[96/102] 5K8S lowest_occupancy seed=2024
+    -> OK rmsd=0.142 outcome=success
+[97/102] 5TG1 highest_occupancy seed=42
+    -> OK rmsd=1.756 outcome=success
+[98/102] 5TG1 highest_occupancy seed=123
+    -> OK rmsd=1.708 outcome=success
+[99/102] 5TG1 highest_occupancy seed=2024
+    -> OK rmsd=2.047 outcome=scoring_fail
+[100/102] 5TG1 lowest_occupancy seed=42
+[1/90] 1E6U highest_occupancy seed=42 -> cached
+[2/90] 1E6U highest_occupancy seed=123 -> cached
+[3/90] 1E6U highest_occupancy seed=2024 -> cached
+[4/90] 1E6U lowest_occupancy seed=42 -> cached
+[5/90] 1E6U lowest_occupancy seed=123 -> cached
+[6/90] 1E6U lowest_occupancy seed=2024 -> cached
+[7/90] 1E7S highest_occupancy seed=42 -> cached
+[8/90] 1E7S highest_occupancy seed=123 -> cached
+[9/90] 1E7S highest_occupancy seed=2024 -> cached
+[10/90] 1E7S lowest_occupancy seed=42 -> cached
+[11/90] 1E7S lowest_occupancy seed=123 -> cached
+[12/90] 1E7S lowest_occupancy seed=2024 -> cached
+[13/90] 1M17 highest_occupancy seed=42 -> cached
+[14/90] 1M17 highest_occupancy seed=123 -> cached
+[15/90] 1M17 highest_occupancy seed=2024 -> cached
+[16/90] 1M17 lowest_occupancy seed=42 -> cached
+[17/90] 1M17 lowest_occupancy seed=123 -> cached
+[18/90] 1M17 lowest_occupancy seed=2024 -> cached
+[19/90] 1T46 highest_occupancy seed=42 -> cached
+[20/90] 1T46 highest_occupancy seed=123 -> cached
+[21/90] 1T46 highest_occupancy seed=2024 -> cached
+[22/90] 1T46 lowest_occupancy seed=42 -> cached
+[23/90] 1T46 lowest_occupancy seed=123 -> cached
+[24/90] 1T46 lowest_occupancy seed=2024 -> cached
+[25/90] 2I4H highest_occupancy seed=42 -> cached
+[26/90] 2I4H highest_occupancy seed=123 -> cached
+[27/90] 2I4H highest_occupancy seed=2024 -> cached
+[28/90] 2I4H lowest_occupancy seed=42 -> cached
+[29/90] 2I4H lowest_occupancy seed=123 -> cached
+[30/90] 2I4H lowest_occupancy seed=2024 -> cached
+[31/90] 3D14 highest_occupancy seed=42 -> cached
+[32/90] 3D14 highest_occupancy seed=123 -> cached
+[33/90] 3D14 highest_occupancy seed=2024 -> cached
+[34/90] 3D14 lowest_occupancy seed=42 -> cached
+[35/90] 3D14 lowest_occupancy seed=123 -> cached
+[36/90] 3D14 lowest_occupancy seed=2024 -> cached
+[37/90] 3KXG highest_occupancy seed=42 -> cached
+[38/90] 3KXG highest_occupancy seed=123 -> cached
+[39/90] 3KXG highest_occupancy seed=2024 -> cached
+[40/90] 3KXG lowest_occupancy seed=42 -> cached
+[41/90] 3KXG lowest_occupancy seed=123 -> cached
+[42/90] 3KXG lowest_occupancy seed=2024 -> cached
+[43/90] 3MWU highest_occupancy seed=42 -> cached
+[44/90] 3MWU highest_occupancy seed=123 -> cached
+[45/90] 3MWU highest_occupancy seed=2024 -> cached
+[46/90] 3MWU lowest_occupancy seed=42 -> cached
+[47/90] 3MWU lowest_occupancy seed=123 -> cached
+[48/90] 3MWU lowest_occupancy seed=2024 -> cached
+[49/90] 3P0M highest_occupancy seed=42 -> cached
+[50/90] 3P0M highest_occupancy seed=123 -> cached
+[51/90] 3P0M highest_occupancy seed=2024 -> cached
+[52/90] 3P0M lowest_occupancy seed=42 -> cached
+[53/90] 3P0M lowest_occupancy seed=123 -> cached
+[54/90] 3P0M lowest_occupancy seed=2024 -> cached
+[55/90] 3PNA highest_occupancy seed=42 -> cached
+[56/90] 3PNA highest_occupancy seed=123 -> cached
+[57/90] 3PNA highest_occupancy seed=2024 -> cached
+[58/90] 3PNA lowest_occupancy seed=42 -> cached
+[59/90] 3PNA lowest_occupancy seed=123 -> cached
+[60/90] 3PNA lowest_occupancy seed=2024 -> cached
+[61/90] 4RJ3 highest_occupancy seed=42 -> cached
+[62/90] 4RJ3 highest_occupancy seed=123 -> cached
+[63/90] 4RJ3 highest_occupancy seed=2024 -> cached
+[64/90] 4RJ3 lowest_occupancy seed=42 -> cached
+[65/90] 4RJ3 lowest_occupancy seed=123 -> cached
+[66/90] 4RJ3 lowest_occupancy seed=2024 -> cached
+[67/90] 5E0J highest_occupancy seed=42 -> cached
+[68/90] 5E0J highest_occupancy seed=123 -> cached
+[69/90] 5E0J highest_occupancy seed=2024 -> cached
+[70/90] 5E0J lowest_occupancy seed=42 -> cached
+[71/90] 5E0J lowest_occupancy seed=123 -> cached
+[72/90] 5E0J lowest_occupancy seed=2024 -> cached
+[73/90] 5F4N highest_occupancy seed=42 -> cached
+[74/90] 5F4N highest_occupancy seed=123 -> cached
+[75/90] 5F4N highest_occupancy seed=2024 -> cached
+[76/90] 5F4N lowest_occupancy seed=42 -> cached
+[77/90] 5F4N lowest_occupancy seed=123 -> cached
+[78/90] 5F4N lowest_occupancy seed=2024 -> cached
+[79/90] 5K8S highest_occupancy seed=42 -> cached
+[80/90] 5K8S highest_occupancy seed=123 -> cached
+[81/90] 5K8S highest_occupancy seed=2024 -> cached
+[82/90] 5K8S lowest_occupancy seed=42 -> cached
+[83/90] 5K8S lowest_occupancy seed=123 -> cached
+[84/90] 5K8S lowest_occupancy seed=2024 -> cached
+[85/90] 5TG1 highest_occupancy seed=42 -> cached
+[86/90] 5TG1 highest_occupancy seed=123 -> cached
+[87/90] 5TG1 highest_occupancy seed=2024 -> cached
+[88/90] 5TG1 lowest_occupancy seed=42

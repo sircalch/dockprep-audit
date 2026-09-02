@@ -1,0 +1,10 @@
+pdb_id,stratum,ligand_component_id,ligand_chain,ligand_resseq,status
+3PNA,alternate_location,CMP,A,250,replacement_candidate
+5K8S,alternate_location,CMP,A,501,replacement_candidate
+1KJO,metal_or_cofactor,THR,A,1317,replacement_candidate
+1EPP,water_policy,1Z1,E,333,replacement_candidate
+1PPM,water_policy,0P1,E,324,replacement_candidate
+1HRN,water_policy,03D,A,391,replacement_candidate
+1MEM,water_policy,0D6,A,280,replacement_candidate
+1WBM,water_policy,BLL,B,1100,replacement_candidate
+3BEJ,low_risk_control,MUF,A,473,replacement_candidate

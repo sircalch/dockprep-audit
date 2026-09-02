@@ -1,0 +1,47 @@
+{
+  "pdb_id": "3CR5",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3CR5",
+    "ligand_heavy_atoms": 25,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      6.368,
+      5.943,
+      6.363,
+      5.641,
+      4.904,
+      6.111,
+      4.781,
+      5.142,
+      5.021
+    ],
+    "top_pose_rmsd_A": 6.368,
+    "best_pose_rmsd_A": 4.781,
+    "best_pose_rank": 7,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [
+      "X:34",
+      "X:45",
+      "X:48",
+      "X:51",
+      "X:55",
+      "X:71"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 1.65184,
+      "center_y": 1.66232,
+      "center_z": 24.9862,
+      "size_x": 9.796781919483559,
+      "size_y": 9.796781919483559,
+      "size_z": 9.796781919483559,
+      "radius_of_gyration_A": 3.378
+    }
+  }
+}

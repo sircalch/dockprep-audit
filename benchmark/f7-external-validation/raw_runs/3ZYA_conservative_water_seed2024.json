@@ -1,0 +1,36 @@
+{
+  "pdb_id": "3ZYA",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3ZYA",
+    "ligand_heavy_atoms": 24,
+    "n_poses": 3,
+    "rmsd_by_rank_A": [
+      0.301,
+      2.593,
+      8.122
+    ],
+    "top_pose_rmsd_A": 0.301,
+    "best_pose_rmsd_A": 0.301,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:248"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 2,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 12.930750000000002,
+      "center_y": -15.473791666666665,
+      "center_z": -31.37816666666667,
+      "size_x": 12.124669888372077,
+      "size_y": 12.124669888372077,
+      "size_z": 12.124669888372077,
+      "radius_of_gyration_A": 4.181
+    }
+  }
+}

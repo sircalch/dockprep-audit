@@ -1,0 +1,16 @@
+{
+  "input_smiles": "n2c1c(cc(OCCOC)c(OCCOC)c1)c(nc2)Nc3cc(C#C)ccc3",
+  "ph": 7.4,
+  "variants": [
+    "C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1"
+}

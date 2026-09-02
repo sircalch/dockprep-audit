@@ -1,0 +1,17 @@
+{
+  "input_smiles": "O=C(O)C5=CC4=CCC2C(CCC3(C(C(=O)c1ccc(O)cc1)CCC23)C)C4(C)CC5",
+  "ph": 7.4,
+  "variants": [
+    "CC12CCC(C(=O)[O-])=CC1=CCC1C2CCC2(C)C(C(=O)c3ccc([O-])cc3)CCC12",
+    "CC12CCC(C(=O)[O-])=CC1=CCC1C2CCC2(C)C(C(=O)c3ccc(O)cc3)CCC12"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "CC12CCC(C(=O)[O-])=CC1=CCC1C2CCC2(C)C(C(=O)c3ccc([O-])cc3)CCC12",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CC12CCC(C(=O)[O-])=CC1=CCC1C2CCC2(C)C(C(=O)c3ccc([O-])cc3)CCC12"
+}

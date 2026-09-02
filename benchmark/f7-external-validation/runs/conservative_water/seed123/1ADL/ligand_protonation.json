@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=C(O)CCC\\C=C/C\\C=C/C\\C=C/C\\C=C/CCCCC",
+  "ph": 7.4,
+  "variants": [
+    "CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)[O-]"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)[O-]",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)[O-]"
+}

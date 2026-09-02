@@ -1,0 +1,25 @@
+[
+  {
+    "chain": "C",
+    "resseq": "601",
+    "resname": "T3",
+    "occupancies": {
+      "A": 0.4,
+      "B": 0.4,
+      "C": 0.2
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  },
+  {
+    "chain": "D",
+    "resseq": "602",
+    "resname": "T3",
+    "occupancies": {
+      "A": 0.5,
+      "B": 0.5
+    },
+    "chosen_altloc": "A",
+    "basis": "tie_break_A"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "chain": "A",
+    "resseq": "302",
+    "resname": "SER",
+    "occupancies": {
+      "A": 0.79,
+      "B": 0.21
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy"
+  }
+]

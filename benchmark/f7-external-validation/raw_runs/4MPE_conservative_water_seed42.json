@@ -1,0 +1,40 @@
+{
+  "pdb_id": "4MPE",
+  "policy": "conservative_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "4MPE",
+    "ligand_heavy_atoms": 21,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      0.404,
+      7.039,
+      6.857,
+      2.184,
+      2.622,
+      6.925,
+      7.0,
+      3.08,
+      4.322
+    ],
+    "top_pose_rmsd_A": 0.404,
+    "best_pose_rmsd_A": 0.404,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 14.097952380952382,
+      "center_y": 2.0958571428571426,
+      "center_z": -37.37657142857143,
+      "size_x": 10.539463319549386,
+      "size_y": 10.539463319549386,
+      "size_z": 10.539463319549386,
+      "radius_of_gyration_A": 3.634
+    }
+  }
+}

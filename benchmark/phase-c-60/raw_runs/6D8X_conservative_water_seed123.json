@@ -1,0 +1,37 @@
+{
+  "pdb_id": "6D8X",
+  "policy": "conservative_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "6D8X",
+    "ligand_heavy_atoms": 37,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      1.066,
+      1.68,
+      1.716,
+      7.905,
+      2.744,
+      7.461,
+      2.528,
+      3.673
+    ],
+    "top_pose_rmsd_A": 1.066,
+    "best_pose_rmsd_A": 1.066,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": 1.3865675675675677,
+      "center_y": -4.315513513513514,
+      "center_z": -19.36081081081081,
+      "size_x": 13.447969174462637,
+      "size_y": 13.447969174462637,
+      "size_z": 13.447969174462637,
+      "radius_of_gyration_A": 4.637
+    }
+  }
+}

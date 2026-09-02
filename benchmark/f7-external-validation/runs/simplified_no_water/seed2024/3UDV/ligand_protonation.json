@@ -1,0 +1,19 @@
+{
+  "input_smiles": "O=C2NC(=NC=1NC(C(=NC=12)C(=O)NCCN6CCC(SCC5OC(n4cnc3c(ncnc34)N)C(O)C5O)CC6)(C)C)N",
+  "ph": 7.4,
+  "variants": [
+    "CC1(C)Nc2nc(N)[nH]c(=O)c2N=C1C(=O)NCCN1CCC(SCC2OC(n3cnc4c(N)ncnc43)C(O)C2O)CC1",
+    "CC1(C)Nc2nc(N)[n-]c(=O)c2N=C1C(=O)NCC[NH+]1CCC(SCC2OC(n3cnc4c(N)ncnc43)C(O)C2O)CC1",
+    "CC1(C)Nc2nc(N)[n-]c(=O)c2N=C1C(=O)NCCN1CCC(SCC2OC(n3cnc4c(N)ncnc43)C(O)C2O)CC1",
+    "CC1(C)Nc2nc(N)[nH]c(=O)c2N=C1C(=O)NCC[NH+]1CCC(SCC2OC(n3cnc4c(N)ncnc43)C(O)C2O)CC1"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "CC1(C)Nc2nc(N)[nH]c(=O)c2N=C1C(=O)NCCN1CCC(SCC2OC(n3cnc4c(N)ncnc43)C(O)C2O)CC1",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "CC1(C)Nc2nc(N)[nH]c(=O)c2N=C1C(=O)NCCN1CCC(SCC2OC(n3cnc4c(N)ncnc43)C(O)C2O)CC1"
+}

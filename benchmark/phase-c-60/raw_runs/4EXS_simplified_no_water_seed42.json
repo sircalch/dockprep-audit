@@ -1,0 +1,37 @@
+{
+  "pdb_id": "4EXS",
+  "policy": "simplified_no_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "4EXS",
+    "ligand_heavy_atoms": 14,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      2.714,
+      4.804,
+      4.711,
+      2.735,
+      2.187,
+      2.868,
+      2.9,
+      4.278
+    ],
+    "top_pose_rmsd_A": 2.714,
+    "best_pose_rmsd_A": 2.187,
+    "best_pose_rank": 5,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": -55.43635714285715,
+      "center_y": 11.874785714285716,
+      "center_z": -30.076714285714285,
+      "size_x": 7.441378705610012,
+      "size_y": 7.441378705610012,
+      "size_z": 7.441378705610012,
+      "radius_of_gyration_A": 2.566
+    }
+  }
+}

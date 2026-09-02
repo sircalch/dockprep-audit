@@ -1,0 +1,51 @@
+{
+  "schema_version": "0.1",
+  "tool": {
+    "name": "DockPrep Audit",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-08-22T22:04:52.587996+00:00",
+  "source": {
+    "path": "benchmark\\expansion-batch2\\raw-pdb\\3Q2J.pdb",
+    "format": "PDB",
+    "lines": 5250,
+    "atom_records": 4645
+  },
+  "summary": {
+    "status": "review_recommended",
+    "findings": 2,
+    "high": 0,
+    "medium": 2,
+    "low": 0
+  },
+  "findings": [
+    {
+      "code": "WATERS_PRESENT",
+      "severity": "medium",
+      "message": "Retaining or removing waters is protocol-dependent; record the decision.",
+      "count": 281,
+      "examples": [
+        "HOH A265",
+        "HOH A266",
+        "HOH A267",
+        "HOH A268",
+        "HOH A269",
+        "HOH A270",
+        "HOH A271",
+        "HOH A272",
+        "HOH A273",
+        "HOH A274"
+      ]
+    },
+    {
+      "code": "METAL_PRESENT",
+      "severity": "medium",
+      "message": "Metal coordination and charge treatment should be documented.",
+      "count": 2,
+      "examples": [
+        "CA CA A301",
+        "CA CA B301"
+      ]
+    }
+  ]
+}

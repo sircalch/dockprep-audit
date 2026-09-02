@@ -1,0 +1,38 @@
+{
+  "pdb_id": "3IBI",
+  "policy": "simplified_no_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "3IBI",
+    "ligand_heavy_atoms": 13,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      4.292,
+      4.955,
+      5.822,
+      5.858,
+      3.083,
+      2.205,
+      5.701,
+      2.948,
+      6.362
+    ],
+    "top_pose_rmsd_A": 4.292,
+    "best_pose_rmsd_A": 2.205,
+    "best_pose_rank": 6,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "none",
+    "bridging_waters_kept": 0,
+    "box": {
+      "center_x": -4.186615384615385,
+      "center_y": 3.7437692307692307,
+      "center_z": 15.02176923076923,
+      "size_x": 10.58333558365846,
+      "size_y": 10.58333558365846,
+      "size_z": 10.58333558365846,
+      "radius_of_gyration_A": 3.649
+    }
+  }
+}

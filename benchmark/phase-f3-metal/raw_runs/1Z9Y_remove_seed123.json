@@ -1,0 +1,46 @@
+{
+  "pdb_id": "1Z9Y",
+  "metal_policy": "remove",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1Z9Y",
+    "ligand_heavy_atoms": 21,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      1.367,
+      2.193,
+      2.373,
+      2.959,
+      5.909,
+      3.893,
+      4.029,
+      3.361,
+      5.856
+    ],
+    "top_pose_rmsd_A": 1.367,
+    "best_pose_rmsd_A": 1.367,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [
+      "A:9",
+      "A:76",
+      "A:159",
+      "A:165",
+      "A:172"
+    ],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 0,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "remove",
+    "box": {
+      "center_x": 16.538714285714285,
+      "center_y": 5.730476190476191,
+      "center_z": 14.777380952380952,
+      "size_x": 9.89278285265327,
+      "size_y": 9.89278285265327,
+      "size_z": 9.89278285265327,
+      "radius_of_gyration_A": 3.411
+    }
+  }
+}

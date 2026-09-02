@@ -1,0 +1,72 @@
+{
+  "schema_version": "0.1",
+  "tool": {
+    "name": "DockPrep Audit",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-08-23T00:42:13.062824+00:00",
+  "source": {
+    "path": "benchmark\\expansion-metal-batch4\\raw-pdb\\4OI5.pdb",
+    "format": "PDB",
+    "lines": 6811,
+    "atom_records": 3085
+  },
+  "summary": {
+    "status": "review_required",
+    "findings": 3,
+    "high": 1,
+    "medium": 2,
+    "low": 0
+  },
+  "findings": [
+    {
+      "code": "ALTLOC_PRESENT",
+      "severity": "high",
+      "message": "Alternate atom locations require a documented conformer-selection policy before docking.",
+      "count": 308,
+      "examples": [
+        "ARG E260",
+        "ASN E96",
+        "GLN E128",
+        "GLN E158",
+        "GLN E225",
+        "GLN E273",
+        "GLN E308",
+        "GLN E61",
+        "HOH E580",
+        "HOH E638"
+      ]
+    },
+    {
+      "code": "WATERS_PRESENT",
+      "severity": "medium",
+      "message": "Retaining or removing waters is protocol-dependent; record the decision.",
+      "count": 457,
+      "examples": [
+        "HOH E501",
+        "HOH E502",
+        "HOH E503",
+        "HOH E504",
+        "HOH E505",
+        "HOH E506",
+        "HOH E507",
+        "HOH E508",
+        "HOH E509",
+        "HOH E510"
+      ]
+    },
+    {
+      "code": "METAL_PRESENT",
+      "severity": "medium",
+      "message": "Metal coordination and charge treatment should be documented.",
+      "count": 5,
+      "examples": [
+        "CA CA E402",
+        "CA CA E403",
+        "CA CA E404",
+        "CA CA E405",
+        "ZN ZN E401"
+      ]
+    }
+  ]
+}

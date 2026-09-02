@@ -1,0 +1,40 @@
+{
+  "pdb_id": "1FCX",
+  "policy": "conservative_water",
+  "seed": 123,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1FCX",
+    "ligand_heavy_atoms": 35,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      7.59,
+      6.795,
+      2.718,
+      6.371,
+      6.447,
+      6.003,
+      5.941,
+      7.41,
+      7.315
+    ],
+    "top_pose_rmsd_A": 7.59,
+    "best_pose_rmsd_A": 2.718,
+    "best_pose_rank": 3,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 43.303200000000004,
+      "center_y": 26.250942857142856,
+      "center_z": 95.92874285714285,
+      "size_x": 17.11352415642729,
+      "size_y": 17.11352415642729,
+      "size_z": 17.11352415642729,
+      "radius_of_gyration_A": 5.901
+    }
+  }
+}

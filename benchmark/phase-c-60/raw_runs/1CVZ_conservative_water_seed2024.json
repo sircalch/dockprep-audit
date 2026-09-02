@@ -1,0 +1,37 @@
+{
+  "pdb_id": "1CVZ",
+  "policy": "conservative_water",
+  "seed": 2024,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1CVZ",
+    "ligand_heavy_atoms": 30,
+    "n_poses": 8,
+    "rmsd_by_rank_A": [
+      10.999,
+      1.862,
+      11.381,
+      10.829,
+      10.678,
+      2.59,
+      3.936,
+      11.436
+    ],
+    "top_pose_rmsd_A": 10.999,
+    "best_pose_rmsd_A": 1.862,
+    "best_pose_rank": 2,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "box": {
+      "center_x": 19.4689,
+      "center_y": 11.1931,
+      "center_z": 18.971166666666665,
+      "size_x": 16.62168210285957,
+      "size_y": 16.62168210285957,
+      "size_z": 16.62168210285957,
+      "radius_of_gyration_A": 5.732
+    }
+  }
+}

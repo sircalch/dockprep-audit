@@ -1,0 +1,40 @@
+{
+  "pdb_id": "1WBK",
+  "policy": "conservative_oriented",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "1WBK",
+    "ligand_heavy_atoms": 45,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      10.406,
+      10.819,
+      0.425,
+      3.78,
+      2.039,
+      5.737,
+      10.307,
+      4.366,
+      9.488
+    ],
+    "top_pose_rmsd_A": 10.406,
+    "best_pose_rmsd_A": 0.425,
+    "best_pose_rank": 3,
+    "outcome": "scoring_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative_oriented",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": 13.47322222222222,
+      "center_y": 22.789911111111113,
+      "center_z": 5.376955555555555,
+      "size_x": 15.932208139958597,
+      "size_y": 15.932208139958597,
+      "size_z": 15.932208139958597,
+      "radius_of_gyration_A": 5.494
+    }
+  }
+}

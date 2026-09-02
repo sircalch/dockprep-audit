@@ -1,0 +1,14 @@
+[
+  {
+    "chain": "A",
+    "resseq": "175",
+    "resname": "ASP",
+    "occupancies": {
+      "A": 0.6,
+      "B": 0.4
+    },
+    "chosen_altloc": "A",
+    "basis": "occupancy",
+    "policy": "highest_occupancy"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "schema_version": "0.1",
+  "tool": {
+    "name": "DockPrep Audit",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-08-22T22:04:29.376565+00:00",
+  "source": {
+    "path": "benchmark\\expansion-batch2\\raw-pdb\\1BD8.pdb",
+    "format": "PDB",
+    "lines": 1769,
+    "atom_records": 1363
+  },
+  "summary": {
+    "status": "review_recommended",
+    "findings": 1,
+    "high": 0,
+    "medium": 1,
+    "low": 0
+  },
+  "findings": [
+    {
+      "code": "WATERS_PRESENT",
+      "severity": "medium",
+      "message": "Retaining or removing waters is protocol-dependent; record the decision.",
+      "count": 195,
+      "examples": [
+        "HOH A163",
+        "HOH A164",
+        "HOH A165",
+        "HOH A166",
+        "HOH A167",
+        "HOH A168",
+        "HOH A169",
+        "HOH A170",
+        "HOH A171",
+        "HOH A172"
+      ]
+    }
+  ]
+}

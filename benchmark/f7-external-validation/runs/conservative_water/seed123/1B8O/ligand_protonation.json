@@ -1,0 +1,19 @@
+{
+  "input_smiles": "OC1C(NC(CO)C1O)c1c[NH]c2c1N=CNC2=O",
+  "ph": 7.4,
+  "variants": [
+    "O=c1[nH]cnc2c(C3NC(CO)C(O)C3O)c[nH]c12",
+    "O=c1[n-]cnc2c(C3NC(CO)C(O)C3O)c[nH]c12",
+    "O=c1[n-]cnc2c(C3[NH2+]C(CO)C(O)C3O)c[nH]c12",
+    "O=c1[nH]cnc2c(C3[NH2+]C(CO)C(O)C3O)c[nH]c12"
+  ],
+  "basis": "multiple_variants_tried_in_order",
+  "attempts": [
+    {
+      "smiles": "O=c1[nH]cnc2c(C3NC(CO)C(O)C3O)c[nH]c12",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "O=c1[nH]cnc2c(C3NC(CO)C(O)C3O)c[nH]c12"
+}

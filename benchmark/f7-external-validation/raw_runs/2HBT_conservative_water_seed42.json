@@ -1,0 +1,38 @@
+{
+  "pdb_id": "2HBT",
+  "policy": "conservative_water",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "2HBT",
+    "ligand_heavy_atoms": 19,
+    "n_poses": 7,
+    "rmsd_by_rank_A": [
+      0.787,
+      3.101,
+      6.783,
+      2.617,
+      6.525,
+      6.49,
+      6.425
+    ],
+    "top_pose_rmsd_A": 0.787,
+    "best_pose_rmsd_A": 0.787,
+    "best_pose_rank": 1,
+    "outcome": "success",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "retain",
+    "box": {
+      "center_x": -40.75878947368421,
+      "center_y": -19.38721052631579,
+      "center_z": 3.842842105263158,
+      "size_x": 9.93169656483223,
+      "size_y": 9.93169656483223,
+      "size_z": 9.93169656483223,
+      "radius_of_gyration_A": 3.425
+    }
+  }
+}

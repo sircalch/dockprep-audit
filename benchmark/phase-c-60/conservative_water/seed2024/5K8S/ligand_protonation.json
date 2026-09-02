@@ -1,0 +1,16 @@
+{
+  "input_smiles": "O=P3(OCC4OC(n1c2ncnc(N)c2nc1)C(O)C4O3)O",
+  "ph": 7.4,
+  "variants": [
+    "Nc1ncnc2c1ncn2C1OC2COP(=O)([O-])OC2C1O"
+  ],
+  "basis": "only_variant",
+  "attempts": [
+    {
+      "smiles": "Nc1ncnc2c1ncn2C1OC2COP(=O)([O-])OC2C1O",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "chosen_smiles": "Nc1ncnc2c1ncn2C1OC2COP(=O)([O-])OC2C1O"
+}

@@ -1,0 +1,40 @@
+{
+  "pdb_id": "6ZR9",
+  "metal_policy": "remove",
+  "seed": 42,
+  "returncode": 0,
+  "result": {
+    "pdb_id": "6ZR9",
+    "ligand_heavy_atoms": 33,
+    "n_poses": 9,
+    "rmsd_by_rank_A": [
+      5.822,
+      6.294,
+      7.119,
+      7.367,
+      9.841,
+      11.466,
+      8.112,
+      10.173,
+      6.774
+    ],
+    "top_pose_rmsd_A": 5.822,
+    "best_pose_rmsd_A": 5.822,
+    "best_pose_rank": 1,
+    "outcome": "sampling_fail",
+    "receptor_residues_ignored": [],
+    "water_policy": "conservative",
+    "bridging_waters_kept": 1,
+    "altloc_policy": "highest_occupancy",
+    "metal_policy": "remove",
+    "box": {
+      "center_x": 20.209272727272726,
+      "center_y": 24.055303030303033,
+      "center_z": 2.7324545454545457,
+      "size_x": 16.114885149668787,
+      "size_y": 16.114885149668787,
+      "size_z": 16.114885149668787,
+      "radius_of_gyration_A": 5.557
+    }
+  }
+}
