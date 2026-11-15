@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use DockPrep Audit in your work, please cite it using the metadata below."
+title: "DockPrep Audit"
+abstract: "DockPrep Audit is an open-source, local-first quality-control tool that audits PDB receptor structures for reproducible molecular docking preparation. It does not alter a structure or claim that it is biologically correct; it makes preparation choices visible before a docking run."
+type: software
+version: 0.2.0
+license: MIT
+repository-code: "https://github.com/sircalch/dockprep-audit"
+keywords:
+  - molecular docking
+  - reproducibility
+  - PDB
+  - structure preparation
+authors:
+  - family-names: "Monreal Hernández"
+    given-names: "Andrés"
+    orcid: "https://orcid.org/0009-0009-1207-8597"
